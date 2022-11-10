@@ -1,0 +1,20 @@
+name: Test
+
+on:
+  workflow_dispatch
+
+jobs:
+  readrss:
+    runs-on: ubuntu
+    steps:
+      - name: Read Rss 1
+        id: read-rss-1
+        uses: ./.github/actions/readrss
+        env:
+          feedlink: https://woivre.fr/feed.xml
+      
+      - name: Read Rss 2
+        id: read-rss-2
+        uses: ./.github/actions/readrss
+        env:
+          feedlink: https://azurecomcdn.azureedge.net/en-us/blog/topics/announcements/feed/
