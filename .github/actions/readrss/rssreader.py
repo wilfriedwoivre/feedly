@@ -2,8 +2,8 @@ import feedparser
 import os
 
 def test():
-    feedparser.parse(os.getenv("feedlink"))
-
+    data = feedparser.parse(os.getenv("feedlink"))
+    print(data)
 
 def run():
     test()
