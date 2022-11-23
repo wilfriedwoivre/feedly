@@ -1,2 +1,2 @@
 feedparser
-parse
+python-dateutil
