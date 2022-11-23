@@ -47,6 +47,7 @@ def run():
     
     if validItems.__len__() > 0:
         existingItem = []
+        print(os.path.exists(f'items/{feedName}.csv')) 
 
         if not os.path.exists(f'items/{feedName}.csv'):
             with open(f'items/{feedName}.csv', 'w', newline='',  encoding='utf-8') as file:
