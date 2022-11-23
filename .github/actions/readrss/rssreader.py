@@ -50,6 +50,7 @@ def run():
         print(os.path.exists(f'items/{feedName}.csv')) 
 
         if not os.path.exists(f'items/{feedName}.csv'):
+            print(f'Create file for {FeedName}) 
             with open(f'items/{feedName}.csv', 'x', newline='',  encoding='utf-8') as file:
                 csvWriter = csv.writer(file, delimiter=',')
                 headers = ["Title", "Link", "PublishedDate", "Publish", "Ignore", "IsPublished"]
