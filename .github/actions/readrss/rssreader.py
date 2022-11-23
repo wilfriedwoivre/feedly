@@ -22,6 +22,10 @@ class FeedItem:
 
     def __iter__(self):
         return self
+    
+    def __eq__(self, __o: object) -> bool:
+        if isinstance(__o, FeedItem):
+            return self.publishedDate == __o.publishedDate
 
     def writeRow(self):
         return [self.title, self.link, self.publishedDate, self.publish, self.ignore, self.isPublished]
@@ -29,6 +33,7 @@ class FeedItem:
 def run():
     feedName = os.getenv("FeedName")
     feedLink = os.getenv("FeedLink")
+    autoPublish = bool(os.getenv("AutoPublish"))
 
     feedData = feedparser.parse(feedLink)
 
@@ -36,22 +41,34 @@ def run():
     for item in feedData.entries:
         publishedDate = parse(item.published)
 
-        if publishedDate.date() > (date.today() - timedelta(days = 60)):
-            validItems.append(FeedItem(item.title, item.links[0].href, item.published, False, False, False))
+        if publishedDate.date() > (date.today() - timedelta(days = 7)):
+            validItems.append(FeedItem(item.title, item.links[0].href, item.published, autoPublish, False, False))
 
-    print(validItems)
-
+    
     if validItems.__len__() > 0:
-        with open(f'items/{feedName}.csv', 'w', newline='',  encoding='utf-8') as file:
+        existingItem = []
+
+        if not os.path.exists(f'items/{feedName}.csv'):
+            with open(f'items/{feedName}.csv', 'w', newline='',  encoding='utf-8') as file:
+                csvWriter = csv.writer(file, delimiter=',')
+                headers = ["Title", "Link", "PublishedDate", "Publish", "Ignore", "IsPublished"]
+                csvWriter.writerow(headers)
+            
+
+        with open(f'items/{feedName}.csv', encoding='utf-8') as file:
+            csvReader = csv.reader(file, delimiter=',')
+            # Skip header
+            next(csvReader, None)
+            for row in csvReader:
+                existingItem.append(FeedItem(row[0], row[1], row[2], row[3], row[4], row[5]))
+        
+        with open(f'items/{feedName}.csv', 'a+', newline='',  encoding='utf-8') as file:
             csvWriter = csv.writer(file, delimiter=',')
-            headers = ["Title", "Link", "PublishedDate", "Publish", "Ignore", "IsPublished"]
-            csvWriter.writerow(headers)
             for item in validItems:
-                csvWriter.writerow(item.writeRow())
+                if not any(item for e in existingItem):
+                    csvWriter.writerow(item.writeRow())
 
         
-
-
 if __name__ == "__main__":
     if hasattr(ssl, '_create_unverified_context'):
         ssl._create_default_https_context = ssl._create_unverified_context

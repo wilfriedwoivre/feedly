@@ -1,22 +1,46 @@
-name: Test
+name: Read RSS
 
 on:
   workflow_dispatch
 
 jobs:
-  readrss:
+  generate-matrix:
     runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.matrix-builder.outputs.matrix }}
     steps:
-      - uses: actions/checkout@v3
+    - uses: actions/checkout@v3
 
-      - name: Read Rss 1
-        id: read-rss-1
-        uses: ./.github/actions/readrss
-        env:
-          feedlink: https://woivre.fr/feed.xml
-      
-      - name: Read Rss 2
-        id: read-rss-2
-        uses: ./.github/actions/readrss
-        env:
-          feedlink: https://azurecomcdn.azureedge.net/en-us/blog/topics/announcements/feed/
+    - name: matrix-builder
+      id: matrix-builder
+      uses: ./.github/actions/build-matrix
+
+  read-rss:
+    needs:
+      - generate-matrix
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      max-parallel: 1
+      matrix: ${{ fromJson(needs.generate-matrix.outputs.matrix) }}
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: read-rss
+      id: read-rss
+      uses: ./.github/actions/readrss
+      env:
+        FeedName: ${{ matrix.FeedName }}
+        FeedLink: ${{ matrix.FeedLink }}
+        AutoPublish: ${{ matrix.AutoPublish }}
+
+    - name: push-update
+      run: |
+        ls -R
+        git config --global user.name 'Gitub Action Bot'
+        git config --global user.email 'wilfried.woivre@users.noreply.github.com'
+        git add .
+        git diff --quiet && git diff --staged --quiet || git commit -am "Read RSS items"
+        git pull --rebase
+        git push
