@@ -30,10 +30,23 @@ class FeedItem:
     def writeRow(self):
         return [self.title, self.link, self.publishedDate, self.publish, self.ignore, self.isPublished]
 
+def to_bool(value: str):
+    valid = {'true': True, '1': True, 'false': False, '0': False }   
+
+    if isinstance(value, bool):
+        return value
+
+    lower_value = value.lower()
+    if lower_value in valid:
+        return valid[lower_value]
+    else:
+        raise ValueError('invalid literal for boolean: "%s"' % value)
+
+
 def run():
     feedName = os.getenv("FeedName")
     feedLink = os.getenv("FeedLink")
-    autoPublish = bool(os.getenv("AutoPublish"))
+    autoPublish = to_bool(os.getenv("AutoPublish"))
 
     feedData = feedparser.parse(feedLink)
 
