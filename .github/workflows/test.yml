@@ -16,6 +16,9 @@ jobs:
       id: matrix-builder
       uses: ./.github/actions/build-matrix
 
+    - name: debug
+      run: cat $GITHUB_OUTPUT
+
   test:
     needs:
       - generate-matrix
