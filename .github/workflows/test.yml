@@ -16,21 +16,29 @@ jobs:
       id: matrix-builder
       uses: ./.github/actions/build-matrix
 
-    - name: debug
-      run: cat $GITHUB_OUTPUT
 
-  test:
+  debug:
     needs:
       - generate-matrix
     runs-on: ubuntu-latest
-    strategy:
-      fail-fast: false
-      matrix: ${{ fromJson(needs.generate-matrix.outputs.matrix) }}
-
     steps:
       - name: debug
-        run: echo $FeedName ($FeedLink) $AutoPublish
+        echo: echo $Test
         env:
-          FeedName: ${{ matrix.FeedName }}
-          FeedLink: ${{ matrix.FeedLink }}
-          AutoPublish: ${{ matrix.AutoPublish }}
+          Test: needs.generate-matrix.outputs.matrix
+
+  # test:
+  #   needs:
+  #     - generate-matrix
+  #   runs-on: ubuntu-latest
+  #   strategy:
+  #     fail-fast: false
+  #     matrix: ${{ fromJson(needs.generate-matrix.outputs.matrix) }}
+
+  #   steps:
+  #     - name: debug
+  #       run: echo $FeedName ($FeedLink) $AutoPublish
+  #       env:
+  #         FeedName: ${{ matrix.FeedName }}
+  #         FeedLink: ${{ matrix.FeedLink }}
+  #         AutoPublish: ${{ matrix.AutoPublish }}
