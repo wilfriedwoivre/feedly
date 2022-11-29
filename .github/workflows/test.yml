@@ -38,7 +38,7 @@ jobs:
 
     steps:
       - name: debug
-        run: echo $FeedName ($FeedLink) $AutoPublish
+        run: echo $FeedName $FeedLink $AutoPublish
         env:
           FeedName: ${{ matrix.FeedName }}
           FeedLink: ${{ matrix.FeedLink }}
