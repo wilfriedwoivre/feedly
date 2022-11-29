@@ -16,8 +16,8 @@ jobs:
       run: echo $GITHUB_OUTPUT
 
     - name: matrix-builder
-    id: matrix-builder
-    uses: ./.github/actions/build-matrix
+      id: matrix-builder
+      uses: ./.github/actions/build-matrix
 
     - name: debug post
       run: cat $GITHUB_OUTPUT
