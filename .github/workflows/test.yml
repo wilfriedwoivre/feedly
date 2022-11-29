@@ -21,12 +21,12 @@ jobs:
     needs:
       - generate-matrix
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: debug
         run: echo $Test
         env:
-          Test: needs.generate-matrix.outputs.matrix
+          Test: ${{ needs.generate-matrix.outputs.matrix }}
 
   # test:
   #   needs:
