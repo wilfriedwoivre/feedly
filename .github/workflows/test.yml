@@ -28,18 +28,18 @@ jobs:
         env:
           Test: ${{ needs.generate-matrix.outputs.matrix }}
 
-  # test:
-  #   needs:
-  #     - generate-matrix
-  #   runs-on: ubuntu-latest
-  #   strategy:
-  #     fail-fast: false
-  #     matrix: ${{ fromJson(needs.generate-matrix.outputs.matrix) }}
+  test:
+    needs:
+      - generate-matrix
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix: ${{ fromJson(needs.generate-matrix.outputs.matrix) }}
 
-  #   steps:
-  #     - name: debug
-  #       run: echo $FeedName ($FeedLink) $AutoPublish
-  #       env:
-  #         FeedName: ${{ matrix.FeedName }}
-  #         FeedLink: ${{ matrix.FeedLink }}
-  #         AutoPublish: ${{ matrix.AutoPublish }}
+    steps:
+      - name: debug
+        run: echo $FeedName ($FeedLink) $AutoPublish
+        env:
+          FeedName: ${{ matrix.FeedName }}
+          FeedLink: ${{ matrix.FeedLink }}
+          AutoPublish: ${{ matrix.AutoPublish }}
