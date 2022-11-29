@@ -21,7 +21,7 @@ class FeedSource:
 
 def run():
 
-    outputFilePath = os.getenv("GITHUB_OUTPUT")
+    outputFilePath = os.getenv("outputFilePath")
 
     sources = []
     with open(f'sources.csv', encoding='utf-8') as file:

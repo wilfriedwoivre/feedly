@@ -18,6 +18,8 @@ jobs:
     - name: matrix-builder
       id: matrix-builder
       uses: ./.github/actions/build-matrix
+      env:
+        outputFilePath: $GITHUB_OUTPUT
 
     - name: debug post
       run: cat $GITHUB_OUTPUT
