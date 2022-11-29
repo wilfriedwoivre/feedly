@@ -39,9 +39,7 @@ def run():
     matrixOutput = matrixOutput[:-1]
     matrixOutput += "]}"
     
-    print(outputFilePath)
-    with open(outputFilePath, 'a+', newline='',  encoding='utf-8') as file:
-        file.write(matrixOutput)
+    print(f'echo "{matrixOutput}" >> $GITHUB_OUTPUT')
         
 if __name__ == "__main__":
     run()
