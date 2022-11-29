@@ -23,7 +23,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: debug
-        echo: echo $Test
+        run: echo $Test
         env:
           Test: needs.generate-matrix.outputs.matrix
 
