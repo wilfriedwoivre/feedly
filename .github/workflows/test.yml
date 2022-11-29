@@ -7,11 +7,8 @@ on:
 jobs:
   generate-matrix:
     runs-on: ubuntu-latest
-    outputs:
-      matrix: ${{ steps.matrix-builder.outputs.matrix }}
     steps:
     - uses: actions/checkout@v3
 
     - name: debug
-    - run: $GITHUB_OUTPUT
-    
+    - run: echo $GITHUB_OUTPUT
