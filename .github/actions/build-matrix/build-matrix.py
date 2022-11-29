@@ -1,4 +1,5 @@
 import csv
+import os
 
 class FeedSource:
     def __init__(self, siteName: str, link: str, type: str, isActive: bool, autoPublish: bool, siteLink: str):
@@ -20,6 +21,8 @@ class FeedSource:
 
 def run():
 
+    outputFilePath = os.getenv("GITHUB_OUTPUT")
+
     sources = []
     with open(f'sources.csv', encoding='utf-8') as file:
         csvReader = csv.reader(file, delimiter=',')
@@ -28,14 +31,16 @@ def run():
         for item in csvReader:
             sources.append(FeedSource(item[0], item[1], item[2], item[3], item[4], item[5]))
 
-    matrixOutput =  "::set-output name=matrix::{\"include\":["
+    matrixOutput =  "name=matrix::{\"include\":["
     
     for item in sources:
         matrixOutput += "{\"FeedName\":\""+item.siteName+"\", \"FeedLink\":\""+item.link+"\", \"AutoPublish\":\""+item.autoPublish+"\"},"
 
     matrixOutput = matrixOutput[:-1]
     matrixOutput += "]}"
-    print(matrixOutput)
+    
+    with open(outputFilePath, 'a+', newline='',  encoding='utf-8') as file:
+        file.write(matrixOutput)
         
 if __name__ == "__main__":
     run()
