@@ -31,7 +31,7 @@ def run():
         for item in csvReader:
             sources.append(FeedSource(item[0], item[1], item[2], item[3], item[4], item[5]))
 
-    matrixOutput =  "name=matrix={\"include\":["
+    matrixOutput =  "matrix={\"include\":["
     
     for item in sources:
         matrixOutput += "{\"FeedName\":\""+item.siteName+"\", \"FeedLink\":\""+item.link+"\", \"AutoPublish\":\""+item.autoPublish+"\"},"
