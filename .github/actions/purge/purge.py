@@ -58,7 +58,7 @@ def run():
                     if publishedDate.date() > (date.today() - timedelta(days = 7)):
                         lines.append(row)
 
-        if lines.count == 1:
+        if len(lines) == 1:
             os.remove(f'items/{feedName}.csv')
         else:
             with open (f'items/{feedName}.csv', 'w') as writeFile:
