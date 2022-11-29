@@ -39,7 +39,8 @@ def run():
     matrixOutput = matrixOutput[:-1]
     matrixOutput += "]}"
     
-    print(f'echo "{matrixOutput}" >> $GITHUB_OUTPUT')
+    with open(os.environ["GITHUB_OUTPUT"], "a") as output:
+        output.write(f"{matrixOutput}\n")
         
 if __name__ == "__main__":
     run()
