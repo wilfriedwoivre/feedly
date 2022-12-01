@@ -1,0 +1,9 @@
+- name: triage
+  description: New RSS item to validate
+  color: 0000ff
+- name: publish
+  description: Valid publication on social networks
+  color: 458b00
+- name: ignore
+  description: Ignore this RSS item
+  color: ff0000
