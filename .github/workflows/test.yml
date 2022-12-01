@@ -16,7 +16,6 @@ jobs:
       id: matrix-builder
       uses: ./.github/actions/build-matrix
 
-
   debug:
     needs:
       - generate-matrix
