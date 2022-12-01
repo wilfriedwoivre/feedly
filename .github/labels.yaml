@@ -5,5 +5,5 @@
   description: Valid publication on social networks
   color: 458b00
 - name: ignore
-  description: Ignore this RSS item
+  description: Ignore this publication
   color: ff0000
