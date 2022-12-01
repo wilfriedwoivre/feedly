@@ -4,6 +4,7 @@ import csv
 import ssl
 from dateutil.parser import parse
 from datetime import *
+import CaseInsensitiveDict
 import requests
 import json
 
