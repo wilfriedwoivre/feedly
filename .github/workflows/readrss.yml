@@ -37,6 +37,8 @@ jobs:
         FeedName: ${{ matrix.FeedName }}
         FeedLink: ${{ matrix.FeedLink }}
         AutoPublish: ${{ matrix.AutoPublish }}
+        GithubRepository: ${{ github.repository }}
+        GithubToken: ${{ secrets.GITHUB_TOKEN }}
 
     - name: push-update
       run: |

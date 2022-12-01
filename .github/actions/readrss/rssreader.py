@@ -4,6 +4,8 @@ import csv
 import ssl
 from dateutil.parser import parse
 from datetime import *
+import requests
+import json
 
 class FeedItem:
     def __init__(self, title: str, link: str, publishedDate: str, publish: bool, ignore: bool, isPublished: bool):
@@ -47,6 +49,8 @@ def run():
     feedName = os.getenv("FeedName")
     feedLink = os.getenv("FeedLink")
     autoPublish = to_bool(os.getenv("AutoPublish"))
+    repository = os.getenv("GithubRepository")
+    githubToken = os.getenv("GithubToken")
 
     feedData = feedparser.parse(feedLink)
 
@@ -82,6 +86,11 @@ def run():
             for item in validItems:
                 if not any(item for e in existingItem):
                     csvWriter.writerow(item.writeRow())
+                    headers = CaseInsensitiveDict()
+                    headers["Accept"] = "application/json"
+                    headers["Authorization"] = f"Bearer {githubToken}"
+                    r = requests.post(f'https://api.github.com/repos/{repository}/issues', json={"title": item.title, "body": json.dumps({ "link": item.link }), "labels": ["triage"]}, headers=headers)
+
 
         
 if __name__ == "__main__":
