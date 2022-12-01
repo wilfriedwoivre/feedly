@@ -4,7 +4,6 @@ import csv
 import ssl
 from dateutil.parser import parse
 from datetime import *
-import CaseInsensitiveDict
 import requests
 import json
 
@@ -87,9 +86,10 @@ def run():
             for item in validItems:
                 if not any(item for e in existingItem):
                     csvWriter.writerow(item.writeRow())
-                    headers = CaseInsensitiveDict()
-                    headers["Accept"] = "application/json"
-                    headers["Authorization"] = f"Bearer {githubToken}"
+                    headers = {
+                        'Accept': 'application/json',
+                        'Authorization': f'Bearer {githubToken}'
+                    }
                     r = requests.post(f'https://api.github.com/repos/{repository}/issues', json={"title": item.title, "body": json.dumps({ "link": item.link }), "labels": ["triage"]}, headers=headers)
 
 

@@ -1,4 +1,3 @@
 feedparser
 python-dateutil
 requests
-CaseInsensitiveDict
