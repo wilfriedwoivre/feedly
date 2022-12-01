@@ -91,7 +91,7 @@ def run():
                         'Authorization': f'Bearer {githubToken}'
                     }
                     print(item.link)
-                    r = requests.post(f'https://api.github.com/repos/{repository}/issues', json={"title": item.title, "body": f'item.link', "labels": ["triage"]}, headers=headers)
+                    r = requests.post(f'https://api.github.com/repos/{repository}/issues', json={"title": item.title, "body": item.link, "labels": ["triage"]}, headers=headers)
 
 
         
