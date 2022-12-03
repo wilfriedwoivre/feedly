@@ -92,7 +92,7 @@ def run():
             for item in validItems:
                 exist = False
                 for exItem in existingItem:
-                    if exItem.publishedDate == item.publishedDate
+                    if exItem.publishedDate == item.publishedDate:
                         exist = True
                 if not exist:
                     csvWriter.writerow(item.writeRow())
