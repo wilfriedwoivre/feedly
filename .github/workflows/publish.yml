@@ -25,12 +25,3 @@ jobs:
         TwitterAccessTokenSecret: ${{ secrets.TWITTERACCESSTOKENSECRET }}
 
 
-    - name: push-update
-      run: |
-        ls -R
-        git config --global user.name 'Gitub Action Bot'
-        git config --global user.email 'wilfried.woivre@users.noreply.github.com'
-        git add .
-        git diff --quiet && git diff --staged --quiet || git commit -am "Read RSS items"
-        git pull --rebase
-        git push
