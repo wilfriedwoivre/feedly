@@ -90,7 +90,11 @@ def run():
         with open(f'items/{feedName}.csv', 'a+', newline='',  encoding='utf-8') as file:
             csvWriter = csv.writer(file, delimiter=',')
             for item in validItems:
-                if not any(item for e in existingItem):
+                exist = False
+                for exItem in existingItem:
+                    if exItem.publishedDate == item.publishedDate
+                        exist = True
+                if not exist:
                     csvWriter.writerow(item.writeRow())
                     headers = {
                         'Accept': 'application/json',
