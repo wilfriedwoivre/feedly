@@ -7,7 +7,7 @@ Tools to read RSS feed to automate learning
 - [x] Read RSS feeds with multiple format (atom, rss)
 - [x] Store data inside Github
 - [x] Purge previous data
-- [ ] Implement publish validation
-- [ ] Send an email to manager for publish validation
+- [x] Implement publish validation
+- [x] Send an email to manager for publish validation -> Managed by email from Github
 - [ ] Publish to twitter
 - [ ] Publish to linkedin

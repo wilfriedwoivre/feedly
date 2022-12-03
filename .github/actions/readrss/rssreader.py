@@ -61,6 +61,8 @@ def run():
         if publishedDate.date() > (date.today() - timedelta(days = 7)):
             validItems.append(FeedItem(item.title, item.links[0].href, item.published, autoPublish, False, False))
 
+    print("Valid Items")
+    print(validItems)
     
     if validItems.__len__() > 0:
         existingItem = []
@@ -72,7 +74,8 @@ def run():
                 csvWriter = csv.writer(file, delimiter=',')
                 headers = ["Title", "Link", "PublishedDate", "Publish", "Ignore", "IsPublished"]
                 csvWriter.writerow(headers)
-            
+        
+         
 
         with open(f'items/{feedName}.csv', encoding='utf-8') as file:
             csvReader = csv.reader(file, delimiter=',')
@@ -80,6 +83,9 @@ def run():
             next(csvReader, None)
             for row in csvReader:
                 existingItem.append(FeedItem(row[0], row[1], row[2], row[3], row[4], row[5]))
+        
+        print("Existing Items")
+        print(existingItem)
         
         with open(f'items/{feedName}.csv', 'a+', newline='',  encoding='utf-8') as file:
             csvWriter = csv.writer(file, delimiter=',')
