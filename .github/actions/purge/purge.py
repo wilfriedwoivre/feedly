@@ -4,16 +4,14 @@ from dateutil.parser import parse
 from datetime import *
 
 class FeedItem:
-    def __init__(self, title: str, link: str, publishedDate: str, publish: bool, ignore: bool, isPublished: bool):
+    def __init__(self, title: str, link: str, publishedDate: str):
         self.title = title
         self.link = link
         self.publishedDate = publishedDate
-        self.publish = publish
-        self.ignore = ignore
-        self.isPublished = isPublished
+
     
     def __str__(self):
-        return f'{self.title}({self.link}) - ToPublish : {self.publish} - ToIgnore : {self.ignore} - Published : {self.isPublished}'
+        return f'{self.title}({self.link})'
 
     def __repr__(self):
         return str(self)
@@ -26,7 +24,7 @@ class FeedItem:
             return self.publishedDate == __o.publishedDate
 
     def writeRow(self):
-        return [self.title, self.link, self.publishedDate, self.publish, self.ignore, self.isPublished]
+        return [self.title, self.link, self.publishedDate]
 
 def to_bool(value: str):
     valid = {'true': True, '1': True, 'false': False, '0': False }   

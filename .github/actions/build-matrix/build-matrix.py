@@ -19,10 +19,19 @@ class FeedSource:
     def __iter__(self):
         return self
 
+def to_bool(value: str):
+    valid = {'true': True, '1': True, 'false': False, '0': False }   
+
+    if isinstance(value, bool):
+        return value
+
+    lower_value = value.lower()
+    if lower_value in valid:
+        return valid[lower_value]
+    else:
+        raise ValueError('invalid literal for boolean: "%s"' % value)
+
 def run():
-
-    outputFilePath = os.getenv("outputFilePath")
-
     sources = []
     with open(f'sources.csv', encoding='utf-8') as file:
         csvReader = csv.reader(file, delimiter=',')
@@ -34,7 +43,8 @@ def run():
     matrixOutput =  "matrix={\"include\":["
     
     for item in sources:
-        matrixOutput += "{\"FeedName\":\""+item.siteName+"\", \"FeedLink\":\""+item.link+"\", \"AutoPublish\":\""+item.autoPublish+"\"},"
+        if (to_bool(item.isActive)):
+            matrixOutput += "{\"FeedName\":\""+item.siteName+"\", \"FeedLink\":\""+item.link+"\", \"AutoPublish\":\""+item.autoPublish+"\"},"
 
     matrixOutput = matrixOutput[:-1]
     matrixOutput += "]}"

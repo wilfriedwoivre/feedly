@@ -8,16 +8,13 @@ import requests
 import json
 
 class FeedItem:
-    def __init__(self, title: str, link: str, publishedDate: str, publish: bool, ignore: bool, isPublished: bool):
+    def __init__(self, title: str, link: str, publishedDate: str):
         self.title = title
         self.link = link
         self.publishedDate = publishedDate
-        self.publish = publish
-        self.ignore = ignore
-        self.isPublished = isPublished
     
     def __str__(self):
-        return f'{self.title}({self.link}) - ToPublish : {self.publish} - ToIgnore : {self.ignore} - Published : {self.isPublished}'
+        return f'{self.title}({self.link})'
 
     def __repr__(self):
         return str(self)
@@ -30,7 +27,7 @@ class FeedItem:
             return self.publishedDate == __o.publishedDate
 
     def writeRow(self):
-        return [self.title, self.link, self.publishedDate, self.publish, self.ignore, self.isPublished]
+        return [self.title, self.link, self.publishedDate]
 
 def to_bool(value: str):
     valid = {'true': True, '1': True, 'false': False, '0': False }   
@@ -48,7 +45,6 @@ def to_bool(value: str):
 def run():
     feedName = os.getenv("FeedName")
     feedLink = os.getenv("FeedLink")
-    autoPublish = to_bool(os.getenv("AutoPublish"))
     repository = os.getenv("GithubRepository")
     githubToken = os.getenv("GithubToken")
 
@@ -59,7 +55,7 @@ def run():
         publishedDate = parse(item.published)
 
         if publishedDate.date() > (date.today() - timedelta(days = 7)):
-            validItems.append(FeedItem(item.title, item.links[0].href, item.published, autoPublish, False, False))
+            validItems.append(FeedItem(item.title, item.links[0].href, item.published))
 
     print("Valid Items")
     print(validItems)
@@ -72,7 +68,7 @@ def run():
             print(f'Create file for {feedName}') 
             with open(f'items/{feedName}.csv', 'x', newline='',  encoding='utf-8') as file:
                 csvWriter = csv.writer(file, delimiter=',')
-                headers = ["Title", "Link", "PublishedDate", "Publish", "Ignore", "IsPublished"]
+                headers = ["Title", "Link", "PublishedDate"]
                 csvWriter.writerow(headers)
         
          
