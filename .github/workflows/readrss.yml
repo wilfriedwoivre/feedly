@@ -36,6 +36,7 @@ jobs:
       env:
         FeedName: ${{ matrix.FeedName }}
         FeedLink: ${{ matrix.FeedLink }}
+        FeedType: ${{ matrix.FeedType }}
         AutoPublish: ${{ matrix.AutoPublish }}
         GithubRepository: ${{ github.repository }}
         GithubToken: ${{ secrets.GITHUB_TOKEN }}

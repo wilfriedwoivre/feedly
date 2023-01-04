@@ -45,6 +45,7 @@ def to_bool(value: str):
 def run():
     feedName = os.getenv("FeedName")
     feedLink = os.getenv("FeedLink")
+    feedType = os.getenv("FeedType")
     repository = os.getenv("GithubRepository")
     githubToken = os.getenv("GithubToken")
 
@@ -52,10 +53,16 @@ def run():
 
     validItems =  []
     for item in feedData.entries:
-        publishedDate = parse(item.published)
+        if feedType == "rss":
+            publishedDate = parse(item.published)
 
-        if publishedDate.date() > (date.today() - timedelta(days = 7)):
-            validItems.append(FeedItem(item.title, item.links[0].href, item.published))
+            if publishedDate.date() > (date.today() - timedelta(days = 7)):
+                validItems.append(FeedItem(item.title, item.links[0].href, item.published))
+        elif feedType == "atom":
+            publishedDate = parse(item.updated)
+
+            if publishedDate.date() > (date.today() - timedelta(days = 7)):
+                validItems.append(FeedItem(item.title, item.links[0].href, item.updated))
 
     print("Valid Items")
     print(validItems)

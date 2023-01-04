@@ -44,7 +44,7 @@ def run():
     
     for item in sources:
         if (to_bool(item.isActive)):
-            matrixOutput += "{\"FeedName\":\""+item.siteName+"\", \"FeedLink\":\""+item.link+"\", \"AutoPublish\":\""+item.autoPublish+"\"},"
+            matrixOutput += "{\"FeedName\":\""+item.siteName+"\", \"FeedLink\":\""+item.link+"\", \"FeedType\":\""+item.type+"\", \"AutoPublish\":\""+item.autoPublish+"\"},"
 
     matrixOutput = matrixOutput[:-1]
     matrixOutput += "]}"
