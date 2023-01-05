@@ -46,6 +46,7 @@ def run():
     feedName = os.getenv("FeedName")
     feedLink = os.getenv("FeedLink")
     feedType = os.getenv("FeedType")
+    prefix = os.getenv("FeedPrefix")
     repository = os.getenv("GithubRepository")
     githubToken = os.getenv("GithubToken")
 
@@ -104,7 +105,10 @@ def run():
                         'Authorization': f'Bearer {githubToken}'
                     }
                     print(item.link)
-                    r = requests.post(f'https://api.github.com/repos/{repository}/issues', json={"title": item.title, "body": item.link, "labels": ["triage"]}, headers=headers)
+                    title = item.title
+                    if prefix != "":
+                        title = f'{prefix} - {item.title}'
+                    r = requests.post(f'https://api.github.com/repos/{repository}/issues', json={"title": title, "body": item.link, "labels": ["triage"]}, headers=headers)
 
 
         
