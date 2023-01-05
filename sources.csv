@@ -9,3 +9,4 @@
 "GithubAKS","https://github.com/azure/aks/releases.atom","atom","true","false","https://github.com/azure/aks/releases","Microsoft AKS Release"
 "Kubernetes","https://github.com/kubernetes/kubernetes/releases.atom","atom","true","false","https://github.com/kubernetes/kubernetes/releases",""
 "Bicep","https://github.com/Azure/bicep/releases.atom","atom","true","false","https://github.com/Azure/bicep/releases","Azure Bicep Release"
+"AzureCLI","https://github.com/Azure/azure-cli/releases.atom","atom","true","false","https://github.com/Azure/azure-cli/releases",""
