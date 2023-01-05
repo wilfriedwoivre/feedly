@@ -10,3 +10,4 @@
 "Kubernetes","https://github.com/kubernetes/kubernetes/releases.atom","atom","true","false","https://github.com/kubernetes/kubernetes/releases",""
 "Bicep","https://github.com/Azure/bicep/releases.atom","atom","true","false","https://github.com/Azure/bicep/releases","Azure Bicep Release"
 "AzureCLI","https://github.com/Azure/azure-cli/releases.atom","atom","true","false","https://github.com/Azure/azure-cli/releases",""
+"AzurePowershell","https://github.com/Azure/azure-powershell/releases.atom","atom","true","false","https://github.com/Azure/azure-powershell/releases","Release Azure Powershell"
