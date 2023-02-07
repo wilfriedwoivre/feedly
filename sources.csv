@@ -11,3 +11,4 @@
 "Bicep","https://github.com/Azure/bicep/releases.atom","atom","true","false","https://github.com/Azure/bicep/releases","Azure Bicep Release"
 "AzureCLI","https://github.com/Azure/azure-cli/releases.atom","atom","true","false","https://github.com/Azure/azure-cli/releases",""
 "AzurePowershell","https://github.com/Azure/azure-powershell/releases.atom","atom","true","false","https://github.com/Azure/azure-powershell/releases","Release Azure Powershell"
+"AzureToolsBlog","https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?tid=8910928764405820552&board=AzureToolsBlog&size=25","rss","true","false","https://techcommunity.microsoft.com/t5/azure-tools-blog/bg-p/AzureToolsBlog",""
