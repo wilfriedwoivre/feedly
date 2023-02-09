@@ -2,7 +2,7 @@ import csv
 import os
 
 class FeedSource:
-    def __init__(self, siteName: str, link: str, type: str, isActive: bool, autoPublish: bool, siteLink: str, prefix: str):
+    def __init__(self, siteName: str, link: str, type: str, isActive: bool, autoPublish: bool, siteLink: str, prefix: str, suffix: str):
         self.siteName = siteName
         self.link = link
         self.type = type
@@ -10,6 +10,7 @@ class FeedSource:
         self.isActive = isActive
         self.siteLink = siteLink
         self.prefix = prefix
+        self.suffix = suffix
     
     def __str__(self):
         return f'{self.siteName}({self.link}) - Type : {self.type} - AutoPublish : {self.autoPublish} - IsActive : {self.isActive}'
@@ -39,13 +40,13 @@ def run():
         # Skip header
         next(csvReader, None)
         for item in csvReader:
-            sources.append(FeedSource(item[0], item[1], item[2], item[3], item[4], item[5], item[6]))
+            sources.append(FeedSource(item[0], item[1], item[2], item[3], item[4], item[5], item[6], item[7]))
 
     matrixOutput =  "matrix={\"include\":["
     
     for item in sources:
         if (to_bool(item.isActive)):
-            matrixOutput += "{\"FeedName\":\""+item.siteName+"\", \"FeedLink\":\""+item.link+"\", \"FeedType\":\""+item.type+"\", \"Prefix\":\""+item.prefix+"\"},"
+            matrixOutput += "{\"FeedName\":\""+item.siteName+"\", \"FeedLink\":\""+item.link+"\", \"FeedType\":\""+item.type+"\", \"Prefix\":\""+item.prefix+"\", \"Suffix\":\""+item.suffix+"\"},"
 
     matrixOutput = matrixOutput[:-1]
     matrixOutput += "]}"
