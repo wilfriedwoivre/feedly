@@ -39,6 +39,7 @@ jobs:
         FeedType: ${{ matrix.FeedType }}
         AutoPublish: ${{ matrix.AutoPublish }}
         FeedPrefix: ${{ matrix.Prefix }}
+        FeedSuffix: ${{ matrix.Suffix }}
         GithubRepository: ${{ github.repository }}
         GithubToken: ${{ secrets.GITHUB_TOKEN }}
 
