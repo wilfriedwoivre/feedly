@@ -1,5 +1,5 @@
 "SiteName","FeedLink","FeedType","IsActive","AutoPublish","SiteLink","Prefix","Suffix"
-"AzureBlog","https://azurecomcdn.azureedge.net/en-us/blog/feed/","rss","true","false","https://azure.microsoft.com/en-us/blog/",""
+"AzureBlog","https://azurecomcdn.azureedge.net/en-us/blog/feed/","rss","true","false","https://azure.microsoft.com/en-us/blog/","","?WT.mc_id=AZ-MVP-4039694"
 "AzureUpdates","https://azurecomcdn.azureedge.net/en-us/updates/feed/","rss","true","false","https://azure.microsoft.com/en-us/updates/","","?WT.mc_id=AZ-MVP-4039694"
 "Azureannouncements","https://azurecomcdn.azureedge.net/en-us/blog/topics/announcements/feed/","rss","true","false","https://azure.microsoft.com/blog/","","?WT.mc_id=AZ-MVP-4039694"
 "EnglishBlog","https://woivre.com/feed.xml","atom","true","true","https://woivre.com","",""
