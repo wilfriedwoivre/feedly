@@ -6,3 +6,6 @@ Now Available: Azure Monitor Query client module for Go,https://azure.microsoft.
 General availability: Azure Data Explorer Dashboards,https://azure.microsoft.com/en-us/updates/adxdashboards/,"Tue, 21 Feb 2023 18:00:08 Z"
 Public Preview: Customer-managed keys for Azure NetApp Files volume encryption,https://azure.microsoft.com/en-us/updates/public-preview-data-encryption-at-rest-of-azure-netapp-files-volumes-with-customermanaged-keys-2/,"Tue, 21 Feb 2023 18:00:07 Z"
 Public preview: New General-Purpose VMs - Dlsv5 and Dldsv5,https://azure.microsoft.com/en-us/updates/public-preview-new-generalpurpose-vms-dlsv5-and-dldsv5/,"Mon, 20 Feb 2023 18:00:22 Z"
+GA: Create disks from CMK-encrypted snapshots across subscriptions and in the same tenant,https://azure.microsoft.com/en-us/updates/ga-create-disks-from-cmkencrypted-snapshots-across-subscriptions-and-in-the-same-tenant/,"Wed, 22 Feb 2023 18:00:31 Z"
+Public preview:  Azure Managed Lustre,https://azure.microsoft.com/en-us/updates/azure-managed-lustre-now-in-public-preview/,"Wed, 22 Feb 2023 18:00:24 Z"
+General availability: Azure Sphere OS version 23.02,https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-os-version-2302/,"Wed, 22 Feb 2023 18:00:23 Z"
