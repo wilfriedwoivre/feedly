@@ -9,3 +9,8 @@ Public preview: New General-Purpose VMs - Dlsv5 and Dldsv5,https://azure.microso
 GA: Create disks from CMK-encrypted snapshots across subscriptions and in the same tenant,https://azure.microsoft.com/en-us/updates/ga-create-disks-from-cmkencrypted-snapshots-across-subscriptions-and-in-the-same-tenant/,"Wed, 22 Feb 2023 18:00:31 Z"
 Public preview:  Azure Managed Lustre,https://azure.microsoft.com/en-us/updates/azure-managed-lustre-now-in-public-preview/,"Wed, 22 Feb 2023 18:00:24 Z"
 General availability: Azure Sphere OS version 23.02,https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-os-version-2302/,"Wed, 22 Feb 2023 18:00:23 Z"
+Public Preview: Azure NetApp Files volume user and group quotas,https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-volume-user-and-group-quotas/,"Thu, 23 Feb 2023 22:00:07 Z"
+Public Preview: Azure NetApp Files now support large volumes up to 500TiB in size,https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-now-support-large-volumes-up-to-500tib-in-size/,"Thu, 23 Feb 2023 18:00:35 Z"
+Public preview: Incremental snapshots for Premium SSD v2 Disk Storage,https://azure.microsoft.com/en-us/updates/public-preview-incremental-snapshots-for-premium-ssd-v2-disk-storage/,"Thu, 23 Feb 2023 18:00:31 Z"
+Generally Available: Azure Red Hat OpenShift in Qatar Central,https://azure.microsoft.com/en-us/updates/generally-available-azure-red-hat-openshift-in-qatar-central/,"Thu, 23 Feb 2023 18:00:29 Z"
+General availability: Stream Analytics no-code editor updates in Feb 2023,https://azure.microsoft.com/en-us/updates/general-availability-stream-analytics-nocode-editor-updates-in-feb-2023/,"Thu, 23 Feb 2023 18:00:05 Z"
