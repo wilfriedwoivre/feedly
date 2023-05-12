@@ -3,3 +3,7 @@ General availability: Inbound ICMPv4 pings are now supported on Azure Load Balan
 Generally available: Azure DNS Private Resolver is available in 8 additional regions,https://azure.microsoft.com/en-us/updates/generally-available-azure-dns-private-resolver-is-available-in-8-additional-regions/,"Mon, 08 May 2023 17:00:06 Z"
 Public preview: Always Serve for Azure Traffic Manager,https://azure.microsoft.com/en-us/updates/alwaysserve/,"Mon, 08 May 2023 16:00:06 Z"
 Preview: Automatic Scaling for App Service Web Apps,https://azure.microsoft.com/en-us/updates/preview-automatic-scaling-for-app-service-web-apps/,"Mon, 08 May 2023 16:00:05 Z"
+Generally available: Azure Bastion now support shareable links,https://azure.microsoft.com/en-us/updates/generally-available-azure-bastion-shareable-links/,"Wed, 10 May 2023 20:14:44 Z"
+General availability: Azure Sphere OS version 23.05 expected on May 24,https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-os-version-2305-expected-on-may-24/,"Tue, 09 May 2023 16:00:21 Z"
+Public Preview: App Service Minimum TLS Cipher Suite Now on Azure Portal,https://azure.microsoft.com/en-us/updates/app-service-min-tls-cipher-suite-preview/,"Tue, 09 May 2023 15:00:21 Z"
+Generalized Azure Compute Gallery custom image support in Update management center,https://azure.microsoft.com/en-us/updates/generalized-azure-compute-gallery-custom-image-support-in-update-management-center/,"Mon, 08 May 2023 17:00:00 Z"
