@@ -2,7 +2,7 @@ import os
 import ssl
 import requests
 import json
-import twitter
+import tweepy
 
 def run():
     repository = os.getenv("GithubRepository")
@@ -24,14 +24,17 @@ def run():
     for item in issues:
         issueNumber = item['number']
 
-        twitterApi = twitter.Api(consumer_key=twitterConsumerKey,
-                  consumer_secret=twitterConsumerSecret,
-                  access_token_key=twitterAccessTokenKey,
-                  access_token_secret=twitterAccessTokenSecret)
+        # Authenticate to Twitter
+        auth = tweepy.OAuthHandler(twitterConsumerKey, twitterConsumerSecret)
+        auth.set_access_token(twitterAccessTokenKey, twitterAccessTokenSecret)
+
+
+        # Create API object
+        twitterApi = tweepy.API(auth, wait_on_rate_limit=True, wait_on_rate_limit_notify=True)
 
         title = item['title']
         link = item['body']
-        twitterApi.PostUpdate(f'{title} {link}')
+        twitterApi.update_status(f'{title} {link}')
 
         requests.patch(f'https://api.github.com/repos/{repository}/issues/{issueNumber}', headers=headers, json={"state": "closed"})
         
