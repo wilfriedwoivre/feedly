@@ -30,7 +30,7 @@ def run():
 
 
         # Create API object
-        twitterApi = tweepy.API(auth, wait_on_rate_limit=True, wait_on_rate_limit_notify=True)
+        twitterApi = tweepy.API(auth, wait_on_rate_limit=True)
 
         title = item['title']
         link = item['body']
