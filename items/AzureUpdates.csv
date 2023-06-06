@@ -1,10 +1,4 @@
 Title,Link,PublishedDate
-"General availability: Azure Sphere version 23.05 is delayed, new OS will be issued to Retail Eval",https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-version-2305-is-delayed-new-os-will-be-issued-to-retail-eval/,"Tue, 30 May 2023 17:00:26 Z"
-General availability: NLog Sink for Azure Data Explorer,https://azure.microsoft.com/en-us/updates/general-availability-nlog-sink-for-azure-data-explorer-2/,"Tue, 30 May 2023 17:00:17 Z"
-Public Preview: Azure Data Explorer bindings for Azure Functions,https://azure.microsoft.com/en-us/updates/public-preview-azure-data-explorer-bindings-for-azure-functions/,"Tue, 30 May 2023 17:00:06 Z"
-Setting Up a CI/CD Pipeline with GitHub Actions for Stream Analytics Jobs,https://azure.microsoft.com/en-us/updates/setting-up-a-cicd-pipeline-with-github-actions-for-stream-analytics-jobs/,"Tue, 30 May 2023 16:00:17 Z"
-General availability: Azure CNI powered by Cilium,https://azure.microsoft.com/en-us/updates/azure-cni-powered-by-cilium/,"Tue, 30 May 2023 16:00:06 Z"
-General Availability: Isovalent Cilium Enterprise through Azure Marketplace,https://azure.microsoft.com/en-us/updates/general-availability-isovalent-cilium-enterprise-through-azure-marketplace/,"Tue, 30 May 2023 15:00:16 Z"
 Generally available: Azure Files scalability improvement for Azure Virtual Desktop and other workloads that open root directory handles,https://azure.microsoft.com/en-us/updates/generally-available-azure-files-scalability-improvement-for-azure-virtual-desktop-and-other-workloads/,"Wed, 31 May 2023 19:00:01 Z"
 Now Available: Resource-centric log queries in the Azure Monitor Query libraries,https://azure.microsoft.com/en-us/updates/resource-centric-log-queries/,"Wed, 31 May 2023 17:00:17 Z"
 Generally available: Zone Redundant Storage for Azure Disks is now available in more regions.,https://azure.microsoft.com/en-us/updates/generally-available-zone-redundant-storage-for-azure-disks-is-now-available-in-more-regions/,"Wed, 31 May 2023 17:00:03 Z"
