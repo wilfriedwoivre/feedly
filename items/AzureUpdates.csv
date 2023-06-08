@@ -1,12 +1,6 @@
 Title,Link,PublishedDate
-Generally available: Jobs API to support bulk import in Azure Digital Twins,https://azure.microsoft.com/en-us/updates/generally-available-jobs-api-to-support-bulk-import-in-azure-digital-twins/,"Thu, 01 Jun 2023 18:00:04 Z"
-Generally available: 8TB memory Mv2 Virtual Machine,https://azure.microsoft.com/en-us/updates/generally-available-8tb-memory-mv2-virtual-machine/,"Thu, 01 Jun 2023 18:00:04 Z"
-General availability: Azure Load Balancer per VM limit removal,https://azure.microsoft.com/en-us/updates/general-availability-azure-load-balancer-per-vm-limit-removal/,"Thu, 01 Jun 2023 16:00:04 Z"
-"Azure Support Plan Offer extended to December 31, 2023",https://azure.microsoft.com/en-us/updates/azure-support-plan-offer-extended-to-december-31-2023/,"Thu, 01 Jun 2023 16:00:03 Z"
-Public preview: Introducing NGads V620-series VMs optimized for cloud gaming,https://azure.microsoft.com/en-us/updates/public-preview-introducing-ngads-v620series-vms-optimized-for-cloud-gaming/,"Thu, 01 Jun 2023 23:00:00 Z"
 Generally available: Azure Data Explorer Kusto Emulator on Linux,https://azure.microsoft.com/en-us/updates/kusto-emulator-linux/,"Mon, 05 Jun 2023 17:00:01 Z"
 Public Preview: Azure Chaos Studio is now available in West US 2 region,https://azure.microsoft.com/en-us/updates/public-preview-azure-chaos-studio-is-now-available-in-west-us-2-region/,"Mon, 05 Jun 2023 16:00:00 Z"
-General Availability: Isovalent Cilium Enterprise through Azure Marketplace,https://azure.microsoft.com/en-us/updates/general-availability-isovalent-cilium-enterprise-through-azure-marketplace/,"Thu, 01 Jun 2023 21:39:10 Z"
 Public Preview: Azure AD Support for Azure Files SMB shares REST API,https://azure.microsoft.com/en-us/updates/azure-files-rest-oauth/,"Tue, 06 Jun 2023 16:01:13 Z"
 Generally available: Private Link support for Application Gateway,https://azure.microsoft.com/en-us/updates/generally-available-application-gateway-private-link/,"Tue, 06 Jun 2023 16:01:05 Z"
 Generally available: Multiple backups per day for Azure Virtual Machines,https://azure.microsoft.com/en-us/updates/multiple-backups-per-day/,"Tue, 06 Jun 2023 16:00:53 Z"
