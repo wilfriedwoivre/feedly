@@ -1,7 +1,4 @@
 Title,Link,PublishedDate
-"General availability: Azure Sphere version 23.05 is delayed to 20 June, and the updated OS has been issued to Retail Eval",https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-version-2305-is-delayed-to-20-june-and-the-updated-os-has-been-issued-to-retail-eval/,"Mon, 12 Jun 2023 16:00:21 Z"
-General availability: Azure Front Door Migration from classic to standard/premium,https://azure.microsoft.com/en-us/updates/general-availability-azure-front-door-migration-from-classic-to-standardpremium/,"Mon, 12 Jun 2023 16:00:19 Z"
-General availability: Azure Front Door upgrade from standard to premium,https://azure.microsoft.com/en-us/updates/general-availability-azure-front-door-upgrade-from-standard-to-premium/,"Mon, 12 Jun 2023 16:00:08 Z"
 General availability: Azure HX Virtual Machines for HPC,https://azure.microsoft.com/en-us/updates/general-availability-azure-hx-virtual-machines-for-hpc/,"Tue, 13 Jun 2023 18:30:34 Z"
 General availability: Azure HBv4 Virtual Machines for HPC,https://azure.microsoft.com/en-us/updates/general-availability-azure-hbv4-virtual-machines-for-hpc/,"Tue, 13 Jun 2023 18:30:24 Z"
 Azure VMware Solution now available in North Switzerland,https://azure.microsoft.com/en-us/updates/azure-vmware-solution-now-available-in-north-switzerland/,"Tue, 13 Jun 2023 17:01:40 Z"
@@ -44,7 +41,6 @@ New Instance Types for Azure Red Hat OpenShift are now available,https://azure.m
 General availability: 32 TB storage in Azure Database for PostgreSQL - Flexible Server,https://azure.microsoft.com/en-us/updates/general-availability-32-tb-storage-in-azure-database-for-postgresql-flexible-server-3/,"Tue, 13 Jun 2023 17:00:33 Z"
 Available: Reduced pricing for Azure Video Indexer,https://azure.microsoft.com/en-us/updates/available-reduced-pricing-for-azure-video-indexer/,"Tue, 13 Jun 2023 17:00:26 Z"
 General availability of Azure Front Door integration with managed identities,https://azure.microsoft.com/en-us/updates/general-availability-of-azure-front-door-integration-with-managed-identities/,"Tue, 13 Jun 2023 16:00:22 Z"
-Generally available: Azure OpenAI Service in UK South,https://azure.microsoft.com/en-us/updates/azure-openai-uk-south-region/,"Mon, 12 Jun 2023 17:00:09 Z"
 General availability: Azure Queue Storage SDK for Go,https://azure.microsoft.com/en-us/updates/general-availability-azure-queue-storage-sdk-for-go/,"Wed, 14 Jun 2023 17:00:37 Z"
 General availability: Azure Blob Storage SDK for Go,https://azure.microsoft.com/en-us/updates/general-availability-azure-blob-storage-sdk-for-go/,"Wed, 14 Jun 2023 16:00:49 Z"
 General availability: Azure Event Hubs SDK for Go,https://azure.microsoft.com/en-us/updates/general-availability-azure-event-hubs-sdk-for-go/,"Wed, 14 Jun 2023 16:00:46 Z"
