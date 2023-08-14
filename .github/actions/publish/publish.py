@@ -3,7 +3,42 @@ import ssl
 import requests
 from requests_oauthlib import OAuth1
 import json
+import re
 from datetime import datetime, timezone
+from typing import List, Dict
+
+def parse_urls(text: str) -> List[Dict]:
+    spans = []
+    # partial/naive URL regex based on: https://stackoverflow.com/a/3809435
+    # tweaked to disallow some training punctuation
+    url_regex = rb"[$|\W](https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&//=]*[-a-zA-Z0-9@%_\+~#//=])?)"
+    text_bytes = text.encode("UTF-8")
+    for m in re.finditer(url_regex, text_bytes):
+        spans.append({
+            "start": m.start(1),
+            "end": m.end(1),
+            "url": m.group(1).decode("UTF-8"),
+        })
+    return spans
+
+
+def parse_facets(text: str) -> List[Dict]:
+    facets = []
+    for u in parse_urls(text):
+        facets.append({
+            "index": {
+                "byteStart": u["start"],
+                "byteEnd": u["end"],
+            },
+            "features": [
+                {
+                    "$type": "app.bsky.richtext.facet#link",
+                    # NOTE: URI ("I") not URL ("L")
+                    "uri": u["url"],
+                }
+            ],
+        })
+    return facets
 
 def run():
     repository = os.getenv("GithubRepository")
@@ -45,10 +80,12 @@ def run():
         now = datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
         postUrl = 'https://bsky.social/xrpc/com.atproto.repo.createRecord'
 
+        text = f'{title} {link}'
         post = {
             "$type": "app.bsky.feed.post",
-            "text": f'{title} {link}',
+            "text": text,
             "createdAt": now,
+            "facets": parse_facets(text)
         }
 
         record = {
