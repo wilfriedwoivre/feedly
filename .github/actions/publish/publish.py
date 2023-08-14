@@ -31,10 +31,10 @@ def run():
         link = item['body']
         
         # Twitter
-        url = 'https://api.twitter.com/2/tweets'
-        auth = OAuth1(twitterConsumerKey, twitterConsumerSecret, twitterAccessTokenKey, twitterAccessTokenSecret)
-        data = { 'text': f'{title} {link}'}
-        requests.post(url, auth=auth, json=data)
+        # url = 'https://api.twitter.com/2/tweets'
+        # auth = OAuth1(twitterConsumerKey, twitterConsumerSecret, twitterAccessTokenKey, twitterAccessTokenSecret)
+        # data = { 'text': f'{title} {link}'}
+        # requests.post(url, auth=auth, json=data)
 
         # BlueSky
         authUrl = 'https://bsky.social/xrpc/com.atproto.server.createSession'
@@ -47,7 +47,7 @@ def run():
 
         post = {
             "$type": "app.bsky.feed.post",
-            "text": data,
+            "text": f'{title} {link}',
             "createdAt": now,
         }
 
