@@ -135,7 +135,7 @@ def run():
             "text": text,
             "createdAt": now,
             "facets": parse_facets(text),
-            "embed": fetch_embed_url_card(responseJson["accessJwt"], "https://bsky.app")
+            "embed": fetch_embed_url_card(responseJson["accessJwt"], link)
         }
 
         record = {
