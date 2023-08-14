@@ -23,5 +23,7 @@ jobs:
         TwitterConsumerSecret: ${{ secrets.TWITTERCONSUMERSECRET }}
         TwitterAccessTokenKey: ${{ secrets.TWITTERACCESSTOKENKEY }}
         TwitterAccessTokenSecret: ${{ secrets.TWITTERACCESSTOKENSECRET }}
-
+        BlueSkyAppNameCode: ${{ secrets.BLUESKY_APPNAME_CODE }}
+        BlueSkyHandle: ${{ secrets.BLUESKY_HANDLE }}
+        
 
