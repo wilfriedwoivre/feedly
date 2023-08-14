@@ -6,6 +6,7 @@ import json
 import re
 from datetime import datetime, timezone
 from typing import List, Dict
+from bs4 import BeautifulSoup
 
 def parse_urls(text: str) -> List[Dict]:
     spans = []
@@ -39,6 +40,54 @@ def parse_facets(text: str) -> List[Dict]:
             ],
         })
     return facets
+
+def fetch_embed_url_card(access_token: str, url: str) -> Dict:
+
+    # the required fields for every embed card
+    card = {
+        "uri": url,
+        "title": "",
+        "description": "",
+    }
+
+    # fetch the HTML
+    resp = requests.get(url)
+    resp.raise_for_status()
+    soup = BeautifulSoup(resp.text, "html.parser")
+
+    # parse out the "og:title" and "og:description" HTML meta tags
+    title_tag = soup.find("meta", property="og:title")
+    if title_tag:
+        card["title"] = title_tag["content"]
+    description_tag = soup.find("meta", property="og:description")
+    if description_tag:
+        card["description"] = description_tag["content"]
+
+    # if there is an "og:image" HTML meta tag, fetch and upload that image
+    image_tag = soup.find("meta", property="og:image")
+    if image_tag:
+        img_url = image_tag["content"]
+        # naively turn a "relative" URL (just a path) into a full URL, if needed
+        if "://" not in img_url:
+            img_url = url + img_url
+        resp = requests.get(img_url)
+        resp.raise_for_status()
+
+        blob_resp = requests.post(
+            "https://bsky.social/xrpc/com.atproto.repo.uploadBlob",
+            headers={
+                "Content-Type": "image/png",
+                "Authorization": "Bearer " + access_token,
+            },
+            data=resp.content,
+        )
+        blob_resp.raise_for_status()
+        card["thumb"] = blob_resp.json()["blob"]
+
+    return {
+        "$type": "app.bsky.embed.external",
+        "external": card,
+    }
 
 def run():
     repository = os.getenv("GithubRepository")
@@ -85,7 +134,8 @@ def run():
             "$type": "app.bsky.feed.post",
             "text": text,
             "createdAt": now,
-            "facets": parse_facets(text)
+            "facets": parse_facets(text),
+            "embed": fetch_embed_url_card(responseJson["accessJwt"], "https://bsky.app")
         }
 
         record = {
