@@ -144,12 +144,12 @@ def run():
             "record": post
         }
 
-        headers = {
+        bluSkyheaders = {
             "Content-Type": "application/json",
             "Authorization": "Bearer " + responseJson["accessJwt"]
         }
 
-        requests.post(postUrl, json=record, headers=headers)
+        requests.post(postUrl, json=record, headers=bluSkyheaders)
 
 
 
