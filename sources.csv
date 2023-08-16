@@ -14,3 +14,4 @@
 "AzureToolsBlog","https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?tid=8910928764405820552&board=AzureToolsBlog&size=25","rss","true","false","https://techcommunity.microsoft.com/t5/azure-tools-blog/bg-p/AzureToolsBlog","","?WT.mc_id=AZ-MVP-4039694"
 "AzureApps","https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?tid=-703623166244733512&board=AppsonAzureBlog&size=25","rss","true","false","https://techcommunity.microsoft.com/t5/apps-on-azure-blog/bg-p/AppsonAzureBlog","","?WT.mc_id=AZ-MVP-4039694"
 "MicrosoftStartup","https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/custom-blog-rss?tid=-1017318509119546928&board=StartupsatMicrosoftBlog&size=25","rss","true","false","https://techcommunity.microsoft.com/t5/startups-at-microsoft/bg-p/StartupsatMicrosoftBlog","","?WT.mc_id=AZ-MVP-4039694"
+"KubernetesIO","https://kubernetes.io/feed.xml","atom","true","false","https://kubernetes.io","",""
