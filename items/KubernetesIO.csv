@@ -3,3 +3,4 @@ Blog: pkgs.k8s.io: Introducing Kubernetes Community-Owned Package Repositories,h
 Blog: Kubernetes v1.28: Planternetes,https://kubernetes.io/blog/2023/08/15/kubernetes-v1-28-release/,"Tue, 15 Aug 2023 12:00:00 +0000"
 Blog: Spotlight on SIG ContribEx,https://kubernetes.io/blog/2023/08/14/sig-contribex-spotlight-2023/,"Mon, 14 Aug 2023 00:00:00 +0000"
 Blog: Kubernetes 1.28: Non-Graceful Node Shutdown Moves to GA,https://kubernetes.io/blog/2023/08/16/kubernetes-1-28-non-graceful-node-shutdown-ga/,"Wed, 16 Aug 2023 10:00:00 -0800"
+Blog: Kubernetes v1.28: Retroactive Default StorageClass move to GA,https://kubernetes.io/blog/2023/08/18/retroactive-default-storage-class-ga/,"Fri, 18 Aug 2023 00:00:00 +0000"
