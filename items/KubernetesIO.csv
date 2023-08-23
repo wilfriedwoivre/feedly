@@ -1,4 +1,3 @@
 Title,Link,PublishedDate
-Blog: Kubernetes 1.28: Non-Graceful Node Shutdown Moves to GA,https://kubernetes.io/blog/2023/08/16/kubernetes-1-28-non-graceful-node-shutdown-ga/,"Wed, 16 Aug 2023 10:00:00 -0800"
 Blog: Kubernetes v1.28: Retroactive Default StorageClass move to GA,https://kubernetes.io/blog/2023/08/18/retroactive-default-storage-class-ga/,"Fri, 18 Aug 2023 00:00:00 +0000"
 Blog: Kubernetes 1.28: Improved failure handling for Jobs,https://kubernetes.io/blog/2023/08/21/kubernetes-1-28-jobapi-update/,"Mon, 21 Aug 2023 00:00:00 +0000"
