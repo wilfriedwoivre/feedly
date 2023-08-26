@@ -5,3 +5,5 @@ Generally available: Cross Subscription Restore for Azure Virtual Machines,https
 Quick create Azure Front Door endpoints for Azure Storage accounts,https://azure.microsoft.com/en-us/updates/quick-create-azure-front-door-endpoints-for-storage-accounts/,"Thu, 24 Aug 2023 16:00:09 Z"
 General Availability: Improve VM resiliency with Azure Advisor's Availability Zone recommendation.,https://azure.microsoft.com/en-us/updates/general-availability-elevate-vm-resiliency-with-azure-advisors-availability-zone-recommendation/,"Thu, 24 Aug 2023 16:00:09 Z"
 General Availability: AzAcSnap 9 — Azure Application Consistent Snapshot tool updates,https://azure.microsoft.com/en-us/updates/general-availability-azacsnap-9-azure-application-consistent-snapshot-tool-updates/,"Thu, 24 Aug 2023 16:00:07 Z"
+Azure Logic Apps (Standard): Upgrade to Node 18 LTS by 11 September 2023,https://azure.microsoft.com/en-us/updates/azure-logic-apps-standard-upgrade-to-node-18-lts-by-11-september-2023/,"Fri, 25 Aug 2023 23:00:28 Z"
+Retirement: Kubernetes 1.24 support in AKS,https://azure.microsoft.com/en-us/updates/retirement-kubernetes-124-support-in-aks/,"Fri, 25 Aug 2023 23:00:27 Z"
