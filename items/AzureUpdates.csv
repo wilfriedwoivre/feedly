@@ -5,3 +5,5 @@ General Availability: Improve VM resiliency with Azure Advisor's Availability Zo
 General Availability: AzAcSnap 9 — Azure Application Consistent Snapshot tool updates,https://azure.microsoft.com/en-us/updates/general-availability-azacsnap-9-azure-application-consistent-snapshot-tool-updates/,"Thu, 24 Aug 2023 16:00:07 Z"
 Azure Logic Apps (Standard): Upgrade to Node 18 LTS by 11 September 2023,https://azure.microsoft.com/en-us/updates/azure-logic-apps-standard-upgrade-to-node-18-lts-by-11-september-2023/,"Fri, 25 Aug 2023 23:00:28 Z"
 Retirement: Kubernetes 1.24 support in AKS,https://azure.microsoft.com/en-us/updates/retirement-kubernetes-124-support-in-aks/,"Fri, 25 Aug 2023 23:00:27 Z"
+Preview: Export Cost Management data to secure storage accounts with firewall,https://azure.microsoft.com/en-us/updates/exportbehindfirewall/,"Mon, 28 Aug 2023 16:00:10 Z"
+Azure App Configuration - public preview release of snapshots feature,https://azure.microsoft.com/en-us/updates/azure-app-configuration-public-preview-release-of-snapshots-feature/,"Mon, 28 Aug 2023 16:00:10 Z"
