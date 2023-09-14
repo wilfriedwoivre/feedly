@@ -1,9 +1,4 @@
 Title,Link,PublishedDate
-Azure Load Testing now supports uploading large files as ZIP,https://azure.microsoft.com/en-us/updates/azure-load-testing-now-supports-uploading-large-files-as-zip/,"Thu, 07 Sep 2023 18:00:39 Z"
-Move Azure Load Testing resources across resource groups and subscriptions,https://azure.microsoft.com/en-us/updates/move-azure-load-testing-resources-across-resource-groups-and-subscriptions/,"Thu, 07 Sep 2023 18:00:37 Z"
-Generally available: Azure Premium SSD v2 Disk Storage is now available in more regions,https://azure.microsoft.com/en-us/updates/generally-available-azure-premium-ssd-v2-disk-storage-is-now-available-in-australiaeast-francecentral-norwayeast-uaenorth/,"Thu, 07 Sep 2023 17:00:40 Z"
-Public Preview: Azure Container Storage Updates: Expanded regions and performance options,https://azure.microsoft.com/en-us/updates/public-preview-azure-container-storage-updates-expanded-regions-and-performance-options/,"Thu, 07 Sep 2023 17:00:27 Z"
-Public preview: Azure Modeling and Simulation Workbench,https://azure.microsoft.com/en-us/updates/public-preview-azure-modeling-and-simulation-workbench/,"Thu, 07 Sep 2023 16:00:35 Z"
 Azure Front Door Standard and Premium support bring your own certificated based domain validation,https://azure.microsoft.com/en-us/updates/azure-front-door-standard-and-premium-support-bring-your-own-certificated-based-domain-validation/,"Mon, 11 Sep 2023 16:00:47 Z"
 "Introducing Graph Semantics in Kusto, a new way to contextualize time series data",https://azure.microsoft.com/en-us/updates/kusto-graph-public-preview/,"Mon, 11 Sep 2023 15:00:47 Z"
 "GA: Latest generation burstable VMs - Bsv2, Basv2, and Bpsv2",https://azure.microsoft.com/en-us/updates/ga-latest-generation-burstable-vms-bsv2-basv2-and-bpsv2/,"Tue, 12 Sep 2023 22:22:18 Z"
