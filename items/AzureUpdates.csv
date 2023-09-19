@@ -1,10 +1,4 @@
 Title,Link,PublishedDate
-"GA: Latest generation burstable VMs - Bsv2, Basv2, and Bpsv2",https://azure.microsoft.com/en-us/updates/ga-latest-generation-burstable-vms-bsv2-basv2-and-bpsv2/,"Tue, 12 Sep 2023 22:22:18 Z"
-Azure Service Fabric 9.1 Sixth Refresh Release,https://azure.microsoft.com/en-us/updates/azure-service-fabric-91-sixth-refresh-release/,"Tue, 12 Sep 2023 18:13:42 Z"
-Public preview: Standard network features support in US Government region,https://azure.microsoft.com/en-us/updates/public-preview-standard-network-features-support-in-us-government-region/,"Tue, 12 Sep 2023 17:00:02 Z"
-Generally available: Export Cost Management data to secure storage accounts with firewall,https://azure.microsoft.com/en-us/updates/exportbehindfirewallga/,"Tue, 12 Sep 2023 17:00:01 Z"
-View trends of client-side metrics across test runs in Azure Load Testing,https://azure.microsoft.com/en-us/updates/view-trends-of-clientside-metrics-across-test-runs-in-azure-load-testing/,"Tue, 12 Sep 2023 15:00:25 Z"
-Configure load testing in your CI/CD pipeline from Azure portal,https://azure.microsoft.com/en-us/updates/configure-load-testing-in-your-cicd-pipeline-from-azure-portal/,"Tue, 12 Sep 2023 15:00:23 Z"
 Generally available: Higher default value for Azure Functions Event Hubs max batch size,https://azure.microsoft.com/en-us/updates/generally-available-higher-default-value-for-azure-functions-event-hubs-max-batch-size/,"Wed, 13 Sep 2023 17:00:15 Z"
 General availability: Use Azure Key Vault to securely store and retrieve access key when mounting Azure Storage as a local share in App Service,https://azure.microsoft.com/en-us/updates/general-availability-use-azure-key-vault-to-securely-store-and-retrieve-access-key-when-mounting-azure-storage-as-a-local-sha/,"Wed, 13 Sep 2023 16:00:16 Z"
 Public Preview: Configure customer-managed keys on existing Cosmos DB accounts,https://azure.microsoft.com/en-us/updates/public-preview-configure-customermanaged-keys-on-existing-cosmos-db-accounts/,"Wed, 13 Sep 2023 16:00:15 Z"
