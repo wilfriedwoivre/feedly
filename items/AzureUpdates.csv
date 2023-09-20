@@ -1,10 +1,4 @@
 Title,Link,PublishedDate
-Generally available: Higher default value for Azure Functions Event Hubs max batch size,https://azure.microsoft.com/en-us/updates/generally-available-higher-default-value-for-azure-functions-event-hubs-max-batch-size/,"Wed, 13 Sep 2023 17:00:15 Z"
-General availability: Use Azure Key Vault to securely store and retrieve access key when mounting Azure Storage as a local share in App Service,https://azure.microsoft.com/en-us/updates/general-availability-use-azure-key-vault-to-securely-store-and-retrieve-access-key-when-mounting-azure-storage-as-a-local-sha/,"Wed, 13 Sep 2023 16:00:16 Z"
-Public Preview: Configure customer-managed keys on existing Cosmos DB accounts,https://azure.microsoft.com/en-us/updates/public-preview-configure-customermanaged-keys-on-existing-cosmos-db-accounts/,"Wed, 13 Sep 2023 16:00:15 Z"
-General Availability: Azure SQL updates for mid-September 2023,https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-updates-for-midseptember-2023/,"Wed, 13 Sep 2023 16:00:15 Z"
-Public Preview: Azure Cosmos DB Javascript SDK v4.0,https://azure.microsoft.com/en-us/updates/public-preview-azure-cosmos-db-javascript-sdk-v40/,"Wed, 13 Sep 2023 16:00:14 Z"
-"New in Kusto: `.show databases entities` command for viewing tables, functions, and more",https://azure.microsoft.com/en-us/updates/kusto-show-databases-entities/,"Wed, 13 Sep 2023 15:00:13 Z"
 Azure Machine Learning - Public Preview for September,https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-for-september/,"Thu, 14 Sep 2023 19:00:29 Z"
 Preview: Save Azure Backup Recovery Services Agent (MARS) passphrase to Azure Key Vault,https://azure.microsoft.com/en-us/updates/preview-save-azure-backup-recovery-services-agent-mars-passphrase-to-azure-key-vault/,"Thu, 14 Sep 2023 18:00:30 Z"
 General availability: Selective Disk Backup and Restore in Enhanced Policy for Azure VM Backup,https://azure.microsoft.com/en-us/updates/ga-selectivedisk-enhancedpolicy/,"Thu, 14 Sep 2023 18:00:29 Z"
