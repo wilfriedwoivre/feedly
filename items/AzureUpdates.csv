@@ -12,3 +12,7 @@ Support for Azure Machine Learning Explanation and Fairness Dashboards is ending
 Migrate to Azure Monitor agent–based VM insights by 31 August 2024,https://azure.microsoft.com/en-us/updates/migrate-to-azure-monitor-agent-based-vm-insights-by-31-august-2024/,"Fri, 06 Oct 2023 23:00:14 Z"
 Some Azure Service Bus SDK libraries will be retired on 30 September 2026—migrate to the latest SDKs,https://azure.microsoft.com/en-us/updates/retirement-notice-update-your-azure-service-bus-sdk-libraries-by-30-september-2026/,"Fri, 06 Oct 2023 23:00:01 Z"
 Public Preview: Azure Chaos Studio has Query-Based Dynamic Targets,https://azure.microsoft.com/en-us/updates/public-preview-azure-chaos-studio-querybased-dynamic-targets/,"Mon, 09 Oct 2023 16:00:15 Z"
+Announcing Public Preview of Azure API Management Pricing Tiers: Basic v2 and Standard v2,https://azure.microsoft.com/en-us/updates/announcing-public-preview-of-azure-api-management-pricing-tiers-basic-v2-and-standard-v2/,"Tue, 10 Oct 2023 17:00:07 Z"
+Azure Files has been improved to support all valid Unicode characters,https://azure.microsoft.com/en-us/updates/azurefilessupportforunicodecharacters/,"Tue, 10 Oct 2023 16:00:08 Z"
+ExpressRoute Traffic Collector is now generally available,https://azure.microsoft.com/en-us/updates/expressroute-traffic-collector-is-now-generally-available/,"Tue, 10 Oct 2023 16:00:07 Z"
+LSA payload update for fixes on 15-Jan,https://azure.microsoft.com/en-us/updates/lsa-payload-update-for-fixes-on-15jan/,"Tue, 10 Oct 2023 16:00:06 Z"
