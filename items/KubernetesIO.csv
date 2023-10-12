@@ -1,2 +1,3 @@
 Title,Link,PublishedDate
 Blog: CRI-O is moving towards pkgs.k8s.io,https://kubernetes.io/blog/2023/10/10/cri-o-community-package-infrastructure/,"Tue, 10 Oct 2023 00:00:00 +0000"
+Blog: Bootstrap an Air Gapped Cluster With Kubeadm,https://kubernetes.io/blog/2023/10/12/bootstrap-an-air-gapped-cluster-with-kubeadm/,"Thu, 12 Oct 2023 00:00:00 +0000"
