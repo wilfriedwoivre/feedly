@@ -1,8 +1,4 @@
 Title,Link,PublishedDate
-Announcing Public Preview of Azure API Management Pricing Tiers: Basic v2 and Standard v2,https://azure.microsoft.com/en-us/updates/announcing-public-preview-of-azure-api-management-pricing-tiers-basic-v2-and-standard-v2/,"Tue, 10 Oct 2023 17:00:07 Z"
-Azure Files has been improved to support all valid Unicode characters,https://azure.microsoft.com/en-us/updates/azurefilessupportforunicodecharacters/,"Tue, 10 Oct 2023 16:00:08 Z"
-ExpressRoute Traffic Collector is now generally available,https://azure.microsoft.com/en-us/updates/expressroute-traffic-collector-is-now-generally-available/,"Tue, 10 Oct 2023 16:00:07 Z"
-LSA payload update for fixes on 15-Jan,https://azure.microsoft.com/en-us/updates/lsa-payload-update-for-fixes-on-15jan/,"Tue, 10 Oct 2023 16:00:06 Z"
 "Breaking Change Notice: Virtual Machine Scale Set Default Orchestration Mode changing from Uniform to Flexible on PowerShell, Azure CLI",https://azure.microsoft.com/en-us/updates/breaking-change-notice-vmss-create-default-orchestration-mode-changing-from-uniform-to-flexible-on-powershell-azure-cli/,"Wed, 11 Oct 2023 20:00:10 Z"
 Private Preview: Regional Disaster Recovery by Azure Backup for AKS,https://azure.microsoft.com/en-us/updates/private-preview-regional-disaster-recovery-by-azure-backup-for-aks/,"Wed, 11 Oct 2023 17:00:09 Z"
 Public Preview:  Azure Open AI “Use your data” integration with Azure Cosmos DB for MongoDB vCore,https://azure.microsoft.com/en-us/updates/public-preview-azure-open-ai-use-your-data-integration-with-azure-cosmos-db-for-mongodb-vcore/,"Wed, 11 Oct 2023 16:00:31 Z"
