@@ -1,12 +1,4 @@
 Title,Link,PublishedDate
-Preview: Azure Container Storage in AKS,https://azure.microsoft.com/en-us/updates/preview-azure-container-storage-in-aks-cli-experience/,"Mon, 06 Nov 2023 18:30:02 Z"
-Latency metrics for disks and performance metrics for temporary disks on Azure Virtual Machines,https://azure.microsoft.com/en-us/updates/latency-metrics-for-azure-disks-and-performance-metrics-for-temporary-disks-on-azure-virtual-machines/,"Mon, 06 Nov 2023 18:00:11 Z"
-"Azure Elastic SAN updates: Snapshots, Security, and Usability",https://azure.microsoft.com/en-us/updates/azure-elastic-san-updates-snapshots-security-and-usability/,"Mon, 06 Nov 2023 18:00:01 Z"
-General Availability: Azure Advisor recommendation improves the reliability of Azure Disks with Zone Redundant Storage,https://azure.microsoft.com/en-us/updates/general-availability-azure-advisor-recommendation-enhances-the-reliability-of-azure-disks-with-zone-redundant-storage/,"Mon, 06 Nov 2023 17:00:28 Z"
-Ability to add dynamic values in Alert’s custom fields,https://azure.microsoft.com/en-us/updates/ability-to-add-dynamic-values-in-alert-s-custom-fields/,"Mon, 06 Nov 2023 17:00:18 Z"
-Public preview: Application Gateway IPv6 support,https://azure.microsoft.com/en-us/updates/public-preview-application-gateway-now-supports-ipv6-frontend/,"Mon, 06 Nov 2023 17:00:10 Z"
-Azure Monitor managed service for Prometheus is available in 7 additional Azure regions,https://azure.microsoft.com/en-us/updates/azure-monitor-managed-service-for-prometheus-is-available-in-7-additional-azure-regions/,"Mon, 06 Nov 2023 17:00:01 Z"
-"Azure Elastic SAN updates: Security, and Usability",https://azure.microsoft.com/en-us/updates/azure-elastic-san-updates-snapshots-security-and-usability/,"Mon, 06 Nov 2023 18:00:01 Z"
 General availability: Introducing NGads V620 Series VMs optimized for gaming scenarios,https://azure.microsoft.com/en-us/updates/general-availability-introducing-ngads-v620-series-vms-optimized-for-gaming-scenarios/,"Wed, 08 Nov 2023 22:00:13 Z"
 Azure Monitor Logs archive provides up to 12 years of retention,https://azure.microsoft.com/en-us/updates/azure-monitor-logs-archive-provides-up-to-12-years-of-retention/,"Wed, 08 Nov 2023 20:00:12 Z"
 General availability: Using a common port for public and private listeners,https://azure.microsoft.com/en-us/updates/ga-using-a-common-port-for-public-and-private-listeners/,"Wed, 08 Nov 2023 18:03:42 Z"
