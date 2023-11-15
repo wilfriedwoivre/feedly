@@ -1,9 +1,4 @@
 Title,Link,PublishedDate
-General availability: Introducing NGads V620 Series VMs optimized for gaming scenarios,https://azure.microsoft.com/en-us/updates/general-availability-introducing-ngads-v620-series-vms-optimized-for-gaming-scenarios/,"Wed, 08 Nov 2023 22:00:13 Z"
-Azure Monitor Logs archive provides up to 12 years of retention,https://azure.microsoft.com/en-us/updates/azure-monitor-logs-archive-provides-up-to-12-years-of-retention/,"Wed, 08 Nov 2023 20:00:12 Z"
-General availability: Using a common port for public and private listeners,https://azure.microsoft.com/en-us/updates/ga-using-a-common-port-for-public-and-private-listeners/,"Wed, 08 Nov 2023 18:03:42 Z"
-General availability: Rate-limit rules for Application Gateway Web Application Firewall,https://azure.microsoft.com/en-us/updates/general-availability-ratelimit-rules-for-application-gateway-web-application-firewall/,"Wed, 08 Nov 2023 18:00:11 Z"
-Public Preview: Azure SQL updates for early-November 2023,https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-earlynovember-2023/,"Wed, 08 Nov 2023 17:00:11 Z"
 Azure support for TLS 1.0 and TLS 1.1 will end by 31 October 2024,https://azure.microsoft.com/en-us/updates/azure-support-tls-will-end-by-31-october-2024-2/,"Sat, 11 Nov 2023 00:00:03 Z"
 Public Preview: App Service End-to-end (E2E) Encryption for Linux Multi-tenant Resources,https://azure.microsoft.com/en-us/updates/app-service-e2e-encryption-linux-multi-tenant-preview/,"Thu, 09 Nov 2023 16:00:10 Z"
 Public Preview: Support for GraphQL APIs in Azure API Management Self-hosted Gateway,https://azure.microsoft.com/en-us/updates/public-preview-support-for-graphql-apis-in-azure-api-management-selfhosted-gateway/,"Mon, 13 Nov 2023 17:00:08 Z"
