@@ -1,9 +1,4 @@
 Title,Link,PublishedDate
-Public Preview: Support for GraphQL APIs in Azure API Management Self-hosted Gateway,https://azure.microsoft.com/en-us/updates/public-preview-support-for-graphql-apis-in-azure-api-management-selfhosted-gateway/,"Mon, 13 Nov 2023 17:00:08 Z"
-Public Preview: Azure Monitor Agent JSON log collection,https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-agent-json-log-collection/,"Mon, 13 Nov 2023 17:00:08 Z"
-Public Preview: Support for gRPC APIs in Azure API Management Self-Hosted Gateway,https://azure.microsoft.com/en-us/updates/public-preview-support-for-grpc-apis-in-azure-api-management-selfhosted-gateway/,"Mon, 13 Nov 2023 17:00:07 Z"
-Public Preview: Azure Monitor Alerts integration with Event Grid for Azure Key Vault system events,https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-alerts-integration-with-event-grid-for-azure-key-vault-system-events/,"Mon, 13 Nov 2023 17:00:06 Z"
-Export cost details using the FinOps Open Cost and Usage Specification (FOCUS),https://azure.microsoft.com/en-us/updates/export-cost-using-focus/,"Mon, 13 Nov 2023 16:00:06 Z"
 Experiment templates now available in Azure Chaos Studio,https://azure.microsoft.com/en-us/updates/experiment-templates-now-available-in-azure-chaos-studio/,"Tue, 14 Nov 2023 21:38:44 Z"
 General availability: Start and stop load (Azure Load Testing) faults in Azure Chaos Studio,https://azure.microsoft.com/en-us/updates/general-availability-start-and-stop-load-azure-load-testing-faults-in-azure-chaos-studio/,"Tue, 14 Nov 2023 21:38:31 Z"
 GA: Azure Functions supports .NET 8 in the isolated worker model,https://azure.microsoft.com/en-us/updates/ga-azure-functions-supports-net-8-in-the-isolated-worker-model/,"Tue, 14 Nov 2023 18:00:21 Z"
