@@ -114,6 +114,11 @@ def run():
         title = item['title']
         link = item['body']
         
+        r = requests.get(link)
+        if r.status_code == 404:
+            requests.patch(f'https://api.github.com/repos/{repository}/issues/{issueNumber}', headers=headers, json={"state": "closed"})
+            continue
+        
         # Twitter
         url = 'https://api.twitter.com/2/tweets'
         auth = OAuth1(twitterConsumerKey, twitterConsumerSecret, twitterAccessTokenKey, twitterAccessTokenSecret)
