@@ -23,3 +23,5 @@ General Availability: pgvector 0.5.1 extension,https://azure.microsoft.com/en-us
 Public Preview: Server logs for Azure Database for PostgreSQL - Flexible Server,https://azure.microsoft.com/en-us/updates/public-preview-server-logs-for-azure-database-for-postgresql-flexible-server/,"Wed, 22 Nov 2023 17:00:17 Z"
 General availability: Time travel in Azure Synapse Link for Azure Cosmos DB,https://azure.microsoft.com/en-us/updates/general-availability-time-travel-in-azure-synapse-link-for-azure-cosmos-db/,"Wed, 22 Nov 2023 17:00:16 Z"
 General availability: Change data capture in Azure Cosmos DB analytical store,https://azure.microsoft.com/en-us/updates/general-availability-change-data-capture-in-azure-cosmos-db-analytical-store/,"Wed, 22 Nov 2023 17:00:15 Z"
+Extended support for .NET 6 (LTS) ends on 12 November 2024,https://azure.microsoft.com/en-us/updates/dotnet6support/,"Sat, 25 Nov 2023 00:00:13 Z"
+Extended support for .NET 7 (STS) ends on 14 May 2024,https://azure.microsoft.com/en-us/updates/dotnet7support/,"Sat, 25 Nov 2023 00:00:04 Z"
