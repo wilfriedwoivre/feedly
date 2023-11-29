@@ -5,7 +5,7 @@
 "EnglishBlog","https://woivre.com/feed.xml","atom","true","true","https://woivre.com","",""
 "FrenchBlog","https://woivre.fr/feed.xml","atom","true","true","https://woivre.fr","",""
 "LudovicAlarcon","https://ludovic-alarcon.com/feed","atom","true","false","https://ludovic-alarcon.com","",""
-"MSRC","https://msrc-blog.microsoft.com/feed/","rss","true","false","https://msrc-blog.microsoft.com/","","?WT.mc_id=AZ-MVP-4039694"
+"MSRC","https://msrc-blog.microsoft.com/feed/","rss","true","false","https://msrc-blog.microsoft.com/","",""
 "GithubAKS","https://github.com/azure/aks/releases.atom","atom","true","false","https://github.com/azure/aks/releases","Microsoft AKS Release",""
 "Kubernetes","https://github.com/kubernetes/kubernetes/releases.atom","atom","true","false","https://github.com/kubernetes/kubernetes/releases","",""
 "Bicep","https://github.com/Azure/bicep/releases.atom","atom","true","false","https://github.com/Azure/bicep/releases","Azure Bicep Release",""
