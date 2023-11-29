@@ -13,8 +13,8 @@ jobs:
     steps:
     - uses: actions/checkout@v3
 
-    - name: close-issue
-      id: closeIssue
+    - name: publish-issue
+      id: publish
       uses: ./.github/actions/publish
       env:
         GithubRepository: ${{ github.repository }}
