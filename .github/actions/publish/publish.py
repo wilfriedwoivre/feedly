@@ -114,6 +114,8 @@ def run():
         title = item['title']
         link = item['body']
         
+        print(f"Issue Number: {issueNumber}")
+        print(link)
         r = requests.get(link)
         if r.status_code == 404:
             requests.patch(f'https://api.github.com/repos/{repository}/issues/{issueNumber}', headers=headers, json={"state": "closed"})
