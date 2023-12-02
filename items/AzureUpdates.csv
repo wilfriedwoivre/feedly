@@ -1,6 +1,4 @@
 Title,Link,PublishedDate
-Extended support for .NET 6 (LTS) ends on 12 November 2024,https://azure.microsoft.com/en-us/updates/dotnet6support/,"Sat, 25 Nov 2023 00:00:13 Z"
-Extended support for .NET 7 (STS) ends on 14 May 2024,https://azure.microsoft.com/en-us/updates/dotnet7support/,"Sat, 25 Nov 2023 00:00:04 Z"
 General Availability: Azure Automation supports PowerShell 7.2 runbooks,https://azure.microsoft.com/en-us/updates/azure-automation-powershell7-2-general-availability/,"Tue, 28 Nov 2023 00:00:12 Z"
 Announcing General Availability of Microsoft Defender for APIs,https://azure.microsoft.com/en-us/updates/announcing-general-availability-of-microsoft-defender-for-apis/,"Mon, 27 Nov 2023 17:00:07 Z"
 Public Preview: Create and manage Azure Monitor managed Prometheus rules in Azure portal,https://azure.microsoft.com/en-us/updates/public-preview-create-and-manage-azure-monitor-managed-prometheus-rules-in-azure-portal-2/,"Mon, 27 Nov 2023 16:27:59 Z"
