@@ -1,7 +1,5 @@
 Title,Link,PublishedDate
 General Availability: Azure Automation supports PowerShell 7.2 runbooks,https://azure.microsoft.com/en-us/updates/azure-automation-powershell7-2-general-availability/,"Tue, 28 Nov 2023 00:00:12 Z"
-Announcing General Availability of Microsoft Defender for APIs,https://azure.microsoft.com/en-us/updates/announcing-general-availability-of-microsoft-defender-for-apis/,"Mon, 27 Nov 2023 17:00:07 Z"
-Public Preview: Create and manage Azure Monitor managed Prometheus rules in Azure portal,https://azure.microsoft.com/en-us/updates/public-preview-create-and-manage-azure-monitor-managed-prometheus-rules-in-azure-portal-2/,"Mon, 27 Nov 2023 16:27:59 Z"
 Public preview: Azure NetApp Files support for 1 TiB capacity pools,https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-support-for-1-tib-capacity-pools/,"Wed, 29 Nov 2023 18:00:24 Z"
 General Availability: Azure NetApp Files support for 2 TiB capacity pools,https://azure.microsoft.com/en-us/updates/general-availability-azure-netapp-files-support-for-2tib-capacity-pools/,"Wed, 29 Nov 2023 18:00:13 Z"
 Generally available: Azure Monitor OpenTelemetry-based Distro for ASP.NET Core Applications,https://azure.microsoft.com/en-us/updates/azure-monitor-opentelemetrybased-distro-for-dotnet-core/,"Thu, 30 Nov 2023 18:00:05 Z"
