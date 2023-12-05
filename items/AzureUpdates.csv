@@ -7,3 +7,6 @@ Pod Security Policy is being deprecated with AKS 1.25 and 2023-06-01 API version
 Azure Object Anchors Retirement,https://azure.microsoft.com/en-us/updates/azure-object-anchors-retirement/,"Sat, 02 Dec 2023 00:00:15 Z"
 Azure Spatial Anchors Retirement,https://azure.microsoft.com/en-us/updates/azure-spatial-anchors-retirement/,"Sat, 02 Dec 2023 00:00:06 Z"
 Application Insights Availability Tests TLS 1.3 Enablement,https://azure.microsoft.com/en-us/updates/in-development-application-insights-availability-tests-tls-13-enablement-2/,"Fri, 01 Dec 2023 19:37:01 Z"
+Azure Event Grid system topics support for resource management and health resources now in Public Preview,https://azure.microsoft.com/en-us/updates/azure-event-grid-system-topics-support-for-resource-management-and-health-resources-now-in-public-preview/,"Mon, 04 Dec 2023 17:00:35 Z"
+Migration of Azure Virtual Network injected Azure Data Explorer cluster to Private Endpoints,https://azure.microsoft.com/en-us/updates/adx-vnet-migration/,"Mon, 04 Dec 2023 17:00:24 Z"
+"Azure support plan offer extended to June 30, 2024",https://azure.microsoft.com/en-us/updates/azure-support-plan-offer-extended-063024/,"Mon, 04 Dec 2023 16:00:24 Z"
