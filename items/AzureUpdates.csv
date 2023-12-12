@@ -1,5 +1,4 @@
 Title,Link,PublishedDate
-Generally available: Azure Site Recovery update rollup 69 - November 2023,https://azure.microsoft.com/en-us/updates/generally-available-azure-site-recovery-update-rollup-69-november-2023/,"Tue, 05 Dec 2023 17:00:02 Z"
 Public Preview: New AKS cost views for standard and premium tier clusters,https://azure.microsoft.com/en-us/updates/akscostviews/,"Wed, 06 Dec 2023 23:51:04 Z"
 Generally Available: AKS support for API breaking change detection,https://azure.microsoft.com/en-us/updates/generally-available-aks-support-for-api-breaking-change-detection/,"Wed, 06 Dec 2023 18:00:15 Z"
 GA: Azure SQL Trigger for Azure Functions,https://azure.microsoft.com/en-us/updates/ga-azure-sql-trigger-for-azure-functions/,"Wed, 06 Dec 2023 18:00:15 Z"
@@ -10,5 +9,4 @@ Public Preview: Accelerated logs in Azure Database for MySQL - Flexible Server,h
 Generally available: PostgreSQL 16 support in Azure Database for PostgreSQL – Flexible Server,https://azure.microsoft.com/en-us/updates/generally-available-postgresql-16-support-in-azure-database-for-postgresql-flexible-server/,"Wed, 06 Dec 2023 17:00:13 Z"
 "Public Preview: Azure Database for PostgreSQL - Flexible Server, enhanced disaster recovery features",https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-postgresql-flexible-server-enhanced-disaster-recovery-features/,"Wed, 06 Dec 2023 17:00:12 Z"
 GA: Azure Kubernetes Service (AKS) support for 5K Node limit by default for Standard tier clusters,https://azure.microsoft.com/en-us/updates/ga-azure-kubernetes-service-aks-support-for-5k-node-limit-by-default-for-standard-tier-clusters/,"Wed, 06 Dec 2023 16:00:12 Z"
-General availability: Encryption with customer-managed keys in Azure Health Data Services,https://azure.microsoft.com/en-us/updates/general-availability-encryption-with-customermanaged-keys-in-azure-health-data-services/,"Tue, 05 Dec 2023 23:13:17 Z"
 Retirement: Azure Container Apps preview API versions 2023-04-01-preview,https://azure.microsoft.com/en-us/updates/retirement-azure-container-apps-preview-api-versions-20230401preview/,"Sat, 09 Dec 2023 00:00:04 Z"
