@@ -3,3 +3,5 @@ Blog: Kubernetes v1.29: Mandala,https://kubernetes.io/blog/2023/12/13/kubernetes
 Blog: Kubernetes 1.29: CSI Storage Resizing Authenticated and Generally Available in v1.29,https://kubernetes.io/blog/2023/12/15/csi-node-expand-secret-support-ga/,"Fri, 15 Dec 2023 00:00:00 +0000"
 Blog: Kubernetes 1.29: VolumeAttributesClass for Volume Modification,https://kubernetes.io/blog/2023/12/15/kubernetes-1-29-volume-attributes-class/,"Fri, 15 Dec 2023 00:00:00 +0000"
 Blog: Kubernetes 1.29: Cloud Provider Integrations Are Now Separate Components,https://kubernetes.io/blog/2023/12/14/cloud-provider-integration-changes/,"Thu, 14 Dec 2023 09:30:00 -0800"
+"Blog: Kubernetes 1.29: New (alpha) Feature, Load Balancer IP Mode for Services",https://kubernetes.io/blog/2023/12/18/kubernetes-1-29-feature-loadbalancer-ip-mode-alpha/,"Mon, 18 Dec 2023 00:00:00 +0000"
+Blog: Kubernetes 1.29: Single Pod Access Mode for PersistentVolumes Graduates to Stable,https://kubernetes.io/blog/2023/12/18/read-write-once-pod-access-mode-ga/,"Mon, 18 Dec 2023 00:00:00 +0000"
