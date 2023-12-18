@@ -1,7 +1,4 @@
 Title,Link,PublishedDate
-General Availability - Snapshots feature of Azure App Configuration,https://azure.microsoft.com/en-us/updates/azureappconfiguration-snapshots-ga/,"Mon, 11 Dec 2023 17:00:58 Z"
-"Azure Event Grid releases public preview support for events from services like Microsoft Entra ID, Microsoft Outlook, and Microsoft Teams.",https://azure.microsoft.com/en-us/updates/event-grid-graph-api-public-preview/,"Mon, 11 Dec 2023 17:00:55 Z"
-Public Preview: IT Service Management Connector (ITSMC)  is now certified with ServiceNow Vancouver version,https://azure.microsoft.com/en-us/updates/public-preview-it-service-management-connector-itsmc-is-now-certified-with-servicenow-vancouver-version/,"Mon, 11 Dec 2023 17:00:47 Z"
 "Public preview: Intel TDX based confidential VMs now available in the Azure portal, Azure CLI and ARM templates",https://azure.microsoft.com/en-us/updates/public-preview-intel-tdx-based-confidential-vms-now-available-in-the-azure-portal-azure-cli-and-arm-templates/,"Wed, 13 Dec 2023 18:00:06 Z"
 Delaying Domain Front Block on AFD and CDN services,https://azure.microsoft.com/en-us/updates/delaying-domain-front-block-on-afd-and-cdn-services/,"Wed, 13 Dec 2023 17:00:06 Z"
 Container insights recommended alerts (custom metrics) (preview) retirement moving up to 31 May 2024,https://azure.microsoft.com/en-us/updates/container-insights-recommended-alerts-custom-metrics-preview-retirement-moving-up-to-31-may-2024/,"Sat, 16 Dec 2023 00:00:08 Z"
