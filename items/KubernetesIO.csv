@@ -5,3 +5,4 @@ Blog: Kubernetes 1.29: VolumeAttributesClass for Volume Modification,https://kub
 Blog: Kubernetes 1.29: Single Pod Access Mode for PersistentVolumes Graduates to Stable,https://kubernetes.io/blog/2023/12/18/read-write-once-pod-access-mode-ga/,"Mon, 18 Dec 2023 00:00:00 +0000"
 Blog: Kubernetes 1.29: Decoupling taint-manager from node-lifecycle-controller,https://kubernetes.io/blog/2023/12/19/kubernetes-1-29-taint-eviction-controller/,"Tue, 19 Dec 2023 00:00:00 +0000"
 Blog: Kubernetes 1.29: PodReadyToStartContainers Condition Moves to Beta,https://kubernetes.io/blog/2023/12/19/pod-ready-to-start-containers-condition-now-in-beta/,"Tue, 19 Dec 2023 00:00:00 +0000"
+Blog: Contextual logging in Kubernetes 1.29: Better troubleshooting and enhanced logging,https://kubernetes.io/blog/2023/12/20/contextual-logging-in-kubernetes-1-29/,"Wed, 20 Dec 2023 09:30:00 -0800"
