@@ -1,7 +1,5 @@
 Title,Link,PublishedDate
 General Availability: Premium SSD v2 and Ultra disks support with Trusted launch,https://azure.microsoft.com/en-us/updates/premium-ssd-v2-and-ultra-disks-support-with-trusted-launch-vm/,"Wed, 10 Jan 2024 16:45:03 Z"
 General Availability: Customer-managed keys for Azure NetApp Files volume encryption,https://azure.microsoft.com/en-us/updates/general-availability-customermanaged-keys-for-azure-netapp-files-volume-encryption/,"Thu, 11 Jan 2024 17:00:24 Z"
-Azure Load Testing supports Web Driver Sampler plugin for Apache JMeter,https://azure.microsoft.com/en-us/updates/azure-load-testing-supports-web-driver-sampler-plugin-for-apache-jmeter/,"Tue, 09 Jan 2024 18:00:39 Z"
-Azure Load Testing supports fetching secrets from Azure Key Vault with access restrictions (private AKV),https://azure.microsoft.com/en-us/updates/azure-load-testing-supports-fetching-secrets-from-azure-key-vault-with-access-restrictions-private-akv/,"Tue, 09 Jan 2024 18:00:30 Z"
 Announcing Public Preview of the Azure Arc Visual Studio Code Extension,https://azure.microsoft.com/en-us/updates/announcing-public-preview-of-the-azure-arc-visual-studio-code-extension/,"Thu, 11 Jan 2024 17:00:19 Z"
 Create tests by adding HTTP requests in Azure Load Testing,https://azure.microsoft.com/en-us/updates/create-tests-by-adding-http-requests-in-azure-load-testing/,"Thu, 11 Jan 2024 15:56:53 Z"
