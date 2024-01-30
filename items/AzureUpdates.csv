@@ -3,3 +3,7 @@ New Features for graph-match KQL Operator: Enhanced Pattern Matching and Cycle C
 Public Preview: Azure Automation Runtime environment & support for Azure CLI commands in runbooks,https://azure.microsoft.com/en-us/updates/azure-automation-runtime-environment-azurecli-support/,"Wed, 24 Jan 2024 17:00:22 Z"
 Cloud Services (classic) deployment model is retiring on 31 August 2024,https://azure.microsoft.com/en-us/updates/cloud-services-classic-retirement-announcement-jan2024/,"Sat, 27 Jan 2024 00:00:44 Z"
 Dedicated clusters in Azure Monitor logs now support any commitment tier,https://azure.microsoft.com/en-us/updates/dedicated-clusters-in-azure-monitor-logs-now-support-any-commitment-tier/,"Thu, 25 Jan 2024 18:30:18 Z"
+Improved exports experience,https://azure.microsoft.com/en-us/updates/improved-exports-experience/,"Mon, 29 Jan 2024 21:00:35 Z"
+Generally available: Up to 50 test fail criteria in Azure Load Testing,https://azure.microsoft.com/en-us/updates/generally-available-up-to-50-test-criteria-in-azure-load-testing/,"Mon, 29 Jan 2024 20:00:35 Z"
+Azure Red Hat OpenShift January 2024 updates,https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-january-2024-updates/,"Mon, 29 Jan 2024 20:00:34 Z"
+Preview: Selectable search parameter capability for the FHIR service in Azure Health Data Services,https://azure.microsoft.com/en-us/updates/preview-selectable-search-parameter-capability-for-the-fhir-service-in-azure-health-data-services/,"Mon, 29 Jan 2024 19:00:34 Z"
