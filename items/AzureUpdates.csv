@@ -20,3 +20,8 @@ Generally Available: HostPort auto assign in AKS,https://azure.microsoft.com/en-
 Generally Available: Instance level Public IP tags in AKS,https://azure.microsoft.com/en-us/updates/generally-available-instance-level-public-ip-tags-in-aks/,"Mon, 18 Mar 2024 23:00:10 Z"
 Public preview: Trusted launch support in AKS,https://azure.microsoft.com/en-us/updates/public-preview-trusted-launch-support-in-aks/,"Mon, 18 Mar 2024 23:00:09 Z"
 Generally Available: Azure Kubernetes Service (AKS) support for 5K Node limit by default for standard tier clusters,https://azure.microsoft.com/en-us/updates/generally-available-azure-kubernetes-service-aks-support-for-5k-node-limit-by-default-for-standard-tier-clusters/,"Mon, 18 Mar 2024 23:00:08 Z"
+General availability: Listener TLS certificates management in the Azure portal,https://azure.microsoft.com/en-us/updates/ga-listener-tls-certificates-management-available-in-the-azure-portal/,"Tue, 19 Mar 2024 19:40:07 Z"
+Generally available: Azure Health Data Services DICOM service with Azure Data Lake Storage,https://azure.microsoft.com/en-us/updates/generally-available-azure-health-data-services-dicom-service-with-azure-data-lake-storage/,"Tue, 19 Mar 2024 19:00:20 Z"
+Operator and CRD support with Azure Managed Prometheus,https://azure.microsoft.com/en-us/updates/operator-and-crd-support-with-azure-managed-prometheus/,"Tue, 19 Mar 2024 16:00:20 Z"
+Microsoft open sources Retina: A cloud-native container networking observability platform,https://azure.microsoft.com/en-us/updates/open-source-retina/,"Tue, 19 Mar 2024 16:00:18 Z"
+Billing for Azure Monitor stateful log search alerts,https://azure.microsoft.com/en-us/updates/billing-for-azure-monitor-stateful-log-search-alerts-2/,"Tue, 19 Mar 2024 15:18:57 Z"
