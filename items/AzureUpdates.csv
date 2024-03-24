@@ -47,3 +47,6 @@ Azure HDInsight 4.0 will be retired on 31 March 2025 - migrate your HDInsight cl
 Announcing Azure HPC Cache Retirement,https://azure.microsoft.com/en-us/updates/hpccacheretirement/,"Fri, 22 Mar 2024 23:00:06 Z"
 Announcing Avere vFXT for Azure Retirement,https://azure.microsoft.com/en-us/updates/vfxtretirement/,"Fri, 22 Mar 2024 23:00:05 Z"
 Public preview: Public IP Domain Name Label Scope,https://azure.microsoft.com/en-us/updates/public-preview-public-ip-domain-name-label-scope/,"Thu, 21 Mar 2024 15:00:00 Z"
+Private Preview: Force detach zone redundant disks during zone outage,https://azure.microsoft.com/en-us/updates/private-preview-force-detach-zone-redundant-disks-during-zone-outage/,"Thu, 21 Mar 2024 18:00:02 Z"
+General Availability: Azure NetApp Files support for 1 TiB capacity pools,https://azure.microsoft.com/en-us/updates/general-availability-azure-netapp-files-support-for-1-tib-capacity-pools/,"Thu, 21 Mar 2024 17:00:01 Z"
+Public Preview: Next generation of general purpose service tier for Azure SQL Managed Instance,https://azure.microsoft.com/en-us/updates/public-preview-next-generation-of-general-purpose-service-tier-for-azure-sql-managed-instance/,"Thu, 21 Mar 2024 16:00:01 Z"
