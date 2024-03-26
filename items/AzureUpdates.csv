@@ -26,3 +26,7 @@ Public preview: Public IP Domain Name Label Scope,https://azure.microsoft.com/en
 Private Preview: Force detach zone redundant disks during zone outage,https://azure.microsoft.com/en-us/updates/private-preview-force-detach-zone-redundant-disks-during-zone-outage/,"Thu, 21 Mar 2024 18:00:02 Z"
 General Availability: Azure NetApp Files support for 1 TiB capacity pools,https://azure.microsoft.com/en-us/updates/general-availability-azure-netapp-files-support-for-1-tib-capacity-pools/,"Thu, 21 Mar 2024 17:00:01 Z"
 Public Preview: Next generation of general purpose service tier for Azure SQL Managed Instance,https://azure.microsoft.com/en-us/updates/public-preview-next-generation-of-general-purpose-service-tier-for-azure-sql-managed-instance/,"Thu, 21 Mar 2024 16:00:01 Z"
+Breaking Changes to Azure API Management Workspaces,https://azure.microsoft.com/en-us/updates/breaking-changes-to-azure-api-management-workspaces/,"Mon, 25 Mar 2024 18:00:25 Z"
+General Availability: Automatic Scaling for App Service Web Apps,https://azure.microsoft.com/en-us/updates/general-availability-of-the-automatic-scaling-feature/,"Mon, 25 Mar 2024 18:00:16 Z"
+Preview: New Features in Azure Container Storage,https://azure.microsoft.com/en-us/updates/preview-new-features-in-azure-container-storage/,"Mon, 25 Mar 2024 17:00:16 Z"
+Public Preview: Agentless multi-disk crash consistent backup by Azure Backup for VM,https://azure.microsoft.com/en-us/updates/mdcc-publicpreview/,"Mon, 25 Mar 2024 16:00:15 Z"
