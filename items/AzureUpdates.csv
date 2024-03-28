@@ -1,5 +1,4 @@
 Title,Link,PublishedDate
-General Availability: Azure Files geo-redundancy for standard large file shares,https://azure.microsoft.com/en-us/updates/general-availability-azure-files-georedundancy-for-standard-large-file-shares/,"Thu, 21 Mar 2024 19:00:03 Z"
 Action required: Upgrade your App Service apps to Node 20 LTS by 30 April 2025,https://azure.microsoft.com/en-us/updates/action-required-upgrade-your-app-service-apps-to-node-20-lts-by-30-april-2025/,"Fri, 22 Mar 2024 23:00:15 Z"
 Important Notice: Azure Product Retirement: End of Life Announcement of Azure Maps Creator Feature State Service Versions 31 March 2025,https://azure.microsoft.com/en-us/updates/important-notice-azure-product-retirement-end-of-life-announcement-of-azure-maps-creator-feature-state-service-versions-31-ma/,"Fri, 22 Mar 2024 23:00:15 Z"
 Azure Content Moderator will be retired on 15 March 2027,https://azure.microsoft.com/en-us/updates/azure-content-moderator-retirement/,"Fri, 22 Mar 2024 23:00:14 Z"
@@ -20,10 +19,6 @@ Community support for Standard_M192is_v2 is ending on 31 March 2027,https://azur
 Azure HDInsight 4.0 will be retired on 31 March 2025 - migrate your HDInsight clusters to 5.1,https://azure.microsoft.com/en-us/updates/azure-hdinsight-40-will-be-retired-on-31-march-2025-migrate-your-hdinsight-clusters-to-51/,"Fri, 22 Mar 2024 23:00:07 Z"
 Announcing Azure HPC Cache Retirement,https://azure.microsoft.com/en-us/updates/hpccacheretirement/,"Fri, 22 Mar 2024 23:00:06 Z"
 Announcing Avere vFXT for Azure Retirement,https://azure.microsoft.com/en-us/updates/vfxtretirement/,"Fri, 22 Mar 2024 23:00:05 Z"
-Public preview: Public IP Domain Name Label Scope,https://azure.microsoft.com/en-us/updates/public-preview-public-ip-domain-name-label-scope/,"Thu, 21 Mar 2024 15:00:00 Z"
-Private Preview: Force detach zone redundant disks during zone outage,https://azure.microsoft.com/en-us/updates/private-preview-force-detach-zone-redundant-disks-during-zone-outage/,"Thu, 21 Mar 2024 18:00:02 Z"
-General Availability: Azure NetApp Files support for 1 TiB capacity pools,https://azure.microsoft.com/en-us/updates/general-availability-azure-netapp-files-support-for-1-tib-capacity-pools/,"Thu, 21 Mar 2024 17:00:01 Z"
-Public Preview: Next generation of general purpose service tier for Azure SQL Managed Instance,https://azure.microsoft.com/en-us/updates/public-preview-next-generation-of-general-purpose-service-tier-for-azure-sql-managed-instance/,"Thu, 21 Mar 2024 16:00:01 Z"
 Breaking Changes to Azure API Management Workspaces,https://azure.microsoft.com/en-us/updates/breaking-changes-to-azure-api-management-workspaces/,"Mon, 25 Mar 2024 18:00:25 Z"
 General Availability: Automatic Scaling for App Service Web Apps,https://azure.microsoft.com/en-us/updates/general-availability-of-the-automatic-scaling-feature/,"Mon, 25 Mar 2024 18:00:16 Z"
 Preview: New Features in Azure Container Storage,https://azure.microsoft.com/en-us/updates/preview-new-features-in-azure-container-storage/,"Mon, 25 Mar 2024 17:00:16 Z"
