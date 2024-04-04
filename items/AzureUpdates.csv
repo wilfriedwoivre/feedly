@@ -1,8 +1,4 @@
 Title,Link,PublishedDate
-Azure Sphere version 24.03 and Azure Sphere (Integrated) are now generally available,https://azure.microsoft.com/en-us/updates/azure-sphere-version-2403-is-now-available/,"Thu, 28 Mar 2024 17:00:37 Z"
-GA: Improved throughput performance on Azure Disks’ Standard SSD,https://azure.microsoft.com/en-us/updates/ga-improved-throughput-performance-on-azure-disks-standard-ssd/,"Thu, 28 Mar 2024 17:00:35 Z"
-GA: Azure Logic Apps Designer for Consumption,https://azure.microsoft.com/en-us/updates/ga-azure-logic-apps-designer-for-consumption/,"Thu, 28 Mar 2024 16:00:35 Z"
-Public Preview: Safety evaluations for generative AI applications in Azure AI Studio,https://azure.microsoft.com/en-us/updates/azure-ai-studio-safety-evaluations/,"Thu, 28 Mar 2024 15:00:36 Z"
 Begin using Azure Monitor–based dashboards in Azure API Management before the built-in analytics dashboards are retired on 15 March 2027,https://azure.microsoft.com/en-us/updates/begin-using-azure-monitor-based-dashboards-in-azure-api-management-before-the-builtin-analytics-dashboards-are-retired-on-15/,"Fri, 29 Mar 2024 23:19:35 Z"
 Migrate your Git Repository to automated deployments with APIOps by 15 March 2025,https://azure.microsoft.com/en-us/updates/migrate-your-git-repository-to-automated-deployments-with-apiops-by-15-march-2025/,"Fri, 29 Mar 2024 23:00:38 Z"
 Long Audio API will be retired on 31 March 2027 – Migrate to the new batch synthesis API,https://azure.microsoft.com/en-us/updates/long-audio-api-will-be-retired-on-31-march-2027-migrate-to-the-new-batch-synthesis-api/,"Fri, 29 Mar 2024 23:00:38 Z"
@@ -27,7 +23,6 @@ GA: Azure API Management Developer Portal Unveils Enhanced Features for Increase
 Public preview: ExpressRoute Metro for High Resiliency,https://azure.microsoft.com/en-us/updates/expressroutemetro/,"Mon, 01 Apr 2024 18:00:08 Z"
 Public preview: Azure Backup supports long term retention for backup of Azure Database for MySQL– Flexible Server,https://azure.microsoft.com/en-us/updates/mysql-flexibleserverlongtermretenttion/,"Mon, 01 Apr 2024 16:00:06 Z"
 Public Preview: Azure Backup enables vaulted backups for Azure Files for comprehensive data protection.,https://azure.microsoft.com/en-us/updates/azurefiles-vaultedbackups/,"Mon, 01 Apr 2024 14:00:05 Z"
-Preview: Improved throughput performance on Azure Disks’ Standard SSD,https://azure.microsoft.com/en-us/updates/ga-improved-throughput-performance-on-azure-disks-standard-ssd/,"Thu, 28 Mar 2024 17:00:35 Z"
 Test,https://azure.microsoft.com/en-us/updates/public-preview-new-generation-intel-v6-vms/,"Tue, 02 Apr 2024 21:58:54 Z"
 General Availability of Azure Logic Apps connectors for IBM Mainframe and Midranges,https://azure.microsoft.com/en-us/updates/general-availability-of-azure-logic-apps-connectors-for-ibm-mainframe-and-midranges/,"Tue, 02 Apr 2024 17:00:38 Z"
 Public Preview of Azure OpenAI and AI Search in-app connectors for Logic Apps (Standard),https://azure.microsoft.com/en-us/updates/public-preview-of-azure-openai-and-ai-search-inapp-connectors-for-logic-apps-standard/,"Tue, 02 Apr 2024 17:00:31 Z"
