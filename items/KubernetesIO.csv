@@ -1,5 +1,4 @@
 Title,Link,PublishedDate
-Kubernetes 1.30: Beta Support For Pods With User Namespaces,https://kubernetes.io/blog/2024/04/22/userns-beta/,"Mon, 22 Apr 2024 00:00:00 +0000"
 Kubernetes 1.30: Read-only volume mounts can be finally literally read-only,https://kubernetes.io/blog/2024/04/23/recursive-read-only-mounts/,"Tue, 23 Apr 2024 00:00:00 +0000"
 Kubernetes 1.30: Validating Admission Policy Is Generally Available,https://kubernetes.io/blog/2024/04/24/validating-admission-policy-ga/,"Wed, 24 Apr 2024 00:00:00 +0000"
 Kubernetes 1.30: Structured Authentication Configuration Moves to Beta,https://kubernetes.io/blog/2024/04/25/structured-authentication-moves-to-beta/,"Thu, 25 Apr 2024 00:00:00 +0000"
