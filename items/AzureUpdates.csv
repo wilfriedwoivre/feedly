@@ -75,3 +75,5 @@ Public preview: Managed Prometheus visualizations for Azure Monitor container in
 Preview: Windows gRPC support is now available on App Service,https://azure.microsoft.com/en-us/updates/grpcwinappservice/,"Wed, 22 May 2024 16:00:27 Z"
 Public preview: Azure Log Analytics enhances resilience with workspace replication across regions,https://azure.microsoft.com/en-us/updates/log-analytics-workspace-replication-public-preview/,"Wed, 22 May 2024 16:00:27 Z"
 Generally Available: KEDA in the Azure Portal,https://azure.microsoft.com/en-us/updates/public-preview-keda-scaling-in-the-azure-portal/,"Tue, 21 May 2024 16:00:25 Z"
+Public preview of the App Configuration Extension for AKS,https://azure.microsoft.com/en-us/updates/appconfig-aksextension/,"Thu, 23 May 2024 20:55:13 Z"
+Public preview: SDK type bindings for Azure Blob Storage with Azure Functions in Python,https://azure.microsoft.com/en-us/updates/public-preview-sdk-type-bindings-for-azure-blog-storage-with-azure-functions-in-python/,"Tue, 21 May 2024 16:00:26 Z"
