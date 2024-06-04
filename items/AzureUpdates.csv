@@ -1,10 +1,4 @@
 Title,Link,PublishedDate
-Generally Available: Azure Chaos Studio supports a new Pause Process fault for Windows virtual machines,https://azure.microsoft.com/en-us/updates/generally-available-azure-chaos-studio-supports-a-new-pause-process-fault-for-windows-virtual-machines/,"Tue, 28 May 2024 18:00:18 Z"
-Public preview: Advanced Container Networking Services for Azure Kubernetes Services (AKS),https://azure.microsoft.com/en-us/updates/advanced-container-networking-services/,"Tue, 28 May 2024 17:03:11 Z"
-General availability: Azure NetApp Files support for large volumes up to 500TiB in size,https://azure.microsoft.com/en-us/updates/general-availability-azure-netapp-files-support-for-large-volumes-up-to-500tib-in-size/,"Tue, 28 May 2024 17:00:17 Z"
-General availability: Activity log alerts can now run in EU Data Boundary,https://azure.microsoft.com/en-us/updates/general-availability-activity-log-alerts-can-now-run-in-eu-data-boundary/,"Tue, 28 May 2024 16:00:29 Z"
-General Availability: VM Hibernation for General Purpose VMs,https://azure.microsoft.com/en-us/updates/general-availability-vm-hibernation-general-purpose/,"Tue, 28 May 2024 16:00:23 Z"
-General Availability: Azure API Center Extension for VS Code,https://azure.microsoft.com/en-us/updates/general-availability-azure-api-center-extension-for-vs-code/,"Tue, 28 May 2024 16:00:17 Z"
 Public Preview: Kubernetes Metadata and Logs Filtering in Azure Monitor - Container Insights,https://azure.microsoft.com/en-us/updates/kubernetesmetadataandlogsfilteringpublicpreview/,"Wed, 29 May 2024 20:00:01 Z"
 General Availability: Azure NetApp Files backup,https://azure.microsoft.com/en-us/updates/general-availability-azure-netapp-files-backup/,"Wed, 29 May 2024 17:00:00 Z"
 Public preview: Azure Load Balancer health event logs,https://azure.microsoft.com/en-us/updates/public-preview-azure-load-balancer-health-event-logs/,"Wed, 29 May 2024 17:00:00 Z"
