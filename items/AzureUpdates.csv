@@ -1,7 +1,4 @@
 Title,Link,PublishedDate
-Added support for Azure Monitor log search alert rules in Resource Health,https://azure.microsoft.com/en-us/updates/added-support-for-azure-monitor-log-search-alert-rules-in-resource-health/,"Mon, 03 Jun 2024 17:21:00 Z"
-Log search alert rules using linked storage will require using a managed identity staring July 2024,https://azure.microsoft.com/en-us/updates/log-search-alert-rules-using-linked-storage-will-require-using-a-managed-identity-staring-july-2024/,"Mon, 03 Jun 2024 16:12:19 Z"
-General Availability: Audit logging in Azure API Management developer portal,https://azure.microsoft.com/en-us/updates/general-availability-audit-logging-in-azure-api-management-developer-portal/,"Mon, 03 Jun 2024 16:00:10 Z"
 Public preview: Online migration in migration service Azure Database for PostgreSQL,https://azure.microsoft.com/en-us/updates/public-preview-online-migration-in-migration-service-azure-database-for-postgresql/,"Wed, 05 Jun 2024 16:00:36 Z"
 Public Preview: Azure SQL updates for early-June 2024,https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-earlyjune-2024/,"Wed, 05 Jun 2024 16:00:36 Z"
 General availability: Multi-select delete in Azure Cosmos DB with Data Explorer,https://azure.microsoft.com/en-us/updates/general-availability-multiselect-delete-in-azure-cosmos-db-with-data-explorer/,"Wed, 05 Jun 2024 16:00:35 Z"
