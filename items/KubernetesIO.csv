@@ -1,5 +1,4 @@
 Title,Link,PublishedDate
-Introducing Feature Gates to Client-Go: Enhancing Flexibility and Control,https://kubernetes.io/blog/2024/08/12/feature-gates-in-client-go/,"Mon, 12 Aug 2024 00:00:00 +0000"
 Kubernetes 1.31: Moving cgroup v1 Support into Maintenance Mode,https://kubernetes.io/blog/2024/08/14/kubernetes-1-31-moving-cgroup-v1-support-maintenance-mode/,"Wed, 14 Aug 2024 00:00:00 +0000"
 Kubernetes v1.31: PersistentVolume Last Phase Transition Time Moves to GA,https://kubernetes.io/blog/2024/08/14/last-phase-transition-time-ga/,"Wed, 14 Aug 2024 00:00:00 +0000"
 Kubernetes v1.31: Elli,https://kubernetes.io/blog/2024/08/13/kubernetes-v1-31-release/,"Tue, 13 Aug 2024 00:00:00 +0000"
