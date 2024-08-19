@@ -7,3 +7,4 @@ Kubernetes 1.31: MatchLabelKeys in PodAffinity graduates to beta,https://kuberne
 Kubernetes 1.31: Prevent PersistentVolume Leaks When Deleting out of Order,https://kubernetes.io/blog/2024/08/16/kubernetes-1-31-prevent-persistentvolume-leaks-when-deleting-out-of-order/,"Fri, 16 Aug 2024 00:00:00 +0000"
 Kubernetes 1.31: Read Only Volumes Based On OCI Artifacts (alpha),https://kubernetes.io/blog/2024/08/16/kubernetes-1-31-image-volume-source/,"Fri, 16 Aug 2024 00:00:00 +0000"
 Kubernetes 1.31: VolumeAttributesClass for Volume Modification Beta,https://kubernetes.io/blog/2024/08/15/kubernetes-1-31-volume-attributes-class/,"Thu, 15 Aug 2024 00:00:00 +0000"
+Kubernetes 1.31: Pod Failure Policy for Jobs Goes GA,https://kubernetes.io/blog/2024/08/19/kubernetes-1-31-pod-failure-policy-for-jobs-goes-ga/,"Mon, 19 Aug 2024 00:00:00 +0000"
