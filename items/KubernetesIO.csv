@@ -1,6 +1,4 @@
 Title,Link,PublishedDate
-Kubernetes 1.31: Moving cgroup v1 Support into Maintenance Mode,https://kubernetes.io/blog/2024/08/14/kubernetes-1-31-moving-cgroup-v1-support-maintenance-mode/,"Wed, 14 Aug 2024 00:00:00 +0000"
-Kubernetes v1.31: PersistentVolume Last Phase Transition Time Moves to GA,https://kubernetes.io/blog/2024/08/14/last-phase-transition-time-ga/,"Wed, 14 Aug 2024 00:00:00 +0000"
 Kubernetes v1.31: Accelerating Cluster Performance with Consistent Reads from Cache,https://kubernetes.io/blog/2024/08/15/consistent-read-from-cache-beta/,"Thu, 15 Aug 2024 00:00:00 +0000"
 Kubernetes 1.31: MatchLabelKeys in PodAffinity graduates to beta,https://kubernetes.io/blog/2024/08/16/matchlabelkeys-podaffinity/,"Fri, 16 Aug 2024 00:00:00 +0000"
 Kubernetes 1.31: Prevent PersistentVolume Leaks When Deleting out of Order,https://kubernetes.io/blog/2024/08/16/kubernetes-1-31-prevent-persistentvolume-leaks-when-deleting-out-of-order/,"Fri, 16 Aug 2024 00:00:00 +0000"
