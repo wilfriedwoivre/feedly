@@ -1,5 +1,2 @@
 Title,Link,PublishedDate
-Kubernetes 1.31: Custom Profiling in Kubectl Debug Graduates to Beta,https://kubernetes.io/blog/2024/08/22/kubernetes-1-31-custom-profiling-kubectl-debug/,"Thu, 22 Aug 2024 00:00:00 +0000"
-Kubernetes 1.31: Fine-grained SupplementalGroups control,https://kubernetes.io/blog/2024/08/22/fine-grained-supplementalgroups-control/,"Thu, 22 Aug 2024 00:00:00 +0000"
-Kubernetes v1.31: New Kubernetes CPUManager Static Policy: Distribute CPUs Across Cores,https://kubernetes.io/blog/2024/08/22/cpumanager-static-policy-distributed-cpu-across-cores/,"Thu, 22 Aug 2024 00:00:00 +0000"
 Kubernetes v1.31: kubeadm v1beta4,https://kubernetes.io/blog/2024/08/23/kubernetes-1-31-kubeadm-v1beta4/,"Fri, 23 Aug 2024 00:00:00 +0000"
