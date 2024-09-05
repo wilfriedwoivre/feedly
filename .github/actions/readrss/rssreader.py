@@ -65,6 +65,11 @@ def run():
 
             if publishedDate.date() > (date.today() - timedelta(days = 7)):
                 validItems.append(FeedItem(item.title, item.links[0].href, item.updated))
+        elif feedType == "azblog":
+            publishedDate = parse(item.pubDate)
+
+            if publishedDate.date() > (date.today() - timedelta(days = 7)):
+                validItems.append(FeedItem(item.title, item.links[0].href, item.updated))
 
     print("Valid Items")
     print(validItems)
