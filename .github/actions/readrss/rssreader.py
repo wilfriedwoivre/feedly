@@ -58,18 +58,18 @@ def run():
         if feedType == "rss":
             publishedDate = parse(item.published)
 
+            print(f'{item.title}')
+
             if publishedDate.date() > (date.today() - timedelta(days = 7)):
                 validItems.append(FeedItem(item.title, item.links[0].href, item.published))
         elif feedType == "atom":
             publishedDate = parse(item.updated)
 
-            if publishedDate.date() > (date.today() - timedelta(days = 7)):
-                validItems.append(FeedItem(item.title, item.links[0].href, item.updated))
-        elif feedType == "azblog":
-            publishedDate = parse(item.pubDate)
+            print(f'{item.title}')
 
             if publishedDate.date() > (date.today() - timedelta(days = 7)):
                 validItems.append(FeedItem(item.title, item.links[0].href, item.updated))
+        
 
     print("Valid Items")
     print(validItems)
