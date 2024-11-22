@@ -98,3 +98,8 @@ Title,Link,PublishedDate
 [In preview] Public Preview: New Linux-based Azure Cosmos DB Emulator,https://azure.microsoft.com/updates?id=467444,2024-11-20T17:00:53Z
 [In preview] Public Preview: Autoscale in vCore based Azure Cosmos DB for MongoDB,https://azure.microsoft.com/updates?id=467439,2024-11-20T17:00:53Z
 [In preview] Public Preview: Network security perimeter with Azure Cosmos DB,https://azure.microsoft.com/updates?id=467269,2024-11-20T17:00:53Z
+Retirement: Azure PostgreSQL migration extension in Azure Data Studio (ADS),https://azure.microsoft.com/updates?id=470131,2024-11-21T18:45:48Z
+Retirement: Support for TLS 1.0/1.1 in Application Insights Availability Tests will be retired,https://azure.microsoft.com/updates?id=467600,2024-11-21T18:30:54Z
+[In preview] Public Preview: Read and read/write privileges for secondary users in vCore-based Azure Cosmos DB for MongoDB,https://azure.microsoft.com/updates?id=470102,2024-11-21T17:30:38Z
+[In preview] Public Preview: Visual Studio Code extension for Azure Cosmos DB,https://azure.microsoft.com/updates?id=470097,2024-11-21T17:30:38Z
+[Launched] Generally Available: Da/Ea/Fav6 series AMD based Azure Virtual Machines (VMs),https://azure.microsoft.com/updates?id=470092,2024-11-21T17:30:38Z
