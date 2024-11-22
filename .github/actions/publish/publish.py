@@ -72,17 +72,18 @@ def fetch_embed_url_card(access_token: str, url: str) -> Dict:
             img_url = url + img_url
         resp = requests.get(img_url)
         resp.raise_for_status()
+        if resp.status_code != 404:
 
-        blob_resp = requests.post(
-            "https://bsky.social/xrpc/com.atproto.repo.uploadBlob",
-            headers={
-                "Content-Type": "image/png",
-                "Authorization": "Bearer " + access_token,
-            },
-            data=resp.content,
-        )
-        blob_resp.raise_for_status()
-        card["thumb"] = blob_resp.json()["blob"]
+            blob_resp = requests.post(
+                "https://bsky.social/xrpc/com.atproto.repo.uploadBlob",
+                headers={
+                    "Content-Type": "image/png",
+                    "Authorization": "Bearer " + access_token,
+                },
+                data=resp.content,
+            )
+            blob_resp.raise_for_status()
+            card["thumb"] = blob_resp.json()["blob"]
 
     return {
         "$type": "app.bsky.embed.external",
