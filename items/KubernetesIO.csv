@@ -1,2 +1,3 @@
 Title,Link,PublishedDate
 How we built a dynamic Kubernetes API Server for the API Aggregation Layer in Cozystack,https://kubernetes.io/blog/2024/11/21/dynamic-kubernetes-api-server-for-cozystack/,"Thu, 21 Nov 2024 00:00:00 +0000"
+"Gateway API v1.2: WebSockets, Timeouts, Retries, and More",https://kubernetes.io/blog/2024/11/21/gateway-api-v1-2/,"Thu, 21 Nov 2024 09:00:00 -0800"
