@@ -1,9 +1,4 @@
 Title,Link,PublishedDate
-Retirement: Azure PostgreSQL migration extension in Azure Data Studio (ADS),https://azure.microsoft.com/updates?id=470131,2024-11-21T18:45:48Z
-Retirement: Support for TLS 1.0/1.1 in Application Insights Availability Tests will be retired,https://azure.microsoft.com/updates?id=467600,2024-11-21T18:30:54Z
-[In preview] Public Preview: Read and read/write privileges for secondary users in vCore-based Azure Cosmos DB for MongoDB,https://azure.microsoft.com/updates?id=470102,2024-11-21T17:30:38Z
-[In preview] Public Preview: Visual Studio Code extension for Azure Cosmos DB,https://azure.microsoft.com/updates?id=470097,2024-11-21T17:30:38Z
-[Launched] Generally Available: Da/Ea/Fav6 series AMD based Azure Virtual Machines (VMs),https://azure.microsoft.com/updates?id=470092,2024-11-21T17:30:38Z
 [Launched] Generally Available: Star pattern and default node identifier in Kusto,https://azure.microsoft.com/updates?id=470314,2024-11-22T20:00:49Z
 [In preview] Public Preview: New graph operators in Kusto,https://azure.microsoft.com/updates?id=470309,2024-11-22T20:00:49Z
 [Launched] Generally Available: Regional Disaster Recovery by Azure Backup for AKS,https://azure.microsoft.com/updates?id=469695,2024-11-22T18:00:20Z
