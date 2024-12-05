@@ -3,3 +3,7 @@ Title,Link,PublishedDate
 [Launched] Generally Available: Azure Health Data Services de-identification service,https://azure.microsoft.com/updates?id=470517,2024-12-03T23:30:01Z
 "[Launched] Generally Available: Enhancements on Elastic SAN on resiliency, scalability, and integration with Azure VMWare Solution",https://azure.microsoft.com/updates?id=471200,2024-12-03T21:15:04Z
 [In preview] Public Preview: Neon Serverless Postgres - an Azure Native Integration,https://azure.microsoft.com/updates?id=469263,2024-12-03T17:00:33Z
+[Launched] Generally Available: vCore-based Azure Cosmos DB for MongoDB—up to 32 TiB storage,https://azure.microsoft.com/updates?id=vcore-based-azure-cosmos-db-for-mongodb-up-to-32-tib-storage,2024-12-04T22:15:37Z
+[Launched] Generally Available: Cross-region replication in vCore-based Azure Cosmos DB for MongoDB,https://azure.microsoft.com/updates?id=mdb-vcore-repl,2024-12-04T22:15:37Z
+[Launched] Generally Available: vCore-based Azure Cosmos DB for MongoDB multishard clusters,https://azure.microsoft.com/updates?id=mdb-vcore-sharding,2024-12-04T22:15:37Z
+[Launched] Generally Available: Index tuning in Azure Database for PostgreSQL - Flexible Server,https://azure.microsoft.com/updates?id=public-preview-index-recommendations-in-azure-database-for-postgresql-flexible-server,2024-12-04T20:15:20Z
