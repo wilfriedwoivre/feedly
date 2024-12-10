@@ -1,2 +1,3 @@
 Title,Link,PublishedDate
 Announcing the Adaptive Prompt Injection Challenge (LLMail-Inject),https://msrc.microsoft.com/blog/2024/12/announcing-the-adaptive-prompt-injection-challenge-llmail-inject/,"Fri, 06 Dec 2024 00:00:00 -0800"
+Mitigating NTLM Relay Attacks by Default,https://msrc.microsoft.com/blog/2024/12/mitigating-ntlm-relay-attacks-by-default/,"Mon, 09 Dec 2024 00:00:00 -0800"
