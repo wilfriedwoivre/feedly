@@ -1,3 +1,15 @@
 Title,Link,PublishedDate
 Retirement: Azure CDN Standard/Premium from Edgio (formerly Verizon) will be retired,https://azure.microsoft.com/updates?id=467688,2024-12-09T21:30:39Z
 [Launched] Generally Available: Microsoft Azure now available from new cloud region in New Zealand,https://azure.microsoft.com/updates?id=471035,2024-12-10T12:15:07Z
+[Launched] Generally Available: Enhanced AKS logs with Kubernetes metadata and logs filtering,https://azure.microsoft.com/updates?id=471329,2024-12-11T04:00:45Z
+[In preview] Public Preview: GitHub Copilot for Azure – AKS plugins,https://azure.microsoft.com/updates?id=471324,2024-12-11T04:00:45Z
+[Launched] Generally Available: AKS automated deployments UI,https://azure.microsoft.com/updates?id=471319,2024-12-11T04:00:45Z
+[In preview] Public Preview: AKS support for private ingress on cluster create or through API,https://azure.microsoft.com/updates?id=471309,2024-12-11T04:00:45Z
+[Launched] Generally Available: Vaulted backup for AKS,https://azure.microsoft.com/updates?id=471300,2024-12-11T04:00:45Z
+[Launched] Generally Available: Force attach/detach API support in AKS,https://azure.microsoft.com/updates?id=471295,2024-12-11T04:00:45Z
+[In preview] Public Preview: KAITO managed add-on now available in the AKS Visual Studio Code extension,https://azure.microsoft.com/updates?id=471290,2024-12-11T04:00:45Z
+[Launched] Generally Available: Open-source feature update: vLLM model serving in KAITO,https://azure.microsoft.com/updates?id=471285,2024-12-11T04:00:45Z
+[In preview] Public Preview: Windows GPU – Driver type selection,https://azure.microsoft.com/updates?id=471280,2024-12-11T04:00:45Z
+[In preview] Public Preview: AKS Communication Manager,https://azure.microsoft.com/updates?id=471275,2024-12-11T04:00:45Z
+[In preview] Public Preview: IMDS restriction support in AKS,https://azure.microsoft.com/updates?id=471270,2024-12-11T04:00:45Z
+[Launched] Generally Available: Parallel Image Pulls by Default in AKS,https://azure.microsoft.com/updates?id=471237,2024-12-11T04:00:45Z
