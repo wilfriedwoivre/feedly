@@ -1,6 +1,5 @@
 Title,Link,PublishedDate
 Kubernetes v1.32: QueueingHint Brings a New Possibility to Optimize Pod Scheduling,https://kubernetes.io/blog/2024/12/12/scheduler-queueinghint/,"Thu, 12 Dec 2024 00:00:00 +0000"
-Kubernetes v1.32: Penelope,https://kubernetes.io/blog/2024/12/11/kubernetes-v1-32-release/,"Wed, 11 Dec 2024 00:00:00 +0000"
 Kubernetes v1.32: Memory Manager Goes GA,https://kubernetes.io/blog/2024/12/13/memory-manager-goes-ga/,"Fri, 13 Dec 2024 00:00:00 +0000"
 Kubernetes v1.32 Adds A New CPU Manager Static Policy Option For Strict CPU Reservation,https://kubernetes.io/blog/2024/12/16/cpumanager-strict-cpu-reservation/,"Mon, 16 Dec 2024 00:00:00 +0000"
 Enhancing Kubernetes API Server Efficiency with API Streaming,https://kubernetes.io/blog/2024/12/17/kube-apiserver-api-streaming/,"Tue, 17 Dec 2024 00:00:00 +0000"
