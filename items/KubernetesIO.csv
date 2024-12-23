@@ -1,4 +1,3 @@
 Title,Link,PublishedDate
-Kubernetes v1.32 Adds A New CPU Manager Static Policy Option For Strict CPU Reservation,https://kubernetes.io/blog/2024/12/16/cpumanager-strict-cpu-reservation/,"Mon, 16 Dec 2024 00:00:00 +0000"
 Enhancing Kubernetes API Server Efficiency with API Streaming,https://kubernetes.io/blog/2024/12/17/kube-apiserver-api-streaming/,"Tue, 17 Dec 2024 00:00:00 +0000"
 Kubernetes 1.32: Moving Volume Group Snapshots to Beta,https://kubernetes.io/blog/2024/12/18/kubernetes-1-32-volume-group-snapshot-beta/,"Wed, 18 Dec 2024 00:00:00 +0000"
