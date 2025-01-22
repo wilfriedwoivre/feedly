@@ -1,7 +1,4 @@
 Title,Link,PublishedDate
-[Launched] Generally Available: Azure SQL updates for mid-January 2025,https://azure.microsoft.com/updates?id=474873,2025-01-15T17:30:50Z
-[Launched] Generally Available: Accelerated logs now default along with support for customer managed keys (CMKs) in Azure Database for MySQL,https://azure.microsoft.com/updates?id=474855,2025-01-15T17:30:50Z
-[Launched] Generally Available: User-managed plugin enablement in Azure Database for MySQL – Flexible Server,https://azure.microsoft.com/updates?id=474838,2025-01-15T17:30:50Z
 [Launched] Generally Available: Customer Managed Unplanned Failover for Azure Data Lake Storage and SSH File Transfer Protocol,https://azure.microsoft.com/updates?id=476059,2025-01-16T19:30:57Z
 [Launched] Generally Available: Open-source feature update: KAITO Retrieval-Augmented Generation (RAG) support,https://azure.microsoft.com/updates?id=471314,2025-01-16T19:15:15Z
 [In preview] Public Preview: JavaScript code interpreter dynamic sessions in Azure Container Apps,https://azure.microsoft.com/updates?id=475219,2025-01-16T19:00:33Z
