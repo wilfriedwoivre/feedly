@@ -6,3 +6,5 @@ Retirement: All Azure Automation jobs running on Agent-based Hybrid Worker will 
 [Launched] Generally Available: Changes to instance size flexibility ratios for Azure Reserved Virtual Machine Instances for M-series,https://azure.microsoft.com/updates?id=478063,2025-01-24T23:00:44Z
 "Retirement: Resources interacting with Azure Automation using TLS 1.0/1.1 protocol will be blocked from March 1, 2025",https://azure.microsoft.com/updates?id=477729,2025-01-24T14:30:17Z
 "Retirement: Azure Automation will discontinue execution of PowerShell runbooks using AzureRM modules from February 1, 2025",https://azure.microsoft.com/updates?id=477700,2025-01-24T14:15:38Z
+[In preview] Public Preview: Reduce costs with Hibernation in Azure DevTest Labs,https://azure.microsoft.com/updates?id=476885,2025-01-27T23:30:49Z
+[Launched] Generally Available: Azure Red Hat OpenShift in Spain Central,https://azure.microsoft.com/updates?id=478571,2025-01-27T23:00:33Z
