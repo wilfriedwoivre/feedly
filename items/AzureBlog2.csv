@@ -5,3 +5,7 @@ Retirement: All Azure Automation jobs running on Agent-based Hybrid Worker will 
 "Retirement: Azure Automation will discontinue execution of PowerShell runbooks using AzureRM modules from February 1, 2025",https://azure.microsoft.com/updates?id=477700,2025-01-24T14:15:38Z
 [In preview] Public Preview: Reduce costs with Hibernation in Azure DevTest Labs,https://azure.microsoft.com/updates?id=476885,2025-01-27T23:30:49Z
 [Launched] Generally Available: Azure Red Hat OpenShift in Spain Central,https://azure.microsoft.com/updates?id=478571,2025-01-27T23:00:33Z
+[Launched] Generally Available: Support for new custom error pages in Application Gateway,https://azure.microsoft.com/updates?id=public-preview-support-for-new-custom-error-pages-in-application-gateway,2025-01-28T18:15:12Z
+[In preview] Public Preview: Announcing the Next generation Azure Data Box Devices,https://azure.microsoft.com/updates?id=475398,2025-01-28T15:00:52Z
+Retirement: Migrating to TLS 1.2+ with the Deprecation of Outdated Security Protocols,https://azure.microsoft.com/updates?id=migrating-to-tls-12-with-deprecation-of-outdated-security-protocols,2025-01-28T15:00:52Z
+[In preview] Public Preview: Introducing enhanced support for Generation 2 VMs in Azure DevTest Labs,https://azure.microsoft.com/updates?id=476902,2025-01-28T14:00:19Z
