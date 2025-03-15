@@ -22,3 +22,5 @@ Title,Link,PublishedDate
 [In preview] Public Preview: Azure Linux 3.0 Support in AKS,https://azure.microsoft.com/updates?id=484080,2025-03-13T19:45:06Z
 [Launched] Generally Available: Azure Virtual Network Manager Network Verifier,https://azure.microsoft.com/updates?id=484274,2025-03-13T16:00:38Z
 [Launched] Generally Available: API Management as a Private Link-Enabled Origin for Front Door Premium,https://azure.microsoft.com/updates?id=484048,2025-03-13T13:00:32Z
+WebAssembly System Interface (WASI) Node Pools in AKS,https://azure.microsoft.com/updates?id=484102,2025-03-14T18:00:36Z
+Retirement: GPU image (Preview) in AKS,https://azure.microsoft.com/updates?id=484097,2025-03-14T18:00:36Z
