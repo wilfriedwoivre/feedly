@@ -1,17 +1,4 @@
 Title,Link,PublishedDate
-[Launched] Generally Available: Azure Chaos Studio Now in Germany West Central Region,https://azure.microsoft.com/updates?id=484696,2025-03-12T18:45:01Z
-[Launched] Generally Available: Azure SQL Updates for Mid-March 2025,https://azure.microsoft.com/updates?id=483707,2025-03-12T18:45:01Z
-[Launched] Generally Available: Azure Database for PostgreSQL Support for New Zealand North Region,https://azure.microsoft.com/updates?id=483702,2025-03-12T18:45:01Z
-[Launched] Generally Available: Enhanced Performance Guidance in Azure Advisor for Azure Database for PostgreSQL,https://azure.microsoft.com/updates?id=483697,2025-03-12T18:45:01Z
-[Launched] Generally Available: Azure Data Factory – Azure Database for PostgreSQL Connector Version 2.0,https://azure.microsoft.com/updates?id=483692,2025-03-12T18:45:01Z
-[In preview] Public Preview: MySQL Discovery and Assessment in Azure Migrate,https://azure.microsoft.com/updates?id=483687,2025-03-12T18:45:01Z
-[Launched] Generally Available: Entry-Level Tiers (M10/M20) with vCore-Based Azure Cosmos DB for MongoDB,https://azure.microsoft.com/updates?id=483629,2025-03-12T18:45:01Z
-[Launched] Generally Available: Autoscale for vCore-Based Azure Cosmos DB on MongoDB,https://azure.microsoft.com/updates?id=483616,2025-03-12T18:45:01Z
-[Launched] Generally Available: Azure Site Recovery Update Rollup 77 – March 2025,https://azure.microsoft.com/updates?id=483284,2025-03-12T18:45:01Z
-[Launched] Generally Available: Azure Database for PostgreSQL Supports pg_repack Extension Version 1.5.1,https://azure.microsoft.com/updates?id=481996,2025-03-12T18:45:01Z
-[Launched] Generally Available: Azure Database for PostgreSQL – Flexible Server Supports the tdigest Extension,https://azure.microsoft.com/updates?id=481991,2025-03-12T18:45:01Z
-[Launched] Generally Available: Azure Database for PostgreSQL Supports postgresql-hll Extension,https://azure.microsoft.com/updates?id=481982,2025-03-12T18:45:01Z
-[Launched] Generally Available: Azure Database for PostgreSQL Support for Topn Extension,https://azure.microsoft.com/updates?id=481965,2025-03-12T18:45:01Z
 "[Launched] Generally Available: Azure Container Apps in Australia SE, France South, Japan West, and Spain Central",https://azure.microsoft.com/updates?id=484299,2025-03-13T20:00:05Z
 [In preview] Public Preview: Windows Support for Virtual Machines Node Pools in AKS,https://azure.microsoft.com/updates?id=484136,2025-03-13T20:00:05Z
 [Launched] Generally Available: Node Auto-Repair Kubernetes Events in AKS,https://azure.microsoft.com/updates?id=484131,2025-03-13T20:00:05Z
