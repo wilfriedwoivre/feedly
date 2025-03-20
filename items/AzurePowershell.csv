@@ -2,3 +2,5 @@ Title,Link,PublishedDate
 Az.Storage v8.2.1-preview,https://github.com/Azure/azure-powershell/releases/tag/Az.Storage-v8.2.1-preview,2025-03-15T15:17:53Z
 Az.CosmosDB v1.18.0,https://github.com/Azure/azure-powershell/releases/tag/Az.CosmosDB-v1.18.0,2025-03-15T15:02:05Z
 Az.CodeSigning v0.2.2,https://github.com/Azure/azure-powershell/releases/tag/Az.CodeSigning-v0.2.2,2025-03-15T15:08:08Z
+Az.DesktopVirtualization v5.4.2-preview,https://github.com/Azure/azure-powershell/releases/tag/Az.DesktopVirtualization-v5.4.2-preview,2025-03-19T10:41:04Z
+Az.Network v7.15.1,https://github.com/Azure/azure-powershell/releases/tag/Az.Network-v7.15.1,2025-03-20T02:20:04Z
