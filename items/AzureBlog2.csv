@@ -1,13 +1,4 @@
 Title,Link,PublishedDate
-"[Launched] Generally Available: Azure Container Apps in Australia SE, France South, Japan West, and Spain Central",https://azure.microsoft.com/updates?id=484299,2025-03-13T20:00:05Z
-[In preview] Public Preview: Windows Support for Virtual Machines Node Pools in AKS,https://azure.microsoft.com/updates?id=484136,2025-03-13T20:00:05Z
-[Launched] Generally Available: Node Auto-Repair Kubernetes Events in AKS,https://azure.microsoft.com/updates?id=484131,2025-03-13T20:00:05Z
-[In preview] Public Preview: Control Plane Azure Platform Metrics in AKS,https://azure.microsoft.com/updates?id=484112,2025-03-13T19:45:06Z
-[Launched] Generally Available: Default Ephemeral OS Disk Sizing in AKS,https://azure.microsoft.com/updates?id=484107,2025-03-13T19:45:06Z
-[Launched] Generally Available: Message of the Day Support in AKS,https://azure.microsoft.com/updates?id=484091,2025-03-13T19:45:06Z
-[In preview] Public Preview: Azure Linux 3.0 Support in AKS,https://azure.microsoft.com/updates?id=484080,2025-03-13T19:45:06Z
-[Launched] Generally Available: Azure Virtual Network Manager Network Verifier,https://azure.microsoft.com/updates?id=484274,2025-03-13T16:00:38Z
-[Launched] Generally Available: API Management as a Private Link-Enabled Origin for Front Door Premium,https://azure.microsoft.com/updates?id=484048,2025-03-13T13:00:32Z
 WebAssembly System Interface (WASI) Node Pools in AKS,https://azure.microsoft.com/updates?id=484102,2025-03-14T18:00:36Z
 Retirement: GPU image (Preview) in AKS,https://azure.microsoft.com/updates?id=484097,2025-03-14T18:00:36Z
 [Launched] Generally Available: Azure Stream Analytics Integration with Schema Registry,https://azure.microsoft.com/updates?id=485579,2025-03-17T17:00:02Z
