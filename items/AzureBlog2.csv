@@ -8,3 +8,6 @@ Title,Link,PublishedDate
 [Launched] Generally Available: VM Hibernation on GPU VMs,https://azure.microsoft.com/updates?id=485005,2025-03-18T16:45:35Z
 "Retirement: Kubenet Networking for Azure Kubernetes Service to Be Retired on March 31, 2028",https://azure.microsoft.com/updates?id=485172,2025-03-18T13:15:44Z
 "Retirement: Azure Spring Apps to Be Retired on March 31, 2028",https://azure.microsoft.com/updates?id=485865,2025-03-18T12:45:05Z
+[In preview] Public Preview: Managed Developer Portal in Azure API Center (API Center Portal),https://azure.microsoft.com/updates?id=485666,2025-03-20T19:00:38Z
+[Launched] Generally Available: Azure Monitor Managed Service for Prometheus for Azure Arc-enabled Kubernetes,https://azure.microsoft.com/updates?id=484587,2025-03-20T18:30:50Z
+"Retirement: Extended Support for Node 20 LTS Ends on April 30, 2026",https://azure.microsoft.com/updates?id=485072,2025-03-20T18:00:22Z
