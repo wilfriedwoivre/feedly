@@ -1,18 +1,4 @@
 Title,Link,PublishedDate
-[In preview] Public Preview: Azure NetApp Files Flexible service level,https://azure.microsoft.com/updates?id=483475,2025-03-26T19:00:59Z
-[Launched] Generally Available: Azure Chaos Studio Auto-Tagging of Experiment Resources for Private Networking Now Available,https://azure.microsoft.com/updates?id=486388,2025-03-26T18:45:15Z
-[Launched] Generally Available: Log Analytics Delete Data API,https://azure.microsoft.com/updates?id=479041,2025-03-26T18:45:15Z
-"Retirement: Support for Desired State Configuration Extension for Azure Virtual Machines to Be Retired on March 31, 2028",https://azure.microsoft.com/updates?id=485828,2025-03-26T18:30:31Z
-[In preview] Public Preview: Enhance Performance and Security with Standard Load Balancer and Standard SKU Public IP Addresses in Azure DevTest Labs,https://azure.microsoft.com/updates?id=487106,2025-03-26T18:30:31Z
-[Launched] Generally Available: Anthropic Gen AI Models in Azure Databricks,https://azure.microsoft.com/updates?id=486507,2025-03-26T18:15:48Z
-[Launched] Generally Available: Long-Term Backup Retention for Azure Database for PostgreSQL – Flexible Server,https://azure.microsoft.com/updates?id=485513,2025-03-26T18:15:48Z
-[Launched] Generally Available: On-Demand Backups for Azure Database for PostgreSQL – Flexible Server,https://azure.microsoft.com/updates?id=485508,2025-03-26T18:15:48Z
-[In preview] Public Preview: Point-in-Time Restore Capability for Multiregion Write Accounts in Azure Cosmos DB,https://azure.microsoft.com/updates?id=485495,2025-03-26T18:15:48Z
-[In preview] Public Preview: Azure Database for MySQL Triggers for Azure Functions,https://azure.microsoft.com/updates?id=481942,2025-03-26T18:15:48Z
-"Retirement: Azure Maps Route APIs Version 1.0 to Be Retired on March 31, 2028",https://azure.microsoft.com/updates?id=485819,2025-03-26T17:30:35Z
-"Retirement: Docker Content Trust on March 31, 2028 – Replaced by the Notary Project and Azure Key Vault",https://azure.microsoft.com/updates?id=485241,2025-03-26T17:15:39Z
-"Retirement: Docker Compose Feature for Azure App Service to Be Retired on March 31, 2027 – Replaced by Sidecars in Azure App Service",https://azure.microsoft.com/updates?id=485167,2025-03-26T17:15:39Z
-Retirement: Ubuntu 18.04 Node Pools in AKS,https://azure.microsoft.com/updates?id=485790,2025-03-26T17:00:03Z
 [Launched] Generally Available: Reminder - End of Limited Time Promotional Discounts on Azure Databricks Serverless Compute Services,https://azure.microsoft.com/updates?id=485518,2025-03-27T23:30:16Z
 Retirement: Announcing the 3-Year Retirement of Current Architecture for AKS on Windows Server 2019 and Windows Server 2022,https://azure.microsoft.com/updates?id=485893,2025-03-28T23:45:38Z
 Retirement: Azure Intelligent Recommendation Service to Be Retired,https://azure.microsoft.com/updates?id=484943,2025-03-28T23:45:38Z
