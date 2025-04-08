@@ -1,12 +1,4 @@
 Title,Link,PublishedDate
-"Retirement: Log Analytics Beta API to Be Retired on March 31, 2026",https://azure.microsoft.com/updates?id=486101,2025-04-01T02:15:27Z
-"Retirement: Log Analytics Batch API to Be Retired on March 31, 2028",https://azure.microsoft.com/updates?id=486080,2025-04-01T02:15:27Z
-[Launched] Generally Available: Azure File Sync support for managed identities,https://azure.microsoft.com/updates?id=466806,2025-04-01T01:45:39Z
-[Launched] ​​Generally Available: New Microsoft Dev Box Regional Availability​,https://azure.microsoft.com/updates?id=486379,2025-04-01T21:45:51Z
-[In preview] Public Preview: CNI Overlay for Application Gateway for Containers and AGIC,https://azure.microsoft.com/updates?id=485357,2025-04-01T17:45:19Z
-[Launched] Generally Available: Autoscale for vCore-based Azure Cosmos DB for MongoDB,https://azure.microsoft.com/updates?id=483616,2025-04-01T16:30:36Z
-[In preview] Public Preview: Azure Front Door Custom Cipher Suite,https://azure.microsoft.com/updates?id=485880,2025-04-01T13:00:55Z
-[Launched] Public Preview: Azure Monitor Application Insights Auto-Instrumentation for Java and Node Microservices on AKS,https://azure.microsoft.com/updates?id=486166,2025-04-01T12:30:20Z
 [In preview] Public Preview: Multi-cluster Eviction and Disruption Budgets with Azure Kubernetes Fleet Manager,https://azure.microsoft.com/updates?id=486741,2025-04-02T16:00:53Z
 [Launched] Generally Available: AKS Cost Recommendations in Azure Advisor,https://azure.microsoft.com/updates?id=486804,2025-04-02T15:30:39Z
 [Launched] Generally Available: Network isolated cluster in AKS,https://azure.microsoft.com/updates?id=486799,2025-04-02T15:30:39Z
