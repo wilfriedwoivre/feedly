@@ -1,22 +1,2 @@
 Title,Link,PublishedDate
-[In preview] Public Preview: Multi-cluster Eviction and Disruption Budgets with Azure Kubernetes Fleet Manager,https://azure.microsoft.com/updates?id=486741,2025-04-02T16:00:53Z
-[Launched] Generally Available: AKS Cost Recommendations in Azure Advisor,https://azure.microsoft.com/updates?id=486804,2025-04-02T15:30:39Z
-[Launched] Generally Available: Network isolated cluster in AKS,https://azure.microsoft.com/updates?id=486799,2025-04-02T15:30:39Z
-[In preview] Public Preview: Multiple Load Balancers for AKS,https://azure.microsoft.com/updates?id=486794,2025-04-02T15:30:39Z
-[In preview] Public Preview: Service Allowed IP Ranges in AKS,https://azure.microsoft.com/updates?id=486789,2025-04-02T15:30:39Z
-[Launched] Generally Available: Cilium Endpoint Slices in AKS,https://azure.microsoft.com/updates?id=486779,2025-04-02T15:30:39Z
-[In preview] Public Preview: Advanced Container Networking Services Cilium L7 Policies Support in AKS,https://azure.microsoft.com/updates?id=486774,2025-04-02T15:30:39Z
-[Launched] Generally Available: Azure CNI Node Subnet + Cilium Support,https://azure.microsoft.com/updates?id=486751,2025-04-02T15:30:39Z
-[In preview] Public Preview: maxUnavailable Setting for Upgrades in AKS,https://azure.microsoft.com/updates?id=486809,2025-04-02T15:00:09Z
-[In preview] Public Preview: Standard Load Balancer (SLB) Health Probe Redesign in AKS,https://azure.microsoft.com/updates?id=486784,2025-04-02T15:00:09Z
-[In preview] Public Preview: AKS Support for Persistent Network Flow Logging for Advanced Container Networking Services,https://azure.microsoft.com/updates?id=486756,2025-04-02T15:00:09Z
-[In preview] Public Preview: Cilium WireGuard Encryption Support in AKS,https://azure.microsoft.com/updates?id=486746,2025-04-02T15:00:09Z
-[In preview] Public preview: Multi-cluster Workload Rollout Strategies and Runs with Azure Kubernetes Fleet Manager,https://azure.microsoft.com/updates?id=486736,2025-04-02T15:00:09Z
-[Launched] Generally Available: Skip Automatic GPU Driver Installation,https://azure.microsoft.com/updates?id=486726,2025-04-02T15:00:09Z
-[Launched] Generally Available: Multi-cluster Auto-upgrade in Azure Kubernetes Fleet Manager,https://azure.microsoft.com/updates?id=486731,2025-04-02T14:30:40Z
-[In preview] Public Preview: Default Inference with vLLM with AI Toolchain Operator Add-on,https://azure.microsoft.com/updates?id=486721,2025-04-02T14:30:40Z
-[In preview] Public Preview: Application Insights auto-instrumentation for AKS,https://azure.microsoft.com/updates?id=486716,2025-04-02T14:30:40Z
-[Launched] Generally Available: Azure CNI Overlay Dual-stack with Cilium Dataplane Support,https://azure.microsoft.com/updates?id=486814,2025-04-02T14:00:42Z
-[Launched] Generally Available: AKS Communication Manager,https://azure.microsoft.com/updates?id=486498,2025-04-02T14:00:42Z
-[Launched] Generally Available: Azure Linux 3.0 Support in AKS,https://azure.microsoft.com/updates?id=486493,2025-04-02T14:00:42Z
 [In preview] Public Preview: Increased VNet limits for Private Endpoints,https://azure.microsoft.com/updates?id=487406,2025-04-03T14:00:47Z
