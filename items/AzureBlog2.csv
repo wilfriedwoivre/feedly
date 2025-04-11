@@ -13,3 +13,7 @@ Title,Link,PublishedDate
 [Launched] Generally Available: Azure Networking Capabilities for Microsoft Copilot in Azure,https://azure.microsoft.com/updates?id=487522,2025-04-08T17:00:16Z
 [In preview] Public preview: Durable Task Scheduler for Azure Functions,https://azure.microsoft.com/updates?id=486398,2025-04-08T17:00:16Z
 [Launched] Generally Available: Microsoft Copilot in Azure is Now Generally Available,https://azure.microsoft.com/updates?id=488069,2025-04-08T16:00:25Z
+[Launched] Public Preview: Azure Monitor Application Insights Auto-Instrumentation for Java and Node Microservices on AKS,https://azure.microsoft.com/updates?id=486166,2025-04-10T19:15:16Z
+"Support for Application Insights Status Monitor v1 will End on March 31, 2025",https://azure.microsoft.com/updates?id=482409,2025-04-10T19:15:16Z
+"[Launched] Generally Available: Azure Front Door capturing request header, response header, and request query string values as server variables",https://azure.microsoft.com/updates?id=489182,2025-04-10T16:30:57Z
+[Launched] Generally Available: Azure Bastion Developer now in 36 public regions,https://azure.microsoft.com/updates?id=489004,2025-04-10T16:30:57Z
