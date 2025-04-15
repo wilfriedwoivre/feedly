@@ -11,3 +11,6 @@ Title,Link,PublishedDate
 "[Launched] Generally Available: Azure Front Door capturing request header, response header, and request query string values as server variables",https://azure.microsoft.com/updates?id=489182,2025-04-10T16:30:57Z
 [Launched] Generally Available: Azure Bastion Developer now in 36 public regions,https://azure.microsoft.com/updates?id=489004,2025-04-10T16:30:57Z
 "Retirement: Support for Application Insights Status Monitor v1 will End on March 31, 2025",https://azure.microsoft.com/updates?id=482409,2025-04-11T19:45:42Z
+[Launched] Generally Available: Support for Managed Identity based authentication flows in Azure Load Testing,https://azure.microsoft.com/updates?id=489148,2025-04-14T22:45:45Z
+"Retirement: Support for Python 3.9 ends on October 31, 2025 – upgrade your Azure Functions apps to Python 3.11",https://azure.microsoft.com/updates?id=489428,2025-04-14T17:15:20Z
+[In preview] Public Preview: Managed Identity for Azure Red Hat OpenShift,https://azure.microsoft.com/updates?id=489265,2025-04-14T16:15:23Z
