@@ -6,13 +6,6 @@ Title,Link,PublishedDate
 [Launched] Generally Available: Azure SQL Updates for Early-April 2025,https://azure.microsoft.com/updates?id=487458,2025-04-09T16:00:07Z
 [Launched] Generally Available: I/O Performance Analysis—SQL Server on Azure Virtual Machines,https://azure.microsoft.com/updates?id=487453,2025-04-09T16:00:07Z
 [Launched] Generally Available: Troubleshoot Disk Performance with Copilot in Azure,https://azure.microsoft.com/updates?id=474649,2025-04-09T15:00:49Z
-"[In preview] Public Preview: New Enhancements to Carbon Optimization – Expanded API limits, Subscription Reader Access, and Filtering Options",https://azure.microsoft.com/updates?id=488052,2025-04-08T23:30:45Z
-[In preview] Public Preview: Azure NetApp Files File Access Logs,https://azure.microsoft.com/updates?id=488490,2025-04-08T17:00:16Z
-[Launched] Generally Available: Application Gateway as a Private Link Enabled Origin for Front Door Premium,https://azure.microsoft.com/updates?id=488292,2025-04-08T17:00:16Z
-[In preview] Private Preview: Threat Detection in Azure Backup Powered by MDC,https://azure.microsoft.com/updates?id=487918,2025-04-08T17:00:16Z
-[Launched] Generally Available: Azure Networking Capabilities for Microsoft Copilot in Azure,https://azure.microsoft.com/updates?id=487522,2025-04-08T17:00:16Z
-[In preview] Public preview: Durable Task Scheduler for Azure Functions,https://azure.microsoft.com/updates?id=486398,2025-04-08T17:00:16Z
-[Launched] Generally Available: Microsoft Copilot in Azure is Now Generally Available,https://azure.microsoft.com/updates?id=488069,2025-04-08T16:00:25Z
 [Launched] Public Preview: Azure Monitor Application Insights Auto-Instrumentation for Java and Node Microservices on AKS,https://azure.microsoft.com/updates?id=486166,2025-04-10T19:15:16Z
 "Support for Application Insights Status Monitor v1 will End on March 31, 2025",https://azure.microsoft.com/updates?id=482409,2025-04-10T19:15:16Z
 "[Launched] Generally Available: Azure Front Door capturing request header, response header, and request query string values as server variables",https://azure.microsoft.com/updates?id=489182,2025-04-10T16:30:57Z
