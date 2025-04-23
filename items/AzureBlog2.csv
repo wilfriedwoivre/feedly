@@ -1,10 +1,5 @@
 Title,Link,PublishedDate
 [In preview] Public Preview:  Azure Backup enables vaulted backup for Azure Data Lake Storage for comprehensive data protection,https://azure.microsoft.com/updates?id=488835,2025-04-17T03:15:06Z
-[In preview] Public Preview: Remote Model Context Protocol (MCP) support in Azure Functions,https://azure.microsoft.com/updates?id=489433,2025-04-16T18:00:13Z
-[In development] Private Preview: Azure Backup for AKS Now Supports Azure File Share-based Persistent Volumes,https://azure.microsoft.com/updates?id=488905,2025-04-16T18:00:13Z
-"Retirement: Azure Functions – Durable Functions support for Netherite will end on March 31, 2028",https://azure.microsoft.com/updates?id=489009,2025-04-16T17:30:50Z
-"Retirement: HELM chart-based onboarding workflow for the Azure Monitor Container Insights agent is retiring on October 1, 2025",https://azure.microsoft.com/updates?id=488759,2025-04-16T17:30:50Z
-[Launched] Generally Available: Microsoft Azure Available from New Azure for U.S. Government Secret Cloud Region in the US,https://azure.microsoft.com/updates?id=490013,2025-04-16T12:15:24Z
 [Launched] Generally Available: ACLs (Access Control Lists) for Local Users in Azure Blob Storage SFTP,https://azure.microsoft.com/updates?id=489984,2025-04-17T18:00:44Z
 [Launched] Generally Available: New major version of Durable Functions,https://azure.microsoft.com/updates?id=489031,2025-04-17T18:00:44Z
 [Launched] Generally Available: Azure SQL Trigger for Azure Functions in Consumption plan,https://azure.microsoft.com/updates?id=489014,2025-04-17T18:00:44Z
