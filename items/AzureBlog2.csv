@@ -4,3 +4,15 @@ Title,Link,PublishedDate
 [Launched] Generally Available: Azure Firewall resource specific log tables get Azure Monitor Basic plan support,https://azure.microsoft.com/updates?id=489967,2025-04-21T17:00:21Z
 [Launched] Generally Available: Instance Mix for Virtual Machine Scale Sets,https://azure.microsoft.com/updates?id=486819,2025-04-22T17:30:32Z
 [Launched] Generally Available: Announcing the Next generation Azure Data Box Devices,https://azure.microsoft.com/updates?id=490143,2025-04-22T13:45:11Z
+[Launched] Generally Available: Metadata Cache for Azure SSD (Premium) SMB,https://azure.microsoft.com/updates?id=490620,2025-04-23T20:45:25Z
+[Launched] Generally Available: Azure Premium SSD v2 and Ultra Disk Storage is now available in Australia Central 2 and Norway West,https://azure.microsoft.com/updates?id=489867,2025-04-23T18:00:34Z
+[Launched] Generally Available: Azure SQL updates for mid-April 2025,https://azure.microsoft.com/updates?id=489711,2025-04-23T16:30:16Z
+[Launched] Generally Available: PostgreSQL 17 performance management server parameters now modifiable on Azure Database for PostgreSQL,https://azure.microsoft.com/updates?id=489669,2025-04-23T16:30:16Z
+[Launched] Generally Available: Support for time-series databases in the migration service for Azure Database for PostgreSQL,https://azure.microsoft.com/updates?id=489664,2025-04-23T16:30:16Z
+[Launched] Generally Available: Latest PostgreSQL minor versions supported by Azure Database for PostgreSQL – Flexible Server,https://azure.microsoft.com/updates?id=489658,2025-04-23T16:30:16Z
+[Launched] Generally Available: Azure Database for PostgreSQL - Azure Data Factory service principal authentication,https://azure.microsoft.com/updates?id=489649,2025-04-23T16:30:16Z
+[In preview] Public Preview: Versionless customer managed keys in Azure Database for PostgreSQL flexible Server,https://azure.microsoft.com/updates?id=489644,2025-04-23T16:15:29Z
+[In preview] Public Preview: Sharded DiskANN in Azure Cosmos DB for NoSQL,https://azure.microsoft.com/updates?id=489627,2025-04-23T16:15:29Z
+[Launched] Generally Available: Support for Mongo 8.0 on vCore-based Azure Cosmos DB for MongoDB,https://azure.microsoft.com/updates?id=489622,2025-04-23T16:15:29Z
+[In preview] Public Preview: Easy service upgrade and change service tier in Azure AI Search,https://azure.microsoft.com/updates?id=485989,2025-04-23T16:15:29Z
+[In preview] Public Preview:  Azure Backup enables vaulted backup for Azure Data Lake Storage for comprehensive data protection,https://azure.microsoft.com/updates?id=488835,2025-04-18T13:00:53Z
