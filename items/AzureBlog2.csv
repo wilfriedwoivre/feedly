@@ -14,3 +14,6 @@ Title,Link,PublishedDate
 [In preview] Public Preview: Multitenant managed logging in Container insights,https://azure.microsoft.com/updates?id=488110,2025-04-24T17:15:08Z
 [Launched] Generally Avaialble: Azure NVads V710 v5-series virtual machines,https://azure.microsoft.com/updates?id=489246,2025-04-24T16:00:08Z
 [Launched] Generally Available: Azure Site Recovery for Shared Disk,https://azure.microsoft.com/updates?id=490583,2025-04-24T12:30:39Z
+[Launched] Generally Available: Network isolated cluster in AKS,https://azure.microsoft.com/updates?id=491427,2025-04-28T21:00:20Z
+[Launched] Generally Available: Azure Functions support for Python 3.12,https://azure.microsoft.com/updates?id=490532,2025-04-28T18:00:03Z
+[Launched] Generally Available: Azure Compute Fleet,https://azure.microsoft.com/updates?id=490327,2025-04-28T16:30:27Z
