@@ -6,3 +6,12 @@ Title,Link,PublishedDate
 [Launched] Generally Available: Network isolated cluster in AKS,https://azure.microsoft.com/updates?id=491427,2025-04-28T21:00:20Z
 [Launched] Generally Available: Azure Functions support for Python 3.12,https://azure.microsoft.com/updates?id=490532,2025-04-28T18:00:03Z
 [Launched] Generally Available: Azure Compute Fleet,https://azure.microsoft.com/updates?id=490327,2025-04-28T16:30:27Z
+[In preview] Public Preview: Larger container sizes on Azure Container Instances,https://azure.microsoft.com/updates?id=490690,2025-04-29T18:00:25Z
+[In preview] Public Preview: Improve the security of Generation 2 VMs via Trusted Launch in Azure DevTest Labs,https://azure.microsoft.com/updates?id=487252,2025-04-29T18:00:25Z
+[In preview] Public Preview: Azure virtual network terminal access point (TAP),https://azure.microsoft.com/updates?id=490830,2025-04-29T17:30:43Z
+[In preview] Public Preview: Cross-tenant customer-managed keys for Azure NetApp Files volume encryption,https://azure.microsoft.com/updates?id=490759,2025-04-29T17:15:51Z
+[In preview] Public Preview: Azure WAF CAPTCHA Challenge for Azure Front Door,https://azure.microsoft.com/updates?id=490854,2025-04-29T17:00:28Z
+[Launched] Generally Available: Announcing Service Update Configuration for Azure API Management,https://azure.microsoft.com/updates?id=490737,2025-04-29T16:45:38Z
+[In preview] Public Preview: Inbound Private Endpoint for Azure API Management Standard v2,https://azure.microsoft.com/updates?id=490732,2025-04-29T16:45:38Z
+[Launched] Generally Available: Next hop IP support for Virtual WAN,https://azure.microsoft.com/updates?id=490746,2025-04-29T16:30:02Z
+[Launched] Generally Available: Azure Firewall integration in Security Copilot,https://azure.microsoft.com/updates?id=490519,2025-04-29T16:00:19Z
