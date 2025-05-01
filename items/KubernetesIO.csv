@@ -1,5 +1,4 @@
 Title,Link,PublishedDate
-Continuing the transition from Endpoints to EndpointSlices,https://kubernetes.io/blog/2025/04/24/endpoints-deprecation/,"Thu, 24 Apr 2025 10:30:00 -0800"
 Kubernetes v1.33: User Namespaces enabled by default!,https://kubernetes.io/blog/2025/04/25/userns-enabled-by-default/,"Fri, 25 Apr 2025 10:30:00 -0800"
 Kubernetes v1.33: HorizontalPodAutoscaler Configurable Tolerance,https://kubernetes.io/blog/2025/04/28/kubernetes-v1-33-hpa-configurable-tolerance/,"Mon, 28 Apr 2025 10:30:00 -0800"
 Kubernetes v1.33: Image Volumes graduate to beta!,https://kubernetes.io/blog/2025/04/29/kubernetes-v1-33-image-volume-beta/,"Tue, 29 Apr 2025 10:30:00 -0800"
