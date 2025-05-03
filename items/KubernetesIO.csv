@@ -3,3 +3,4 @@ Kubernetes v1.33: HorizontalPodAutoscaler Configurable Tolerance,https://kuberne
 Kubernetes v1.33: Image Volumes graduate to beta!,https://kubernetes.io/blog/2025/04/29/kubernetes-v1-33-image-volume-beta/,"Tue, 29 Apr 2025 10:30:00 -0800"
 Kubernetes v1.33: Storage Capacity Scoring of Nodes for Dynamic Provisioning (alpha),https://kubernetes.io/blog/2025/04/30/kubernetes-v1-33-storage-capacity-scoring-feature/,"Wed, 30 Apr 2025 10:30:00 -0800"
 Kubernetes v1.33: New features in DRA,https://kubernetes.io/blog/2025/05/01/kubernetes-v1-33-dra-updates/,"Thu, 01 May 2025 10:30:00 -0800"
+Kubernetes v1.33: Mutable CSI Node Allocatable Count,https://kubernetes.io/blog/2025/05/02/kubernetes-1-33-mutable-csi-node-allocatable-count/,"Fri, 02 May 2025 10:30:00 -0800"
