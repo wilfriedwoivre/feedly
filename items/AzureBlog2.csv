@@ -1,7 +1,4 @@
 Title,Link,PublishedDate
-[Launched] Generally Available: Network isolated cluster in AKS,https://azure.microsoft.com/updates?id=491427,2025-04-28T21:00:20Z
-[Launched] Generally Available: Azure Functions support for Python 3.12,https://azure.microsoft.com/updates?id=490532,2025-04-28T18:00:03Z
-[Launched] Generally Available: Azure Compute Fleet,https://azure.microsoft.com/updates?id=490327,2025-04-28T16:30:27Z
 [In preview] Public Preview: Larger container sizes on Azure Container Instances,https://azure.microsoft.com/updates?id=490690,2025-04-29T18:00:25Z
 [In preview] Public Preview: Improve the security of Generation 2 VMs via Trusted Launch in Azure DevTest Labs,https://azure.microsoft.com/updates?id=487252,2025-04-29T18:00:25Z
 [In preview] Public Preview: Azure virtual network terminal access point (TAP),https://azure.microsoft.com/updates?id=490830,2025-04-29T17:30:43Z
