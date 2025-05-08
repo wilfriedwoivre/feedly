@@ -2,3 +2,4 @@ Title,Link,PublishedDate
 Kubernetes v1.33: Mutable CSI Node Allocatable Count,https://kubernetes.io/blog/2025/05/02/kubernetes-1-33-mutable-csi-node-allocatable-count/,"Fri, 02 May 2025 10:30:00 -0800"
 Kubernetes v1.33: Prevent PersistentVolume Leaks When Deleting out of Order graduates to GA,https://kubernetes.io/blog/2025/05/05/kubernetes-v1-33-prevent-persistentvolume-leaks-when-deleting-out-of-order-graduate-to-ga/,"Mon, 05 May 2025 10:30:00 -0800"
 Kubernetes v1.33: Fine-grained SupplementalGroups Control Graduates to Beta,https://kubernetes.io/blog/2025/05/06/kubernetes-v1-33-fine-grained-supplementalgroups-control-beta/,"Tue, 06 May 2025 10:30:00 -0800"
+Kubernetes v1.33: From Secrets to Service Accounts: Kubernetes Image Pulls Evolved,https://kubernetes.io/blog/2025/05/07/kubernetes-v1-33-wi-for-image-pulls/,"Wed, 07 May 2025 10:30:00 -0800"
