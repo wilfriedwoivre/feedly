@@ -1,22 +1,10 @@
 Title,Link,PublishedDate
-[In preview] Public Preview: Foundry Local for on-device AI,https://azure.microsoft.com/updates?id=494248,2025-05-20T00:00:01Z
 [Launched] Generally Available: Azure Functions integration with Azure AI Foundry Agent Service,https://azure.microsoft.com/updates?id=493829,2025-05-21T03:30:39Z
 [Launched] Generally Available: Planned maintenance in Azure Container Apps,https://azure.microsoft.com/updates?id=492133,2025-05-21T03:30:39Z
 [Launched] Generally Available: Private endpoint support in Azure Container Apps for workload profiles environments,https://azure.microsoft.com/updates?id=492128,2025-05-21T03:30:39Z
 [Launched] Generally Available: Azure Arc enabled Azure Container Apps,https://azure.microsoft.com/updates?id=492123,2025-05-21T03:30:39Z
 [Launched] Generally Available: Dedicated GPU in Azure Container Apps,https://azure.microsoft.com/updates?id=492109,2025-05-21T03:30:39Z
 [In preview] Public Preview: Azure Container Apps serverless GPUs now support Azure AI Foundry models,https://azure.microsoft.com/updates?id=492104,2025-05-21T03:30:39Z
-[In preview] Public Preview: Filtered Vector Search with DiskANN,https://azure.microsoft.com/updates?id=491237,2025-05-20T19:30:06Z
-[In preview] Public Preview: Encryption in Transit for Azure Files NFS Shares,https://azure.microsoft.com/updates?id=494649,2025-05-20T19:00:10Z
-[Launched] Generally Available: New Availability Zone Features for Azure App Service,https://azure.microsoft.com/updates?id=493477,2025-05-20T17:45:04Z
-[In preview] Public Preview: .NET Aspire support on Azure App Service,https://azure.microsoft.com/updates?id=492461,2025-05-20T17:45:04Z
-[In preview] Public Preview: Enhanced Azure Functions experience in Azure Container Apps,https://azure.microsoft.com/updates?id=494175,2025-05-20T17:30:18Z
-[In preview]  Public Preview: Azure App Service - New Premium v4 Offering,https://azure.microsoft.com/updates?id=490286,2025-05-20T17:30:18Z
-[In preview] Public Preview: Smarter Troubleshooting in Azure Monitor with AI-powered Investigation,https://azure.microsoft.com/updates?id=491364,2025-05-20T16:45:48Z
-[In preview] Private Preview: Customizable Email Subjects for Log Search Alerts V2,https://azure.microsoft.com/updates?id=491656,2025-05-20T16:30:08Z
-[In preview] Public Preview: Simple Log Alerts in Azure Monitor,https://azure.microsoft.com/updates?id=491651,2025-05-20T16:30:08Z
-[Launched] Generally Available: Vaulted Backups by Azure Backup for Azure Database for PostgreSQL – Flexible Server in all regions,https://azure.microsoft.com/updates?id=491576,2025-05-20T15:30:04Z
-[Launched] Generally Available: Azure Premium SSD v2 and Ultra Disk are now available in Indonesia Central,https://azure.microsoft.com/updates?id=492547,2025-05-20T14:15:16Z
 "Retirement: MICROSOFT AZURE OPERATED BY 21VIANET - Action required to migrate to Azure China North 3 region by July 1, 2026 due to China North 1 and China East 1 region retirement",https://azure.microsoft.com/updates?id=494297,2025-05-22T01:45:28Z
 [Launched] Generally Available: Azure Managed Redis,https://azure.microsoft.com/updates?id=467264,2025-05-21T19:30:03Z
 [Launched] Generally Available: Azure Traffic Manager SLA raised to 100%,https://azure.microsoft.com/updates?id=493002,2025-05-21T18:45:50Z
@@ -79,4 +67,3 @@ Title,Link,PublishedDate
 [Launched] Generally Available: Workspace Gateway Metrics in Azure API Management,https://azure.microsoft.com/updates?id=490717,2025-05-23T14:30:44Z
 [Launched] Generally Available: Federated Logging in Azure API Management,https://azure.microsoft.com/updates?id=490700,2025-05-23T14:30:44Z
 [Launched] Generally Available: Change streams for Azure Cosmos DB for MongoDB (vCore),https://azure.microsoft.com/updates?id=467490,2025-05-23T02:45:39Z
-[Launched] Generally Available: Availability Set support for Premium SSD v2 Disk Storage,https://azure.microsoft.com/updates?id=494088,2025-05-20T13:15:19Z
