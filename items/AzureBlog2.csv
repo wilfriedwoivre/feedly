@@ -22,3 +22,8 @@ Title,Link,PublishedDate
 [Launched] Generally Available: Container Apps and Functions as Private Link enabled origins for Front Door Premium,https://azure.microsoft.com/updates?id=494357,2025-05-27T19:30:40Z
 [In preview] Public Preview: Azure Front Door now supports origin authentication via Managed Identities,https://azure.microsoft.com/updates?id=494352,2025-05-27T19:30:40Z
 [Launched] Generally Available: Private subnet,https://azure.microsoft.com/updates?id=492953,2025-05-27T16:15:37Z
+[Launched] Generally Available: App Service Hybrid Connection Manager,https://azure.microsoft.com/updates?id=494993,2025-05-28T17:45:41Z
+[In preview] Public Preview: Using Server-sent events with Application Gateway,https://azure.microsoft.com/updates?id=494787,2025-05-28T17:45:41Z
+[Launched] Generally Available: Customer-managed keys for Azure NetApp Files volume encryption with Azure Key Vault Managed HSM,https://azure.microsoft.com/updates?id=493909,2025-05-28T17:30:53Z
+[In preview] Public Preview: Microsoft Planetary Computer Pro,https://azure.microsoft.com/updates?id=494165,2025-05-28T17:15:01Z
+[In preview] Private Preview: Application Awareness,https://azure.microsoft.com/updates?id=494101,2025-05-28T17:15:01Z
