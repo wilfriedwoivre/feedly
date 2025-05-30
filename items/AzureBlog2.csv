@@ -1,19 +1,4 @@
 Title,Link,PublishedDate
-[Launched] Generally Available: Cross-cloud data governance with Unity Catalog on Azure Databricks,https://azure.microsoft.com/updates?id=490578,2025-05-23T02:45:39Z
-[Launched] Generally Available: Versionless customer managed keys in Azure Database for PostgreSQL flexible server,https://azure.microsoft.com/updates?id=489644,2025-05-23T02:45:39Z
-[Launched] Generally Available: Inbound Private Endpoint Support for Azure API Management Standard v2,https://azure.microsoft.com/updates?id=492607,2025-05-23T18:15:02Z
-[In preview] Public Preview: New Free Tier in Azure API Center,https://azure.microsoft.com/updates?id=492168,2025-05-23T15:00:30Z
-[In preview] Public Preview: Applications in Azure API Management,https://azure.microsoft.com/updates?id=492163,2025-05-23T15:00:30Z
-[In preview] Public Preview: Premium v2 Tier for Azure API Management,https://azure.microsoft.com/updates?id=492158,2025-05-23T15:00:30Z
-[Launched] Generally Available: Workspace Gateway Autoscaling in Azure API Management,https://azure.microsoft.com/updates?id=492153,2025-05-23T15:00:30Z
-[In preview] Public Preview: Model Context Protocol support in Azure API Management and Azure API Center,https://azure.microsoft.com/updates?id=491990,2025-05-23T15:00:30Z
-[Launched] Generally Available: Support for AWS Bedrock API in AI Gateway Capabilities in Azure API Management,https://azure.microsoft.com/updates?id=491985,2025-05-23T15:00:30Z
-[Launched] Generally Available: Import from Azure AI Foundry to Azure API Management’s AI Gateway,https://azure.microsoft.com/updates?id=491980,2025-05-23T15:00:30Z
-[Launched] Generally Available: Session Aware Load Balancing in Azure API Management,https://azure.microsoft.com/updates?id=491975,2025-05-23T14:30:44Z
-[Launched] Generally Available: LLM Logging in AI Gateway Capabilities in Azure API Management,https://azure.microsoft.com/updates?id=491970,2025-05-23T14:30:44Z
-[Launched] Generally Available: Workspace Gateway Metrics in Azure API Management,https://azure.microsoft.com/updates?id=490717,2025-05-23T14:30:44Z
-[Launched] Generally Available: Federated Logging in Azure API Management,https://azure.microsoft.com/updates?id=490700,2025-05-23T14:30:44Z
-[Launched] Generally Available: Change streams for Azure Cosmos DB for MongoDB (vCore),https://azure.microsoft.com/updates?id=467490,2025-05-23T02:45:39Z
 [In preview] Public Preview: Azure Migrate expands support for migrations with Ultra SSD,https://azure.microsoft.com/updates?id=495312,2025-05-28T00:00:26Z
 [Launched] Generally Available: Azure Migrate enhances support with Premium SSD v2 Disks,https://azure.microsoft.com/updates?id=495302,2025-05-28T00:00:26Z
 [In preview] Public Preview: Microsoft DocumentDB Docker Image,https://azure.microsoft.com/updates?id=491272,2025-05-27T21:45:10Z
