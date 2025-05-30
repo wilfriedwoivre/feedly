@@ -12,3 +12,6 @@ Title,Link,PublishedDate
 [Launched] Generally Available: Customer-managed keys for Azure NetApp Files volume encryption with Azure Key Vault Managed HSM,https://azure.microsoft.com/updates?id=493909,2025-05-28T17:30:53Z
 [In preview] Public Preview: Microsoft Planetary Computer Pro,https://azure.microsoft.com/updates?id=494165,2025-05-28T17:15:01Z
 [In preview] Private Preview: Application Awareness,https://azure.microsoft.com/updates?id=494101,2025-05-28T17:15:01Z
+[In preview] Public Preview: Live Resize for Premium SSD v2 and Ultra NVMe Disks,https://azure.microsoft.com/updates?id=495106,2025-05-29T17:00:19Z
+[Launched] Generally Available: Destination Network Address Translation (DNAT) on Azure Firewall Private IP address,https://azure.microsoft.com/updates?id=493296,2025-05-29T16:00:12Z
+[In preview] Public Preview: Azure Backup for Elastic SAN,https://azure.microsoft.com/updates?id=494438,2025-05-29T15:15:41Z
