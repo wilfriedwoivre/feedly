@@ -1,12 +1,6 @@
 Title,Link,PublishedDate
 [In preview] Public Preview: Azure Migrate expands support for migrations with Ultra SSD,https://azure.microsoft.com/updates?id=495312,2025-05-28T00:00:26Z
 [Launched] Generally Available: Azure Migrate enhances support with Premium SSD v2 Disks,https://azure.microsoft.com/updates?id=495302,2025-05-28T00:00:26Z
-[In preview] Public Preview: Microsoft DocumentDB Docker Image,https://azure.microsoft.com/updates?id=491272,2025-05-27T21:45:10Z
-[In preview] Public Preview: Azure Cosmos DB for MongoDB (vCore) trigger and bindings for Azure Functions,https://azure.microsoft.com/updates?id=491267,2025-05-27T21:45:10Z
-[Launched] Generally Available: Azure Cosmos DB JavaScript SDK 4.0,https://azure.microsoft.com/updates?id=442638,2025-05-27T21:45:10Z
-[Launched] Generally Available: Container Apps and Functions as Private Link enabled origins for Front Door Premium,https://azure.microsoft.com/updates?id=494357,2025-05-27T19:30:40Z
-[In preview] Public Preview: Azure Front Door now supports origin authentication via Managed Identities,https://azure.microsoft.com/updates?id=494352,2025-05-27T19:30:40Z
-[Launched] Generally Available: Private subnet,https://azure.microsoft.com/updates?id=492953,2025-05-27T16:15:37Z
 [Launched] Generally Available: App Service Hybrid Connection Manager,https://azure.microsoft.com/updates?id=494993,2025-05-28T17:45:41Z
 [In preview] Public Preview: Using Server-sent events with Application Gateway,https://azure.microsoft.com/updates?id=494787,2025-05-28T17:45:41Z
 [Launched] Generally Available: Customer-managed keys for Azure NetApp Files volume encryption with Azure Key Vault Managed HSM,https://azure.microsoft.com/updates?id=493909,2025-05-28T17:30:53Z
