@@ -11,3 +11,5 @@ Title,Link,PublishedDate
 [In preview] Public Preview: High availability with SSD v2 for Azure Database for PostgreSQL flexible server,https://azure.microsoft.com/updates?id=491483,2025-06-04T16:00:30Z
 [Launched] Generally Available: Azure Database for MySQL bindings for Azure Functions,https://azure.microsoft.com/updates?id=472040,2025-06-04T16:00:30Z
 [In preview] Public Preview: In-place major version upgrade to PostgreSQL 17 on Azure Database for PostgreSQL flexible server,https://azure.microsoft.com/updates?id=495135,2025-06-04T11:15:21Z
+"Retirement: Extended support for .NET 9 (STS) ends on May 12, 2026",https://azure.microsoft.com/updates?id=485077,2025-06-05T16:00:17Z
+[Launched] Generally Available: Azure Database for PostgreSQL - Azure Data Factory managed identity,https://azure.microsoft.com/updates?id=495140,2025-06-05T15:15:26Z
