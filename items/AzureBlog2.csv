@@ -1,8 +1,4 @@
 Title,Link,PublishedDate
-[Launched] Generally Available: Azure Quota Groups,https://azure.microsoft.com/updates?id=495605,2025-05-30T17:45:01Z
-"Retirement: Language Understanding (LUIS) retirement extended to October 31, 2025",https://azure.microsoft.com/updates?id=492962,2025-05-30T11:15:51Z
-Retirement: Microsoft Fabric Runtime 1.2,https://azure.microsoft.com/updates?id=490047,2025-05-30T11:15:51Z
-Retirement: Azure Synapse Runtime for Apache Spark 3.4,https://azure.microsoft.com/updates?id=490042,2025-05-30T11:15:51Z
 [In preview] Public Preview: Azure Migrate enhances resiliency by supporting ZRS Disks Migration,https://azure.microsoft.com/updates?id=495755,2025-06-02T17:00:21Z
 [Launched] Generally Available: Azure Storage Mover support for SMB source to Azure Blob target,https://azure.microsoft.com/updates?id=495546,2025-06-02T16:45:38Z
 [In preview] Public Preview: Azure Site Recovery Support for Virtual Machines with Premium SSD v2 disks,https://azure.microsoft.com/updates?id=495231,2025-06-02T16:45:38Z
