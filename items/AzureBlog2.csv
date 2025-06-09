@@ -1,8 +1,4 @@
 Title,Link,PublishedDate
-[In preview] Public Preview: Azure Migrate enhances resiliency by supporting ZRS Disks Migration,https://azure.microsoft.com/updates?id=495755,2025-06-02T17:00:21Z
-[Launched] Generally Available: Azure Storage Mover support for SMB source to Azure Blob target,https://azure.microsoft.com/updates?id=495546,2025-06-02T16:45:38Z
-[In preview] Public Preview: Azure Site Recovery Support for Virtual Machines with Premium SSD v2 disks,https://azure.microsoft.com/updates?id=495231,2025-06-02T16:45:38Z
-[Launched] Generally Available: Long-term backup retention for Azure Database for PostgreSQL – Flexible Server,https://azure.microsoft.com/updates?id=495768,2025-06-02T16:00:58Z
 [Launched] Generally Available: Required role assignment for private endpoint approvals in AzureML workspaces and/or AI Foundry hubs with managed network,https://azure.microsoft.com/updates?id=495600,2025-06-03T16:00:11Z
 [Launched] Generally Available: NFS Azure Files volume mount support in Azure Container Apps,https://azure.microsoft.com/updates?id=494950,2025-06-04T21:00:06Z
 [Launched] Generally Available: Upsert and Script activity in data factory in Microsoft Fabric for Azure Database for PostgreSQL,https://azure.microsoft.com/updates?id=495145,2025-06-04T16:00:30Z
