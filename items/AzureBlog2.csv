@@ -1,11 +1,4 @@
 Title,Link,PublishedDate
-[Launched] Generally Available: NFS Azure Files volume mount support in Azure Container Apps,https://azure.microsoft.com/updates?id=494950,2025-06-04T21:00:06Z
-[Launched] Generally Available: Upsert and Script activity in data factory in Microsoft Fabric for Azure Database for PostgreSQL,https://azure.microsoft.com/updates?id=495145,2025-06-04T16:00:30Z
-[Launched] Generally Available: Azure Database for PostgreSQL support for pg_cron extension in PG 17,https://azure.microsoft.com/updates?id=495130,2025-06-04T16:00:30Z
-[In preview] Public Preview: Azure Database for MySQL - Flexible Server now supports high availability with dedicated Azure Standard Load Balancer,https://azure.microsoft.com/updates?id=495125,2025-06-04T16:00:30Z
-[In preview] Public Preview: High availability with SSD v2 for Azure Database for PostgreSQL flexible server,https://azure.microsoft.com/updates?id=491483,2025-06-04T16:00:30Z
-[Launched] Generally Available: Azure Database for MySQL bindings for Azure Functions,https://azure.microsoft.com/updates?id=472040,2025-06-04T16:00:30Z
-[In preview] Public Preview: In-place major version upgrade to PostgreSQL 17 on Azure Database for PostgreSQL flexible server,https://azure.microsoft.com/updates?id=495135,2025-06-04T11:15:21Z
 "Retirement: Extended support for .NET 9 (STS) ends on May 12, 2026",https://azure.microsoft.com/updates?id=485077,2025-06-05T16:00:17Z
 [Launched] Generally Available: Azure Database for PostgreSQL - Azure Data Factory managed identity,https://azure.microsoft.com/updates?id=495140,2025-06-05T15:15:26Z
 [In development] Private Preview: Profile and Route WAF Policies on Azure Front Door,https://azure.microsoft.com/updates?id=495826,2025-06-09T17:30:02Z
