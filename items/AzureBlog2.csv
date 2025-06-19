@@ -2,3 +2,17 @@ Title,Link,PublishedDate
 "Retirement: DCsv2-series Azure Virtual Machines will be retired on June 30, 2026",https://azure.microsoft.com/updates?id=496104,2025-06-16T16:15:03Z
 "Retirement: Support for .NET 9 (STS) ends on May 12, 2026",https://azure.microsoft.com/updates?id=485077,2025-06-17T20:00:18Z
 [Launched] Public Preview: Continuous Performance Diagnostics for Linux VMs to Enhance VM Troubleshooting,https://azure.microsoft.com/updates?id=496946,2025-06-17T17:00:04Z
+[In preview] Public Preview: Ubuntu 24.04 for AKS,https://azure.microsoft.com/updates?id=496445,2025-06-18T18:00:12Z
+[Launched] Generally Available: Azure Linux now also supports AKS LTS with Kubernetes v1.28 & above,https://azure.microsoft.com/updates?id=496435,2025-06-18T18:00:12Z
+[Launched] Generally Available: Kubernetes v1.31 and v1.32 available as Long Term Support versions in AKS,https://azure.microsoft.com/updates?id=496430,2025-06-18T18:00:12Z
+[In preview] Public Preview: Azure Functions enables OpenTelemetry support,https://azure.microsoft.com/updates?id=496415,2025-06-18T18:00:12Z
+[Launched] Generally Available: Azure SQL Managed Instance faster management operations,https://azure.microsoft.com/updates?id=496292,2025-06-18T18:00:12Z
+[Launched] Generally Available: Azure SQL updates for mid-June 2025,https://azure.microsoft.com/updates?id=496135,2025-06-18T18:00:12Z
+[In preview] Public Preview: Azure SQL updates for mid-June 2025,https://azure.microsoft.com/updates?id=496130,2025-06-18T18:00:12Z
+[Launched] Generally Available: Migration service support for Azure Database for PostgreSQL 17,https://azure.microsoft.com/updates?id=496125,2025-06-18T18:00:12Z
+[In preview] Public Preview: Customizing RAM per vCore with additional memory,https://azure.microsoft.com/updates?id=491047,2025-06-18T18:00:12Z
+[Launched] General Available: Increased Disk Capacity for Azure VM Backup,https://azure.microsoft.com/updates?id=496651,2025-06-18T16:00:51Z
+[In preview] Public Preview: Azure Site Recovery Support for Virtual Machines with Ultra disks,https://azure.microsoft.com/updates?id=495843,2025-06-18T16:00:51Z
+[Launched] General Available: Microsoft Azure now available from new cloud region in Chile,https://azure.microsoft.com/updates?id=496642,2025-06-18T16:00:51Z
+[Launched] Generally Available: Azure Red Hat OpenShift Version 4.17 Now Available with Enhanced Features,https://azure.microsoft.com/updates?id=496401,2025-06-18T15:15:27Z
+Retirement: Default outbound access for VMs in Azure will be retired— transition to a new method of internet access,https://azure.microsoft.com/updates?id=default-outbound-access-for-vms-in-azure-will-be-retired-transition-to-a-new-method-of-internet-access,2025-06-18T11:15:05Z
