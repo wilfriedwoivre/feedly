@@ -16,3 +16,4 @@ Title,Link,PublishedDate
 [Launched] General Available: Microsoft Azure now available from new cloud region in Chile,https://azure.microsoft.com/updates?id=496642,2025-06-18T16:00:51Z
 [Launched] Generally Available: Azure Red Hat OpenShift Version 4.17 Now Available with Enhanced Features,https://azure.microsoft.com/updates?id=496401,2025-06-18T15:15:27Z
 Retirement: Default outbound access for VMs in Azure will be retired— transition to a new method of internet access,https://azure.microsoft.com/updates?id=default-outbound-access-for-vms-in-azure-will-be-retired-transition-to-a-new-method-of-internet-access,2025-06-18T11:15:05Z
+"Retirement: skip-gpu-driver-install nodepool tag retirement om August 14, 2025",https://azure.microsoft.com/updates?id=496440,2025-06-19T21:30:15Z
