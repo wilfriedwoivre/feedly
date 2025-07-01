@@ -4,3 +4,7 @@ Title,Link,PublishedDate
 [In preview] Public Preview: Draft & Deploy on Azure Firewall,https://azure.microsoft.com/updates?id=496523,2025-06-26T17:00:16Z
 [Launched] Generally Available: Azure Virtual Network Manager IP address management,https://azure.microsoft.com/updates?id=484347,2025-06-26T17:00:16Z
 [In preview] Public Preview: Monitor ingestion issues with Azure Monitor Workspace,https://azure.microsoft.com/updates?id=497085,2025-06-26T16:45:37Z
+[Launched] Generally Available: Encryption in Transit (EiT) for Azure Files NFS shares,https://azure.microsoft.com/updates?id=497661,2025-06-30T19:00:02Z
+[Launched] Generally Available: Query editor in Azure Monitor Metrics,https://azure.microsoft.com/updates?id=497647,2025-06-30T17:45:57Z
+[Launched] Generally Available: FQDN Filtering in DNAT rules in Azure Firewall,https://azure.microsoft.com/updates?id=497428,2025-06-30T17:45:57Z
+[In preview] Generally Available: Two-Way Forest Trusts for Microsoft Entra Domain Services,https://azure.microsoft.com/updates?id=493697,2025-06-30T17:45:57Z
