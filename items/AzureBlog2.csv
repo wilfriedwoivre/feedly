@@ -1,8 +1,4 @@
 Title,Link,PublishedDate
-[Launched] Generally Available: Encryption in Transit (EiT) for Azure Files NFS shares,https://azure.microsoft.com/updates?id=497661,2025-06-30T19:00:02Z
-[Launched] Generally Available: Query editor in Azure Monitor Metrics,https://azure.microsoft.com/updates?id=497647,2025-06-30T17:45:57Z
-[Launched] Generally Available: FQDN Filtering in DNAT rules in Azure Firewall,https://azure.microsoft.com/updates?id=497428,2025-06-30T17:45:57Z
-[In preview] Generally Available: Two-Way Forest Trusts for Microsoft Entra Domain Services,https://azure.microsoft.com/updates?id=493697,2025-06-30T17:45:57Z
 [Launched] Generally Available: Azure App Service on Azure Stack Hub 25R1,https://azure.microsoft.com/updates?id=497797,2025-07-01T16:45:29Z
 [Launched] Generally Available: Latest PostgreSQL minor versions supported by Azure Database for PostgreSQL flexible server,https://azure.microsoft.com/updates?id=497248,2025-07-02T19:30:06Z
 [Launched] Generally Available: Azure DNS security policy,https://azure.microsoft.com/updates?id=497535,2025-07-02T18:00:55Z
