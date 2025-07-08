@@ -1,5 +1,4 @@
 Title,Link,PublishedDate
-[Launched] Generally Available: Azure App Service on Azure Stack Hub 25R1,https://azure.microsoft.com/updates?id=497797,2025-07-01T16:45:29Z
 [Launched] Generally Available: Latest PostgreSQL minor versions supported by Azure Database for PostgreSQL flexible server,https://azure.microsoft.com/updates?id=497248,2025-07-02T19:30:06Z
 [Launched] Generally Available: Azure DNS security policy,https://azure.microsoft.com/updates?id=497535,2025-07-02T18:00:55Z
 [Launched] Generally Available: Secondary users for Azure Cosmos DB for MongoDB (vCore),https://azure.microsoft.com/updates?id=470102,2025-07-02T18:00:55Z
@@ -7,4 +6,3 @@ Title,Link,PublishedDate
 [In preview] Public Preview: Azure SQL updates for early-July 2025,https://azure.microsoft.com/updates?id=497253,2025-07-02T17:45:14Z
 [Launched] Generally Available: Azure SQL updates for early-July 2025,https://azure.microsoft.com/updates?id=497258,2025-07-02T17:15:42Z
 "Retirement: VM Insights Map and Dependency Agent are being on June 30, 2028",https://azure.microsoft.com/updates?id=491629,2025-07-02T04:15:12Z
-[Launched] Generally Available: FQDN Filtering in DNAT rules in Azure Firewall,https://azure.microsoft.com/updates?id=497428,2025-07-01T21:00:19Z
