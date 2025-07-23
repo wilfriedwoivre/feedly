@@ -1,6 +1,4 @@
 Title,Link,PublishedDate
-[Launched] Generally Available: Azure Database for PostgreSQL flexible server: Indonesia Central,https://azure.microsoft.com/updates?id=498180,2025-07-16T16:00:23Z
-[Launched] Generally Available: Azure Backup standard policies support for Trusted Launch virtual Machines,https://azure.microsoft.com/updates?id=498439,2025-07-16T12:15:04Z
 [Launched] Generally Available: GRS and CRR support for Azure VMs using Premium SSD v2 in Azure Backup availability in Norway and Japan,https://azure.microsoft.com/updates?id=498484,2025-07-17T20:15:19Z
 [Launched] Generally Available: Geo-Replication for Azure Event Hubs Premium and Dedicated,https://azure.microsoft.com/updates?id=491538,2025-07-17T20:15:19Z
 [In preview] Public Preview: CLI command for migration from Availability Sets and Basic load balancer on AKS,https://azure.microsoft.com/updates?id=498263,2025-07-17T18:00:35Z
@@ -13,4 +11,3 @@ Title,Link,PublishedDate
 [In preview] Public Preview: Azure Functions Kafka trigger support in Consumption plan,https://azure.microsoft.com/updates?id=498139,2025-07-17T11:45:08Z
 [In preview] Public Preview: AZNFS (3.0) for BlobNFS with FUSE for superior performance,https://azure.microsoft.com/updates?id=498054,2025-07-17T11:45:08Z
 "[Launched] Generally Available:  Azure Firewall now supports ingestion-time transformation in Log Analytics for flexible, cost-efficient logging",https://azure.microsoft.com/updates?id=498568,2025-07-18T16:45:08Z
-Retirement: Azure HDInsight – Enterprise Security Package,https://azure.microsoft.com/updates?id=497263,2025-07-16T11:00:34Z
