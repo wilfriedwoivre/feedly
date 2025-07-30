@@ -3,3 +3,6 @@ Title,Link,PublishedDate
 [Launched] Generally Available: Log Analytics Summary rules,https://azure.microsoft.com/updates?id=498558,2025-07-24T11:15:02Z
 [Launched] Generally Available: ExpressRoute - Auto-assigned Public IP for ExpressRoute Gateways,https://azure.microsoft.com/updates?id=498361,2025-07-25T10:45:12Z
 [Launched] Public Preview: Modernizing Azure Resource Manager Throttling for Sovereign Clouds,https://azure.microsoft.com/updates?id=498893,2025-07-25T10:30:26Z
+[Launched] Generally Available: Customer-controlled maintenance,https://azure.microsoft.com/updates?id=499396,2025-07-29T17:00:48Z
+"Retirement: Azure Front Door (classic) and Azure CDN from Microsoft Classic SKU ending CNAME based domain validation and new domain/profile creations by August 15, 2025",https://azure.microsoft.com/updates?id=498522,2025-07-29T14:30:43Z
+[Launched] Generally Available: Search Job Enhancements in Log Analytics,https://azure.microsoft.com/updates?id=498462,2025-07-25T10:30:26Z
