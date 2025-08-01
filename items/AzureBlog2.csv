@@ -7,3 +7,7 @@ Title,Link,PublishedDate
 [Launched] Generally Available: Accelerated logs now available for General Purpose tier in Azure Database for MySQL - Flexible Server,https://azure.microsoft.com/updates?id=498933,2025-07-30T17:00:36Z
 [Launched] Generally Available: Configure backup interval for Azure Database for MySQL automated backups,https://azure.microsoft.com/updates?id=498928,2025-07-30T17:00:36Z
 [Launched] Generally Available: Azure Database for PostgreSQL Entra authentication for Power BI Desktop,https://azure.microsoft.com/updates?id=498175,2025-07-30T16:00:44Z
+[Launched] Generally Available: Live Resize for Premium SSD v2 and Ultra NVMe Disks,https://azure.microsoft.com/updates?id=495106,2025-07-31T17:15:08Z
+[Launched] Generally Available: Azure Virtual Network Manager in Azure US Government Cloud,https://azure.microsoft.com/updates?id=499387,2025-07-31T17:00:19Z
+[In preview] Public Preview: New tagging features in Azure confidential ledger,https://azure.microsoft.com/updates?id=499382,2025-07-31T17:00:19Z
+[Launched] Generally Available: Log or block shared access signature (SAS) tokens for Azure Storage based on expiration policy,https://azure.microsoft.com/updates?id=498759,2025-07-31T17:00:19Z
