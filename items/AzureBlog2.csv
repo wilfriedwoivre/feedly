@@ -11,3 +11,6 @@ Title,Link,PublishedDate
 [Launched] Generally Available: Azure Virtual Network Manager in Azure US Government Cloud,https://azure.microsoft.com/updates?id=499387,2025-07-31T17:00:19Z
 [In preview] Public Preview: New tagging features in Azure confidential ledger,https://azure.microsoft.com/updates?id=499382,2025-07-31T17:00:19Z
 [Launched] Generally Available: Log or block shared access signature (SAS) tokens for Azure Storage based on expiration policy,https://azure.microsoft.com/updates?id=498759,2025-07-31T17:00:19Z
+[Launched] Generally Available: Azure File Sync Arc Extension,https://azure.microsoft.com/updates?id=498452,2025-08-01T18:45:04Z
+[Launched] Generally Available: Agentless multi-disk crash consistent backup for Azure VMs,https://azure.microsoft.com/updates?id=499192,2025-08-01T16:00:17Z
+Retirement: Azure Dedicated HSM,https://azure.microsoft.com/updates?id=499214,2025-08-01T11:15:51Z
