@@ -21,3 +21,7 @@ Title,Link,PublishedDate
 [Launched] Generally Available: AKS support for Advanced Container Networking: L7 Policies,https://azure.microsoft.com/updates?id=499274,2025-08-06T04:00:09Z
 [Launched] Generally Available: Azure 128 & 192 vCPU sizes for the Esv6 and Edsv6 series VMs,https://azure.microsoft.com/updates?id=499918,2025-08-07T16:00:43Z
 [Launched] Generally Available: Private Application Gateway on Azure Application Gateway v2,https://azure.microsoft.com/updates?id=500225,2025-08-08T17:00:36Z
+[In preview] Public Preview: Announcing Tenant-Level Service Health Alerts in Azure Monitor,https://azure.microsoft.com/updates?id=499776,2025-08-11T20:00:08Z
+[In preview] Public Preview: Introducing Azure App Testing: Scalable End-to-end App Validation,https://azure.microsoft.com/updates?id=500203,2025-08-11T17:00:31Z
+[Launched] General Available: App Service Inbound IPv6 Support,https://azure.microsoft.com/updates?id=499998,2025-08-11T17:00:31Z
+[Launched] Generally Available: Upsert and Script Activity in Azure Data Factory and Azure Synapse Analytics for Azure Database for PostgreSQL,https://azure.microsoft.com/updates?id=499748,2025-08-11T15:15:03Z
