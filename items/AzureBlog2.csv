@@ -1,24 +1,4 @@
 Title,Link,PublishedDate
-[In development] Private Preview: Agentic experience for AKS in the Azure CLI,https://azure.microsoft.com/updates?id=499377,2025-08-06T03:30:15Z
-[In preview] Public Preview: Managed Namespaces in AKS,https://azure.microsoft.com/updates?id=499371,2025-08-06T03:30:15Z
-[Launched] Generally Available: AKS Security Dashboard,https://azure.microsoft.com/updates?id=499366,2025-08-06T03:30:15Z
-[In preview] Public Preview: Azure Virtual Network Verifier for AKS (VNV) for AKS,https://azure.microsoft.com/updates?id=499361,2025-08-06T03:30:15Z
-[In preview] Public Preview: Multiple Standard Load Balancers support in AKS,https://azure.microsoft.com/updates?id=499356,2025-08-06T03:30:15Z
-[Launched] Generally Available: Static egress gateway public prefix support in AKS,https://azure.microsoft.com/updates?id=499351,2025-08-06T03:30:15Z
-[In preview] Public Preview: Increase ingestion quota for Azure Managed Prometheus with an ARM API,https://azure.microsoft.com/updates?id=499346,2025-08-06T03:30:15Z
-[In preview] Public Preview: LocalDNS for AKS,https://azure.microsoft.com/updates?id=499341,2025-08-06T03:30:15Z
-[In preview] Public Preview : Azure Bastion integration with AKS,https://azure.microsoft.com/updates?id=499335,2025-08-06T03:30:15Z
-[In preview] Public Preview: AKS Model Context Protocol (MCP) server,https://azure.microsoft.com/updates?id=499326,2025-08-06T03:30:15Z
-[Launched] Generally Available: Control Plane Improvements in AKS,https://azure.microsoft.com/updates?id=499313,2025-08-06T03:30:15Z
-[In preview] Public Preview: Web Application Firewall on Application Gateway for Containers,https://azure.microsoft.com/updates?id=499308,2025-08-06T03:30:15Z
-[Launched] Generally Available: Deployment safeguards in AKS,https://azure.microsoft.com/updates?id=499299,2025-08-06T03:30:15Z
-[In preview] Public Preview: Encryption in Transit for Azure Files NFS shares in AKS,https://azure.microsoft.com/updates?id=499294,2025-08-06T03:30:15Z
-[Launched] Generally Available: Confidential VMs for Ubuntu 24.04 in AKS,https://azure.microsoft.com/updates?id=499289,2025-08-06T03:30:15Z
-[In preview] Public Preview: Confidential VMs for Azure Linux,https://azure.microsoft.com/updates?id=499284,2025-08-06T03:30:15Z
-[In preview] Public Preview: Disable HTTP proxy,https://azure.microsoft.com/updates?id=499279,2025-08-06T03:30:15Z
-[Launched] Generally Available: Azure Data Box Next Gen is now generally available in additional regions,https://azure.microsoft.com/updates?id=499945,2025-08-06T16:00:45Z
-[In preview] Public Preview: Azure Storage Discovery,https://azure.microsoft.com/updates?id=499143,2025-08-06T15:00:18Z
-[Launched] Generally Available: AKS support for Advanced Container Networking: L7 Policies,https://azure.microsoft.com/updates?id=499274,2025-08-06T04:00:09Z
 [Launched] Generally Available: Azure 128 & 192 vCPU sizes for the Esv6 and Edsv6 series VMs,https://azure.microsoft.com/updates?id=499918,2025-08-07T16:00:43Z
 [Launched] Generally Available: Private Application Gateway on Azure Application Gateway v2,https://azure.microsoft.com/updates?id=500225,2025-08-08T17:00:36Z
 [In preview] Public Preview: Announcing Tenant-Level Service Health Alerts in Azure Monitor,https://azure.microsoft.com/updates?id=499776,2025-08-11T20:00:08Z
