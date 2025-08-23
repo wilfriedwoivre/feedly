@@ -9,3 +9,5 @@ Retirement: Microsoft Defender for Cloud Deprecation in Microsoft Azure Operated
 "[Launched] Generally, Available: Search Job in Log Analytics - Now Supporting Up to 100 Million Results",https://azure.microsoft.com/updates?id=500879,2025-08-21T16:45:10Z
 [Launched] Generally Available: Azure NetApp Files file access logs,https://azure.microsoft.com/updates?id=500760,2025-08-21T16:30:27Z
 [Launched] Generally Available: Azure Functions Flex Consumption plan now supports 512 MB instance size and diagnostic settings,https://azure.microsoft.com/updates?id=500369,2025-08-21T15:30:02Z
+[Launched] Generally Available: Azure Functions support for Node.js 22,https://azure.microsoft.com/updates?id=500438,2025-08-22T11:45:29Z
+[Launched] Generally Available: Azure Migrate now supports migration to disks with Zone-Redundant Storage (ZRS) redundancy,https://azure.microsoft.com/updates?id=501233,2025-08-22T11:00:33Z
