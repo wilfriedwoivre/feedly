@@ -1,9 +1,4 @@
 Title,Link,PublishedDate
-[In preview] Public Preview: Azure Bastion now supports connectivity to private AKS clusters via tunneling,https://azure.microsoft.com/updates?id=500996,2025-08-20T17:45:19Z
-[In preview] Public Preview: Azure NetApp Files Flexible service level now supports cool access,https://azure.microsoft.com/updates?id=500712,2025-08-20T17:30:35Z
-[In preview] Private Preview: DCesv6 and ECesv6 series confidential VMs with Intel® TDX,https://azure.microsoft.com/updates?id=489745,2025-08-20T16:45:09Z
-Retirement: Microsoft Sentinel Deprecation in Microsoft Azure operated by 21Vianet Announcement,https://azure.microsoft.com/updates?id=498754,2025-08-20T16:30:32Z
-Retirement: Microsoft Defender for Cloud Deprecation in Microsoft Azure Operated by 21Vianet Announcement,https://azure.microsoft.com/updates?id=498749,2025-08-20T16:30:32Z
 [Launched] Generally Available: Application Gateway adds MaxSurge support for zero-capacity-impact upgrades,https://azure.microsoft.com/updates?id=501017,2025-08-21T17:00:04Z
 "[Launched] Generally, Available: Search Job in Log Analytics - Now Supporting Up to 100 Million Results",https://azure.microsoft.com/updates?id=500879,2025-08-21T16:45:10Z
 [Launched] Generally Available: Azure NetApp Files file access logs,https://azure.microsoft.com/updates?id=500760,2025-08-21T16:30:27Z
