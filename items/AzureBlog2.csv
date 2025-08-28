@@ -7,3 +7,6 @@ Title,Link,PublishedDate
 [In preview] Public Preview: Custom block response code and body for Application Gateway WAF,https://azure.microsoft.com/updates?id=501323,2025-08-26T17:00:18Z
 [Launched] Generally Available: CNI Overlay for Application Gateway for Containers and AGIC,https://azure.microsoft.com/updates?id=500991,2025-08-26T16:00:15Z
 [In preview] Public Preview: Azure NetApp Files short-term clones,https://azure.microsoft.com/updates?id=500914,2025-08-26T16:00:15Z
+[In preview] Public Preview: Azure SQL updates for late-August 2025,https://azure.microsoft.com/updates?id=500780,2025-08-27T16:00:53Z
+[Launched] Generally Available: Schema migration is now available in Azure Database Migration Service (DMS),https://azure.microsoft.com/updates?id=500770,2025-08-27T16:00:53Z
+[In preview] Public Preview: Azure Cosmos DB for MongoDB (vCore)—add shards and rebalance data,https://azure.microsoft.com/updates?id=500755,2025-08-27T16:00:53Z
