@@ -1,3 +1,5 @@
 Title,Link,PublishedDate
-How we built a dynamic Kubernetes API Server for the API Aggregation Layer in Cozystack,https://kubernetes.io/blog/2024/11/21/dynamic-kubernetes-api-server-for-cozystack/,"Thu, 21 Nov 2024 00:00:00 +0000"
-"Gateway API v1.2: WebSockets, Timeouts, Retries, and More",https://kubernetes.io/blog/2024/11/21/gateway-api-v1-2/,"Thu, 21 Nov 2024 09:00:00 -0800"
+Kubernetes v1.34: User preferences (kuberc) are available for testing in kubectl 1.34,https://kubernetes.io/blog/2025/08/28/kubernetes-v1-34-kubectl-kuberc-beta/,"Thu, 28 Aug 2025 10:30:00 -0800"
+Kubernetes v1.34: Finer-Grained Control Over Container Restarts,https://kubernetes.io/blog/2025/08/29/kubernetes-v1-34-per-container-restart-policy/,"Fri, 29 Aug 2025 10:30:00 -0800"
+Kubernetes v1.34: DRA has graduated to GA,https://kubernetes.io/blog/2025/09/01/kubernetes-v1-34-dra-updates/,"Mon, 01 Sep 2025 10:30:00 -0800"
+Kubernetes v1.34: Introducing CPU Manager Static Policy Option for Uncore Cache Alignment,https://kubernetes.io/blog/2025/09/02/kubernetes-v1-34-prefer-align-by-uncore-cache-cpumanager-static-policy-optimization/,"Tue, 02 Sep 2025 10:30:00 -0800"
