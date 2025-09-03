@@ -114,8 +114,18 @@ def run():
                     title = item.title
                     if prefix != "":
                         title = f'{prefix} - {item.title}'
-                    r = requests.post(f'https://api.github.com/repos/{repository}/issues', json={"title": title, "body": f'{item.link}{suffix}', "labels": ["triage"]}, headers=headers)
+                    url = build_url(item.link, suffix)
+                    r = requests.post(f'https://api.github.com/repos/{repository}/issues', json={"title": title, "body": url, "labels": ["triage"]}, headers=headers)
 
+
+def build_url(url: str, suffix: str):
+    if suffix == "":
+        return url
+    if not url.__contains__("?"):
+        return f'{url}{suffix}'
+    else:
+        parts = url.split("?")
+        return f'{parts[0]}{suffix}&{parts[1]}'
 
         
 if __name__ == "__main__":
