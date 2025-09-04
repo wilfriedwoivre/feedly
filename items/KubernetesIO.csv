@@ -2,3 +2,4 @@ Title,Link,PublishedDate
 Kubernetes v1.34: Finer-Grained Control Over Container Restarts,https://kubernetes.io/blog/2025/08/29/kubernetes-v1-34-per-container-restart-policy/,"Fri, 29 Aug 2025 10:30:00 -0800"
 Kubernetes v1.34: DRA has graduated to GA,https://kubernetes.io/blog/2025/09/01/kubernetes-v1-34-dra-updates/,"Mon, 01 Sep 2025 10:30:00 -0800"
 Kubernetes v1.34: Introducing CPU Manager Static Policy Option for Uncore Cache Alignment,https://kubernetes.io/blog/2025/09/02/kubernetes-v1-34-prefer-align-by-uncore-cache-cpumanager-static-policy-optimization/,"Tue, 02 Sep 2025 10:30:00 -0800"
+Kubernetes v1.34: Service Account Token Integration for Image Pulls Graduates to Beta,https://kubernetes.io/blog/2025/09/03/kubernetes-v1-34-sa-tokens-image-pulls-beta/,"Wed, 03 Sep 2025 10:30:00 -0800"
