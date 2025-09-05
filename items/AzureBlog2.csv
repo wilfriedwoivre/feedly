@@ -17,3 +17,6 @@ Title,Link,PublishedDate
 [Launched] Generally Available: Workspaces and workspace gateways in the Premium v2 tier of Azure API Management,https://azure.microsoft.com/updates?id=501809,2025-09-03T23:15:04Z
 [In preview] Public Preview: Expanded support for the Model Context Protocol (MCP) in Azure API Management,https://azure.microsoft.com/updates?id=501804,2025-09-03T23:15:04Z
 [Launched] Generally Available: Enhanced Data Mapper Experience in Logic Apps (Standard),https://azure.microsoft.com/updates?id=501799,2025-09-03T23:15:04Z
+[Launched] Generally Available: Multiple address prefixes for subnets in Azure Virtual Networks,https://azure.microsoft.com/updates?id=502583,2025-09-04T21:00:07Z
+[Launched] Generally Available: Upgrade existing Azure Gen1 VMs to Gen2-Trusted launch,https://azure.microsoft.com/updates?id=499104,2025-09-04T18:15:11Z
+[Launched] Generally Available: Near-zero-downtime maintenance in Azure Database for MySQL,https://azure.microsoft.com/updates?id=500765,2025-09-04T16:30:46Z
