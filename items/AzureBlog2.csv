@@ -20,3 +20,8 @@ Title,Link,PublishedDate
 [Launched] Generally Available: Multiple address prefixes for subnets in Azure Virtual Networks,https://azure.microsoft.com/updates?id=502583,2025-09-04T21:00:07Z
 [Launched] Generally Available: Upgrade existing Azure Gen1 VMs to Gen2-Trusted launch,https://azure.microsoft.com/updates?id=499104,2025-09-04T18:15:11Z
 [Launched] Generally Available: Near-zero-downtime maintenance in Azure Database for MySQL,https://azure.microsoft.com/updates?id=500765,2025-09-04T16:30:46Z
+[Launched] Generally Available: Azure Red Hat OpenShift Now Available in UAE Central and US Gov Texas,https://azure.microsoft.com/updates?id=500520,2025-09-05T21:15:48Z
+[Launched] Generally Available: Azure NetApp Files migration assistant,https://azure.microsoft.com/updates?id=502607,2025-09-05T16:45:57Z
+Retirement: Azure CDN will be retired on December 1 2025 in China,https://azure.microsoft.com/updates?id=501678,2025-09-05T15:45:50Z
+[In preview] Public Preview: Azure Functions support for Python 3.13,https://azure.microsoft.com/updates?id=501970,2025-09-05T15:15:38Z
+[In preview] Public Preview: .NET 10 Preview Now Available on Azure App Service,https://azure.microsoft.com/updates?id=501896,2025-09-05T14:15:34Z
