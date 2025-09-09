@@ -17,3 +17,5 @@ Title,Link,PublishedDate
 Retirement: Azure CDN will be retired on December 1 2025 in China,https://azure.microsoft.com/updates?id=501678,2025-09-05T15:45:50Z
 [In preview] Public Preview: Azure Functions support for Python 3.13,https://azure.microsoft.com/updates?id=501970,2025-09-05T15:15:38Z
 [In preview] Public Preview: .NET 10 Preview Now Available on Azure App Service,https://azure.microsoft.com/updates?id=501896,2025-09-05T14:15:34Z
+Retirement: Operating System (OS) Disks on Standard HDD will be retired on 08 September 2028,https://azure.microsoft.com/updates?id=500157,2025-09-08T21:00:36Z
+[In preview] Public Preview: Graph Query Language (GQL) in KQL graph semantics,https://azure.microsoft.com/updates?id=502638,2025-09-08T12:00:02Z
