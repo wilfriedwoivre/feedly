@@ -12,3 +12,5 @@ Retirement: Operating System (OS) Disks on Standard HDD will be retired on 08 Se
 [Launched] Generally Available: Azure Cosmos DB for MongoDB (vCore) encryption with customer-managed key,https://azure.microsoft.com/updates?id=501980,2025-09-10T21:30:10Z
 [In preview] Public Preview: File share centric management model (Microsoft.FileShares) for Azure Files,https://azure.microsoft.com/updates?id=503096,2025-09-10T19:30:42Z
 [Launched] Generally Available: Azure D192 Sizes in the Azure Dsv6 and Ddsv6-series VM Families,https://azure.microsoft.com/updates?id=503049,2025-09-10T15:15:43Z
+[Launched] Generally Available: Bring Your Own License (BYOL) Support for JBoss EAP on Azure App Service,https://azure.microsoft.com/updates?id=501891,2025-09-12T14:30:17Z
+[Launched] Generally Available: Azure Cosmos DB for MongoDB (vCore) same-region replica cluster,https://azure.microsoft.com/updates?id=501975,2025-09-12T13:45:05Z
