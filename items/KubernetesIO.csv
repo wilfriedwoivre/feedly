@@ -1,5 +1,4 @@
 Title,Link,PublishedDate
-Kubernetes v1.34: VolumeAttributesClass for Volume Modification GA,https://kubernetes.io/blog/2025/09/08/kubernetes-v1-34-volume-attributes-class/,"Mon, 08 Sep 2025 10:30:00 -0800"
 Kubernetes v1.34: Snapshottable API server cache,https://kubernetes.io/blog/2025/09/09/kubernetes-v1-34-snapshottable-api-server-cache/,"Tue, 09 Sep 2025 10:30:00 -0800"
 Kubernetes v1.34: Use An Init Container To Define App Environment Variables,https://kubernetes.io/blog/2025/09/10/kubernetes-v1-34-env-files/,"Wed, 10 Sep 2025 10:30:00 -0800"
 Kubernetes v1.34: Mutable CSI Node Allocatable Graduates to Beta,https://kubernetes.io/blog/2025/09/11/kubernetes-v1-34-mutable-csi-node-allocatable-count/,"Thu, 11 Sep 2025 10:30:00 -0800"
