@@ -9,3 +9,9 @@ Title,Link,PublishedDate
 [Launched] Generally Available: Azure D192 Sizes in the Azure Dsv6 and Ddsv6-series VM Families,https://azure.microsoft.com/updates?id=503049,2025-09-10T15:15:43Z
 [Launched] Generally Available: Bring Your Own License (BYOL) Support for JBoss EAP on Azure App Service,https://azure.microsoft.com/updates?id=501891,2025-09-12T14:30:17Z
 [Launched] Generally Available: Azure Cosmos DB for MongoDB (vCore) same-region replica cluster,https://azure.microsoft.com/updates?id=501975,2025-09-12T13:45:05Z
+Retirement: Azure Databricks Standard tier will retire by October 2026,https://azure.microsoft.com/updates?id=502623,2025-09-16T00:15:32Z
+Retirement: hsmPlatform 1 Keys in Azure Key Vault,https://azure.microsoft.com/updates?id=494676,2025-09-15T21:30:04Z
+[Launched] Generally Available: Enabling dedicated connections to backends in Azure Application Gateway,https://azure.microsoft.com/updates?id=503398,2025-09-15T16:45:57Z
+[Launched] Generally Available: Backend TLS validation controls in Azure Application Gateway,https://azure.microsoft.com/updates?id=503393,2025-09-15T16:30:18Z
+[Launched] Generally Available: Azure SQL hub experience in Azure portal,https://azure.microsoft.com/updates?id=502014,2025-09-15T16:30:18Z
+Retirement: Azure Linux 2.0 on AKS,https://azure.microsoft.com/updates?id=500645,2025-09-15T13:45:52Z
