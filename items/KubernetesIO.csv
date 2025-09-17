@@ -1,5 +1,4 @@
 Title,Link,PublishedDate
-Kubernetes v1.34: Use An Init Container To Define App Environment Variables,https://kubernetes.io/blog/2025/09/10/kubernetes-v1-34-env-files/,"Wed, 10 Sep 2025 10:30:00 -0800"
 Kubernetes v1.34: Mutable CSI Node Allocatable Graduates to Beta,https://kubernetes.io/blog/2025/09/11/kubernetes-v1-34-mutable-csi-node-allocatable-count/,"Thu, 11 Sep 2025 10:30:00 -0800"
 Kubernetes v1.34: Autoconfiguration for Node Cgroup Driver Goes GA,https://kubernetes.io/blog/2025/09/12/kubernetes-v1-34-cri-cgroup-driver-lookup-now-ga/,"Fri, 12 Sep 2025 10:30:00 -0800"
 Kubernetes v1.34: Decoupled Taint Manager Is Now Stable,https://kubernetes.io/blog/2025/09/15/kubernetes-v1-34-decoupled-taint-manager-is-now-stable/,"Mon, 15 Sep 2025 10:30:00 -0800"
