@@ -1,12 +1,4 @@
 Title,Link,PublishedDate
-[Launched] Generally Available: Azure Databricks automatic identity management,https://azure.microsoft.com/updates?id=502633,2025-09-10T21:30:10Z
-[Launched] Generally Available: Azure Database for PostgreSQL flexible server in Austria East and Chile Central,https://azure.microsoft.com/updates?id=502009,2025-09-10T21:30:10Z
-[In preview] Public Preview: Azure MySQL Self Heal,https://azure.microsoft.com/updates?id=501999,2025-09-10T21:30:10Z
-[Launched] Generally Available: Azure MySQL Extended Support,https://azure.microsoft.com/updates?id=501994,2025-09-10T21:30:10Z
-[Launched] Generally Available: Azure Database for MySQL 8.4,https://azure.microsoft.com/updates?id=501989,2025-09-10T21:30:10Z
-[Launched] Generally Available: Azure Cosmos DB for MongoDB (vCore) encryption with customer-managed key,https://azure.microsoft.com/updates?id=501980,2025-09-10T21:30:10Z
-[In preview] Public Preview: File share centric management model (Microsoft.FileShares) for Azure Files,https://azure.microsoft.com/updates?id=503096,2025-09-10T19:30:42Z
-[Launched] Generally Available: Azure D192 Sizes in the Azure Dsv6 and Ddsv6-series VM Families,https://azure.microsoft.com/updates?id=503049,2025-09-10T15:15:43Z
 [Launched] Generally Available: Bring Your Own License (BYOL) Support for JBoss EAP on Azure App Service,https://azure.microsoft.com/updates?id=501891,2025-09-12T14:30:17Z
 [Launched] Generally Available: Azure Cosmos DB for MongoDB (vCore) same-region replica cluster,https://azure.microsoft.com/updates?id=501975,2025-09-12T13:45:05Z
 Retirement: Azure Databricks Standard tier will retire by October 2026,https://azure.microsoft.com/updates?id=502623,2025-09-16T00:15:32Z
