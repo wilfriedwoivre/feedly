@@ -1,5 +1,4 @@
 Title,Link,PublishedDate
-Kubernetes v1.34: Autoconfiguration for Node Cgroup Driver Goes GA,https://kubernetes.io/blog/2025/09/12/kubernetes-v1-34-cri-cgroup-driver-lookup-now-ga/,"Fri, 12 Sep 2025 10:30:00 -0800"
 Kubernetes v1.34: Decoupled Taint Manager Is Now Stable,https://kubernetes.io/blog/2025/09/15/kubernetes-v1-34-decoupled-taint-manager-is-now-stable/,"Mon, 15 Sep 2025 10:30:00 -0800"
 Kubernetes v1.34: Moving Volume Group Snapshots to v1beta2,https://kubernetes.io/blog/2025/09/16/kubernetes-v1-34-volume-group-snapshot-beta-2/,"Tue, 16 Sep 2025 10:30:00 -0800"
 Kubernetes v1.34: Pods Report DRA Resource Health,https://kubernetes.io/blog/2025/09/17/kubernetes-v1-34-pods-report-dra-resource-health/,"Wed, 17 Sep 2025 10:30:00 -0800"
