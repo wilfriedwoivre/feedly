@@ -2,3 +2,4 @@ Title,Link,PublishedDate
 Kubernetes v1.34: Pods Report DRA Resource Health,https://kubernetes.io/blog/2025/09/17/kubernetes-v1-34-pods-report-dra-resource-health/,"Wed, 17 Sep 2025 10:30:00 -0800"
 Kubernetes v1.34: DRA Consumable Capacity,https://kubernetes.io/blog/2025/09/18/kubernetes-v1-34-dra-consumable-capacity/,"Thu, 18 Sep 2025 10:30:00 -0800"
 Kubernetes v1.34: Recovery From Volume Expansion Failure (GA),https://kubernetes.io/blog/2025/09/19/kubernetes-v1-34-recover-expansion-failure/,"Fri, 19 Sep 2025 10:30:00 -0800"
+Kubernetes v1.34: Pod Level Resources Graduated to Beta,https://kubernetes.io/blog/2025/09/22/kubernetes-v1-34-pod-level-resources/,"Mon, 22 Sep 2025 10:30:00 -0800"
