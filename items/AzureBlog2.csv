@@ -8,3 +8,5 @@ Title,Link,PublishedDate
 [In preview] Public Preview: Discover and assess PostgreSQL in Azure Migrate,https://azure.microsoft.com/updates?id=503641,2025-09-24T17:00:24Z
 [Launched] Generally Available: Delete on-demand backup in Azure DB for MySQL - Flexible Server,https://azure.microsoft.com/updates?id=503622,2025-09-24T17:00:24Z
 Retirement: Azure Disk Encryption,https://azure.microsoft.com/updates?id=493779,2025-09-24T11:45:14Z
+[Launched] Generally Available: Azure NetApp Files Flexible service level,https://azure.microsoft.com/updates?id=503687,2025-09-25T17:00:08Z
+Retirement: The Insights blade in AKS is now called Monitor,https://azure.microsoft.com/updates?id=497368,2025-09-25T12:00:02Z
