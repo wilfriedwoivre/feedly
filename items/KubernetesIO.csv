@@ -1,2 +1,3 @@
 Title,Link,PublishedDate
 Kubernetes v1.34: Pod Level Resources Graduated to Beta,https://kubernetes.io/blog/2025/09/22/kubernetes-v1-34-pod-level-resources/,"Mon, 22 Sep 2025 10:30:00 -0800"
+Announcing Changed Block Tracking API support (alpha),https://kubernetes.io/blog/2025/09/25/csi-changed-block-tracking/,"Thu, 25 Sep 2025 05:00:00 -0800"
