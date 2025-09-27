@@ -10,3 +10,8 @@ Title,Link,PublishedDate
 Retirement: Azure Disk Encryption,https://azure.microsoft.com/updates?id=493779,2025-09-24T11:45:14Z
 [Launched] Generally Available: Azure NetApp Files Flexible service level,https://azure.microsoft.com/updates?id=503687,2025-09-25T17:00:08Z
 Retirement: The Insights blade in AKS is now called Monitor,https://azure.microsoft.com/updates?id=497368,2025-09-25T12:00:02Z
+"Azure VMware Solution AV36 Node Retirement on June 30, 2028",https://azure.microsoft.com/updates?id=503883,2025-09-27T00:30:39Z
+Retirement: Entity Linking from Azure AI Language,https://azure.microsoft.com/updates?id=499851,2025-09-26T22:00:37Z
+"Retirement: The Linux Consumption hosting plan of Azure Functions will be retired on September 30, 2028. Migrate to Flex Consumption.",https://azure.microsoft.com/updates?id=499451,2025-09-26T16:30:29Z
+Retirement: Upgrade BlobFuse v1 to latest version of Blobfuse v2,https://azure.microsoft.com/updates?id=498563,2025-09-26T16:00:55Z
+Retirement: Azure App Service on Azure Arc enabled Kubernetes,https://azure.microsoft.com/updates?id=500016,2025-09-26T11:45:02Z
