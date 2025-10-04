@@ -9,3 +9,10 @@ Retirement: Azure Machine Learning - Data labeling Deprecation,https://azure.mic
 "Retirement: Azure Network Policy Manager (NPM) for Linux nodes on AKS to Be Retired by September 30, 2028",https://azure.microsoft.com/updates?id=500268,2025-10-01T17:15:18Z
 [In preview] Public Preview: Azure SQL updates for late September 2025,https://azure.microsoft.com/updates?id=503612,2025-10-01T16:00:52Z
 [Launched] Generally Available: New Health Check infrastructure for Azure Traffic Manager,https://azure.microsoft.com/updates?id=509097,2025-10-02T16:36:44Z
+"Retirement: Azure Monitor SCOM Managed Instance will be retired on Sep 30, 2026",https://azure.microsoft.com/updates?id=501673,2025-10-03T18:15:20Z
+[Launched] Generally Available: CLI command for migration from Availability Sets and basic load balancer on AKS,https://azure.microsoft.com/updates?id=503258,2025-10-03T16:45:25Z
+[Launched] Generally Available: Cross-tenant customer-managed keys for Azure NetApp Files volume encryption,https://azure.microsoft.com/updates?id=501340,2025-10-03T16:15:04Z
+Retirement: Azure Static Web Apps database connection feature,https://azure.microsoft.com/updates?id=500848,2025-10-03T16:15:04Z
+"[In preview] Public Preview:  Azure NetApp Files Support for OpenLDAP, FreeIPA, and Red Hat Directory Server LDAP services",https://azure.microsoft.com/updates?id=508748,2025-10-03T16:01:01Z
+"Retirement: Azure VPN Gateway support for SSTP Protocol will be retired on March 31, 2027",https://azure.microsoft.com/updates?id=499923,2025-10-03T16:01:01Z
+Retirement: General Purpose v1 (GPv1) and legacy blob storage accounts,https://azure.microsoft.com/updates?id=496964,2025-10-03T14:15:21Z
