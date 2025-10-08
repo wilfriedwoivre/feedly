@@ -9,3 +9,8 @@ Retirement: Azure Static Web Apps database connection feature,https://azure.micr
 Retirement: General Purpose v1 (GPv1) and legacy blob storage accounts,https://azure.microsoft.com/updates?id=496964,2025-10-03T14:15:21Z
 [Launched] Generally Available: Latest PostgreSQL minor versions supported by Azure Database for PostgreSQL – Flexible Server,https://azure.microsoft.com/updates?id=503636,2025-10-06T20:45:03Z
 Azure unmanaged disks will be retired on 31 March 2026 (formerly 30 September 2025),https://azure.microsoft.com/updates?id=azure-unmanaged-disks-will-be-retired-on-30-september-2025,2025-10-06T20:45:03Z
+"Retirement: Azure Network Policy Manager (NPM) for Windows nodes on AKS to Be Retired by September 30, 2026",https://azure.microsoft.com/updates?id=500273,2025-10-07T21:30:21Z
+[Launched] Generally Available: Azure Firewall Updates - IP Group limit increased to 600 per Firewall Policy,https://azure.microsoft.com/updates?id=511722,2025-10-07T16:30:20Z
+[Launched] Generally Avaialbe: Azure NetApp Files short-term clones,https://azure.microsoft.com/updates?id=503836,2025-10-07T14:30:18Z
+"Retirement: Legacy Authentication in Azure Monitor - Container Insights will be retired on September 30, 2026.",https://azure.microsoft.com/updates?id=500853,2025-10-07T13:00:16Z
+[Launched] Generally Available: AI toolchain operator add-on (KAITO) for AKS,https://azure.microsoft.com/updates?id=503263,2025-10-07T12:00:49Z
