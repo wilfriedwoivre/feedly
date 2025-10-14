@@ -1,9 +1,4 @@
 Title,Link,PublishedDate
-"Retirement: Azure Network Policy Manager (NPM) for Windows nodes on AKS to Be Retired by September 30, 2026",https://azure.microsoft.com/updates?id=500273,2025-10-07T21:30:21Z
-[Launched] Generally Available: Azure Firewall Updates - IP Group limit increased to 600 per Firewall Policy,https://azure.microsoft.com/updates?id=511722,2025-10-07T16:30:20Z
-[Launched] Generally Avaialbe: Azure NetApp Files short-term clones,https://azure.microsoft.com/updates?id=503836,2025-10-07T14:30:18Z
-"Retirement: Legacy Authentication in Azure Monitor - Container Insights will be retired on September 30, 2026.",https://azure.microsoft.com/updates?id=500853,2025-10-07T13:00:16Z
-[Launched] Generally Available: AI toolchain operator add-on (KAITO) for AKS,https://azure.microsoft.com/updates?id=503263,2025-10-07T12:00:49Z
 [In preview] Public Preview: Introducing Vaulted Backup for Azure Data Lake Storage,https://azure.microsoft.com/updates?id=508971,2025-10-09T00:00:23Z
 "Retirement: Azure Cache for Redis Enterprise is retiring on March 30, 2027",https://azure.microsoft.com/updates?id=499606,2025-10-08T23:15:04Z
 "Retirement: Azure Cache for Redis is retiring on September 30, 2028",https://azure.microsoft.com/updates?id=499577,2025-10-08T23:15:04Z
