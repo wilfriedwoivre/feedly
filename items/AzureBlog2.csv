@@ -7,3 +7,10 @@ Title,Link,PublishedDate
 [Launched] Generally Available: Azure Event Grid new capabilities,https://azure.microsoft.com/updates?id=513855,2025-10-14T20:15:14Z
 [Launched] Generally Available: Spot Placement Score,https://azure.microsoft.com/updates?id=511898,2025-10-14T15:00:50Z
 [Launched] Generally Available: Azure Site Recovery support for Ultra Disks,https://azure.microsoft.com/updates?id=513518,2025-10-14T10:30:39Z
+"[Launched] Generally Available: PowerShell, Az cmdlets, and Python SDK for Azure Database Migration Service",https://azure.microsoft.com/updates?id=500775,2025-10-15T22:15:50Z
+[Launched] Generally Available: Availability Zones and network restricted Key Vault and App Configuration references for Flex Consumption,https://azure.microsoft.com/updates?id=512379,2025-10-15T18:00:12Z
+[Launched] Generally Available: Azure Storage Discovery,https://azure.microsoft.com/updates?id=515479,2025-10-15T17:00:38Z
+[Launched] Generally Available: SAP Business Data Cloud Connect to Azure Databricks,https://azure.microsoft.com/updates?id=511743,2025-10-15T17:00:38Z
+[In preview] Public Preview: Private Link Service Direct Connect,https://azure.microsoft.com/updates?id=503988,2025-10-15T17:00:38Z
+"Retirement: The F, Fs, Fsv2, Lsv2, G, Gs, Av2, Amv2, and B series VMs are retiring in 2028",https://azure.microsoft.com/updates?id=500682,2025-10-15T16:15:01Z
+[Launched] Generally Available: Locations API Update for UK Azure Regions,https://azure.microsoft.com/updates?id=513376,2025-10-15T16:00:24Z
