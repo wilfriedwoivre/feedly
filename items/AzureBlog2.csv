@@ -14,3 +14,6 @@ Title,Link,PublishedDate
 [In preview] Public Preview: Private Link Service Direct Connect,https://azure.microsoft.com/updates?id=503988,2025-10-15T17:00:38Z
 "Retirement: The F, Fs, Fsv2, Lsv2, G, Gs, Av2, Amv2, and B series VMs are retiring in 2028",https://azure.microsoft.com/updates?id=500682,2025-10-15T16:15:01Z
 [Launched] Generally Available: Locations API Update for UK Azure Regions,https://azure.microsoft.com/updates?id=513376,2025-10-15T16:00:24Z
+[Launched] Generally Available: Prescaling in Azure Firewall,https://azure.microsoft.com/updates?id=515452,2025-10-16T16:15:32Z
+Retirement: Confidential Containers preview on AKS is Closing Down,https://azure.microsoft.com/updates?id=502044,2025-10-16T16:15:32Z
+[Launched] Generally Available: Observed capacity metric in Azure Firewall,https://azure.microsoft.com/updates?id=516002,2025-10-16T16:00:55Z
