@@ -12,3 +12,7 @@ Retirement: Confidential Containers preview on AKS is Closing Down,https://azure
 [In development] Private Preview: New planned datacenter region in Malaysia (Southeast Asia 3),https://azure.microsoft.com/updates?id=513752,2025-10-17T15:15:35Z
 [Launched] Generally Available: New OS SKU enum to migrate to Azure Linux 3.0,https://azure.microsoft.com/updates?id=512396,2025-10-17T15:15:35Z
 [Launched] Generally Available: Azure Functions support for Python 3.13,https://azure.microsoft.com/updates?id=512374,2025-10-17T15:00:03Z
+[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover,https://azure.microsoft.com/updates?id=514653,2025-10-20T21:00:03Z
+[Launched] Open Source: Containerization Assist MCP Server,https://azure.microsoft.com/updates?id=503268,2025-10-20T21:00:03Z
+[In preview] Public Preview: Sharing Capacity Reservation Groups,https://azure.microsoft.com/updates?id=516897,2025-10-20T17:15:20Z
+[Launched] Generally Available: Enhanced cloning and Public IP retention scripts for Azure Application Gateway migration,https://azure.microsoft.com/updates?id=517027,2025-10-20T17:00:28Z
