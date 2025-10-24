@@ -6,3 +6,4 @@ Title,Link,PublishedDate
 [In preview] Public Preview: VM vCore customization features disabling simultaneous multi-threading (SMT/HT) and constrained cores,https://azure.microsoft.com/updates?id=516990,2025-10-22T17:15:22Z
 [Launched] Generally Available: Azure SQL updates for mid-October 2025,https://azure.microsoft.com/updates?id=513240,2025-10-22T16:30:07Z
 [Launched] Generally Available: Near-zero downtime scaling for HA-enabled Azure Database for PostgreSQL servers,https://azure.microsoft.com/updates?id=502004,2025-10-22T16:00:32Z
+"Retirement: Azure Computer Vision – Image Analysis will be retired on September 25, 2028",https://azure.microsoft.com/updates?id=502909,2025-10-23T14:15:03Z
