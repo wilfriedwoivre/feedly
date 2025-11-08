@@ -15,3 +15,6 @@ Title,Link,PublishedDate
 [In preview] Public Preview: GitHub Copilot in SQL Server Management Studio (SSMS),https://azure.microsoft.com/updates?id=520729,2025-11-06T15:45:17Z
 [In preview] Public Preview: Azure SQL updates for early November 2025,https://azure.microsoft.com/updates?id=520715,2025-11-06T15:45:17Z
 [In preview] Public Preview: Azure Database for PostgreSQL read replicas with Premium SSD v2,https://azure.microsoft.com/updates?id=520710,2025-11-06T15:45:17Z
+[In preview] Public Preview: openCypher support for KQL graph semantics,https://azure.microsoft.com/updates?id=522866,2025-11-07T19:00:43Z
+[Launched] Generally Available: labels() function in KQL graph semantics,https://azure.microsoft.com/updates?id=522772,2025-11-07T19:00:43Z
+[Launched] Generally Available: Azure Database for PostgreSQL – Flexible Server availability zones expansion in Japan West,https://azure.microsoft.com/updates?id=508408,2025-11-07T18:45:02Z
