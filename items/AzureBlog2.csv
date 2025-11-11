@@ -17,3 +17,7 @@ Title,Link,PublishedDate
 [In preview] Public Preview: openCypher support for KQL graph semantics,https://azure.microsoft.com/updates?id=522866,2025-11-07T19:00:43Z
 [Launched] Generally Available: labels() function in KQL graph semantics,https://azure.microsoft.com/updates?id=522772,2025-11-07T19:00:43Z
 [Launched] Generally Available: Azure Database for PostgreSQL – Flexible Server availability zones expansion in Japan West,https://azure.microsoft.com/updates?id=508408,2025-11-07T18:45:02Z
+[Launched] Generally Available: Object Replication Priority Replication for Azure Blob,https://azure.microsoft.com/updates?id=522072,2025-11-10T19:30:03Z
+[Launched] Generally Available: Geo Priority Replication for Azure Blob,https://azure.microsoft.com/updates?id=522059,2025-11-10T19:30:03Z
+[Launched] Generally Available: Troubleshoot Azure Firewall using packet capture,https://azure.microsoft.com/updates?id=528969,2025-11-10T18:45:51Z
+[Launched] Generally Available: Application Gateway for Containers with Web Application Firewall (WAF),https://azure.microsoft.com/updates?id=525419,2025-11-10T17:00:17Z
