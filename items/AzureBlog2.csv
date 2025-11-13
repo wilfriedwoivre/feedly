@@ -14,3 +14,7 @@ Title,Link,PublishedDate
 [In preview] Public Preview: Azure Linux OS Guard for AKS,https://azure.microsoft.com/updates?id=523172,2025-11-11T17:00:09Z
 [In preview] Public Preview: Flatcar Container Linux for AKS,https://azure.microsoft.com/updates?id=523067,2025-11-11T17:00:09Z
 [Launched] Generally Available: Azure WAF JavaScript challenge on Azure Front Door,https://azure.microsoft.com/updates?id=513802,2025-11-11T17:00:09Z
+[Launched] Generally Available: .NET 10,https://azure.microsoft.com/updates?id=526895,2025-11-12T17:15:02Z
+[Launched] General Availability: Server Parameters support for lower_case_table_names in Azure Database for MySQL- Flexible Server,https://azure.microsoft.com/updates?id=523787,2025-11-12T17:00:15Z
+[In preview] Public Preview: Scheduler profile configuration for AKS,https://azure.microsoft.com/updates?id=523134,2025-11-12T17:00:15Z
+[Launched] Generally Available: Azure Database for MySQL Triggers for Azure Functions,https://azure.microsoft.com/updates?id=508390,2025-11-12T17:00:15Z
