@@ -1,8 +1,4 @@
 Title,Link,PublishedDate
-[Launched] Generally Available: .NET 10,https://azure.microsoft.com/updates?id=526895,2025-11-12T17:15:02Z
-[Launched] General Availability: Server Parameters support for lower_case_table_names in Azure Database for MySQL- Flexible Server,https://azure.microsoft.com/updates?id=523787,2025-11-12T17:00:15Z
-[In preview] Public Preview: Scheduler profile configuration for AKS,https://azure.microsoft.com/updates?id=523134,2025-11-12T17:00:15Z
-[Launched] Generally Available: Azure Database for MySQL Triggers for Azure Functions,https://azure.microsoft.com/updates?id=508390,2025-11-12T17:00:15Z
 [Launched] Generally Available: Azure Virtual Network Manager UseExisting Mode for UDR management,https://azure.microsoft.com/updates?id=526145,2025-11-13T18:30:39Z
 [Launched] Generally Available: Azure Virtual Network Manager IP Address Management Pool Association Recommendation,https://azure.microsoft.com/updates?id=526160,2025-11-13T17:00:24Z
 [Launched] Generally Available: Azure Virtual Network Manager peering compliance,https://azure.microsoft.com/updates?id=526155,2025-11-13T17:00:24Z
