@@ -1,7 +1,4 @@
 Title,Link,PublishedDate
-[Launched] Generally Available: Azure Virtual Network Manager UseExisting Mode for UDR management,https://azure.microsoft.com/updates?id=526145,2025-11-13T18:30:39Z
-[Launched] Generally Available: Azure Virtual Network Manager IP Address Management Pool Association Recommendation,https://azure.microsoft.com/updates?id=526160,2025-11-13T17:00:24Z
-[Launched] Generally Available: Azure Virtual Network Manager peering compliance,https://azure.microsoft.com/updates?id=526155,2025-11-13T17:00:24Z
 "Retirement: Support for Python 3.10 ends on October 1st, 2026",https://azure.microsoft.com/updates?id=509686,2025-11-14T21:15:14Z
 Retirement: Windows Server 2022 on Azure Kubernetes Service enabled by Azure Arc,https://azure.microsoft.com/updates?id=499906,2025-11-14T18:00:13Z
 [In preview] Public Preview: Pod CIDR expansion in Azure CNI Overlay for AKS,https://azure.microsoft.com/updates?id=523086,2025-11-14T16:30:37Z
