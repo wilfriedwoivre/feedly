@@ -172,3 +172,6 @@ Title,Link,PublishedDate
 [In preview] Public Preview: Azure NetApp Files migration assistant (portal support),https://azure.microsoft.com/updates?id=525620,2025-11-20T13:45:47Z
 [In preview] Public Preview: Azure NetApp Files cache volumes,https://azure.microsoft.com/updates?id=523917,2025-11-20T13:45:47Z
 [In preview] Public Preview: Azure Monitor for Azure Arc-enabled Kubernetes with OpenShift and Azure Red Hat OpenShift,https://azure.microsoft.com/updates?id=530174,2025-11-20T08:00:32Z
+[Launched] Generally Available: Custom handler support in Azure Functions Flex consumption,https://azure.microsoft.com/updates?id=512413,2025-11-21T19:15:38Z
+Retirement: Migrate to dedicated VM for your compute clusters,https://azure.microsoft.com/updates?id=501658,2025-11-21T18:45:18Z
+[In preview] Public Preview: Azure Network Watcher – Agentless Connection Troubleshoot,https://azure.microsoft.com/updates?id=527815,2025-11-18T17:01:02Z
