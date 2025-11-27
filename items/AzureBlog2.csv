@@ -1,16 +1,4 @@
 Title,Link,PublishedDate
-[In preview] Public Preview: Container network metrics filtering in Advanced Container Networking Services for (ACNS) for AKS,https://azure.microsoft.com/updates?id=523076,2025-11-20T20:00:10Z
-[Launched] Generally Available: MCP support for AI toolchain operator add-on in AKS,https://azure.microsoft.com/updates?id=523152,2025-11-20T18:45:04Z
-[Launched] Generally Available: Cluster-wide Cilium network policy with Azure CNI powered by Cilium for AKS,https://azure.microsoft.com/updates?id=523120,2025-11-20T18:30:02Z
-[Launched] Generally Available: Local redirect policy in Azure CNI powered by Cilium for AKS,https://azure.microsoft.com/updates?id=523081,2025-11-20T18:30:02Z
-[Launched] Generally Available: Layer 7 policy with Advanced Container Networking Services (ACNS) for AKS,https://azure.microsoft.com/updates?id=523115,2025-11-20T18:15:25Z
-[Launched] Generally Available: Azure NetApp Files single file restore from backup,https://azure.microsoft.com/updates?id=522077,2025-11-20T18:15:25Z
-[Launched] Generally Available: DNS security policy Threat Intelligence feed,https://azure.microsoft.com/updates?id=530183,2025-11-20T17:00:13Z
-[Launched] Generally Available: Azure Sphere OS version 25.10 is now available,https://azure.microsoft.com/updates?id=522390,2025-11-20T16:00:12Z
-[Launched] Generally Available: Trusted Launch is now supported for Arm64 Marketplace Images,https://azure.microsoft.com/updates?id=529797,2025-11-20T15:00:59Z
-[In preview] Public Preview: Azure NetApp Files migration assistant (portal support),https://azure.microsoft.com/updates?id=525620,2025-11-20T13:45:47Z
-[In preview] Public Preview: Azure NetApp Files cache volumes,https://azure.microsoft.com/updates?id=523917,2025-11-20T13:45:47Z
-[In preview] Public Preview: Azure Monitor for Azure Arc-enabled Kubernetes with OpenShift and Azure Red Hat OpenShift,https://azure.microsoft.com/updates?id=530174,2025-11-20T08:00:32Z
 [Launched] Generally Available: Custom handler support in Azure Functions Flex consumption,https://azure.microsoft.com/updates?id=512413,2025-11-21T19:15:38Z
 Retirement: Migrate to dedicated VM for your compute clusters,https://azure.microsoft.com/updates?id=501658,2025-11-21T18:45:18Z
 [In preview] Public Preview: Claude Opus 4.5 Available in Microsoft Foundry,https://azure.microsoft.com/updates?id=534541,2025-11-24T20:30:10Z
