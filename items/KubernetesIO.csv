@@ -1,4 +1,3 @@
 Title,Link,PublishedDate
-Kubernetes v1.35: New level of efficiency with in-place Pod restart,https://kubernetes.io/blog/2026/01/02/kubernetes-v1-35-restart-all-containers/,"Fri, 02 Jan 2026 10:30:00 -0800"
 Kubernetes v1.35: Extended Toleration Operators to Support Numeric Comparisons (Alpha),https://kubernetes.io/blog/2026/01/05/kubernetes-v1-35-numeric-toleration-operators/,"Mon, 05 Jan 2026 10:30:00 -0800"
 Kubernetes v1.35: A Better Way to Pass Service Account Tokens to CSI Drivers,https://kubernetes.io/blog/2026/01/07/kubernetes-v1-35-csi-sa-tokens-secrets-field-beta/,"Wed, 07 Jan 2026 10:30:00 -0800"
