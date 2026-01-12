@@ -1,5 +1,4 @@
 Title,Link,PublishedDate
-Kubernetes v1.35: Extended Toleration Operators to Support Numeric Comparisons (Alpha),https://kubernetes.io/blog/2026/01/05/kubernetes-v1-35-numeric-toleration-operators/,"Mon, 05 Jan 2026 10:30:00 -0800"
 Kubernetes v1.35: A Better Way to Pass Service Account Tokens to CSI Drivers,https://kubernetes.io/blog/2026/01/07/kubernetes-v1-35-csi-sa-tokens-secrets-field-beta/,"Wed, 07 Jan 2026 10:30:00 -0800"
 Kubernetes v1.35: Mutable PersistentVolume Node Affinity (alpha),https://kubernetes.io/blog/2026/01/08/kubernetes-v1-35-mutable-pv-nodeaffinity/,"Thu, 08 Jan 2026 10:30:00 -0800"
 Kubernetes v1.35: Restricting executables invoked by kubeconfigs via exec plugin allowList added to kuberc,https://kubernetes.io/blog/2026/01/09/kubernetes-v1-35-kuberc-credential-plugin-allowlist/,"Fri, 09 Jan 2026 10:30:00 -0800"
