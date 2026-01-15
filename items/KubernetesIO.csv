@@ -1,3 +1,2 @@
 Title,Link,PublishedDate
-Kubernetes v1.35: Mutable PersistentVolume Node Affinity (alpha),https://kubernetes.io/blog/2026/01/08/kubernetes-v1-35-mutable-pv-nodeaffinity/,"Thu, 08 Jan 2026 10:30:00 -0800"
 Kubernetes v1.35: Restricting executables invoked by kubeconfigs via exec plugin allowList added to kuberc,https://kubernetes.io/blog/2026/01/09/kubernetes-v1-35-kuberc-credential-plugin-allowlist/,"Fri, 09 Jan 2026 10:30:00 -0800"
