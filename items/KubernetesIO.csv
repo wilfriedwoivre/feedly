@@ -1,2 +1,4 @@
 Title,Link,PublishedDate
 Headlamp in 2025: Project Highlights,https://kubernetes.io/blog/2026/01/22/headlamp-in-2025-project-highlights/,"Thu, 22 Jan 2026 10:00:00 +0800"
+Experimenting with Gateway API using kind,https://kubernetes.io/blog/2026/01/28/experimenting-gateway-api-with-kind/,"Wed, 28 Jan 2026 00:00:00 +0000"
+Cluster API v1.12: Introducing In-place Updates and Chained Upgrades,https://kubernetes.io/blog/2026/01/27/cluster-api-v1-12-release/,"Tue, 27 Jan 2026 08:00:00 -0800"
