@@ -2,3 +2,7 @@ Title,Link,PublishedDate
 [In preview] Public Preview: Azure NetApp Files support in OpenShift Virtualization,https://azure.microsoft.com/updates?id=550466,2026-01-27T17:00:06Z
 [In preview] Public Preview: 7th generation Intel-based VMs – Dlsv7/Dsv7/Esv7,https://azure.microsoft.com/updates?id=529407,2026-01-27T17:00:06Z
 [In preview] Public Preview: Azure Command Launcher for Java,https://azure.microsoft.com/updates?id=543994,2026-01-27T14:00:07Z
+"Retirement: Support for Python 3.10 ends on October 1, 2026 – upgrade your Azure Functions apps to Python 3.13",https://azure.microsoft.com/updates?id=545771,2026-01-28T23:15:47Z
+"[Launched] Generally Available: Azure AMD Turin Dasv7, Easv7, and Fasv7-series Virtual Machines",https://azure.microsoft.com/updates?id=552318,2026-01-28T19:15:24Z
+[Launched] Generally Available: Azure Databricks Agent Bricks Knowledge Assistant,https://azure.microsoft.com/updates?id=542455,2026-01-28T18:45:08Z
+[Launched] Generally Available: Latest PostgreSQL minor versions supported by Azure Database for PostgreSQL – Flexible Server,https://azure.microsoft.com/updates?id=550164,2026-01-28T17:00:53Z
