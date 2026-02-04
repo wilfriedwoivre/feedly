@@ -1,8 +1,4 @@
 Title,Link,PublishedDate
-"Retirement: Support for Python 3.10 ends on October 1, 2026 – upgrade your Azure Functions apps to Python 3.13",https://azure.microsoft.com/updates?id=545771,2026-01-28T23:15:47Z
-"[Launched] Generally Available: Azure AMD Turin Dasv7, Easv7, and Fasv7-series Virtual Machines",https://azure.microsoft.com/updates?id=552318,2026-01-28T19:15:24Z
-[Launched] Generally Available: Azure Databricks Agent Bricks Knowledge Assistant,https://azure.microsoft.com/updates?id=542455,2026-01-28T18:45:08Z
-[Launched] Generally Available: Latest PostgreSQL minor versions supported by Azure Database for PostgreSQL – Flexible Server,https://azure.microsoft.com/updates?id=550164,2026-01-28T17:00:53Z
 "Retirement: ""Send data to Event Hubs & Storage (Preview)"" retiring July 31, 2026",https://azure.microsoft.com/updates?id=551523,2026-01-30T18:30:02Z
 "Retirement: Azure Front Door and Azure CDN profiles will end support for DHE cipher suites on April 1, 2026",https://azure.microsoft.com/updates?id=553527,2026-02-02T18:15:39Z
 [Launched] Generally Available: Serverless workspaces in Azure Databricks,https://azure.microsoft.com/updates?id=550845,2026-02-02T18:15:39Z
