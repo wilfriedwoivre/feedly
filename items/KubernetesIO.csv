@@ -1,3 +1,4 @@
 Title,Link,PublishedDate
 Ingress NGINX: Statement from the Kubernetes Steering and Security Response Committees,https://kubernetes.io/blog/2026/01/29/ingress-nginx-statement/,"Thu, 29 Jan 2026 00:00:00 +0000"
 New Conversion from cgroup v1 CPU Shares to v2 CPU Weight,https://kubernetes.io/blog/2026/01/30/new-cgroup-v1-to-v2-cpu-conversion-formula/,"Fri, 30 Jan 2026 08:00:00 -0800"
+Introducing Node Readiness Controller,https://kubernetes.io/blog/2026/02/03/introducing-node-readiness-controller/,"Tue, 03 Feb 2026 10:00:00 +0800"
