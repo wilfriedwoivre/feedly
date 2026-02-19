@@ -1,3 +1,12 @@
 Title,Link,PublishedDate
 [Launched] Generally Available: AKS support for Kubernetes version 1.34,https://azure.microsoft.com/updates?id=548114,2026-02-13T00:30:15Z
 [Launched] General Availability: Instant access support for incremental snapshots of Azure Premium SSD v2 and Ultra Disk,https://azure.microsoft.com/updates?id=545784,2026-02-17T17:00:32Z
+[Launched] Generally Available: Anthropic Claude Sonnet 4.6 is now available on Azure Databricks,https://azure.microsoft.com/updates?id=557595,2026-02-18T18:00:55Z
+[In preview] Public Preview: Unified tooling in the AKS MCP server,https://azure.microsoft.com/updates?id=557223,2026-02-18T18:00:55Z
+[In preview] Public Preview: Cluster mode for the agentic CLI for AKS,https://azure.microsoft.com/updates?id=557218,2026-02-18T18:00:55Z
+[Launched] Generally Available: Quota and deployment troubleshooting tools for Azure Functions Flex Consumption,https://azure.microsoft.com/updates?id=556008,2026-02-18T18:00:55Z
+[Launched] Generally Available: Azure Functions .NET 10 support,https://azure.microsoft.com/updates?id=556003,2026-02-18T18:00:55Z
+[Launched] Generally Available: Node auto-provisioning support in Azure government and private cloud,https://azure.microsoft.com/updates?id=557208,2026-02-18T17:15:17Z
+[Launched] Generally Available: Node auto-provisioning enabled clusters in AKS now support LocalDNS,https://azure.microsoft.com/updates?id=557203,2026-02-18T16:45:58Z
+[Launched] Generally Available: Encryption at host & disk encryption sets support in node auto-provisioning,https://azure.microsoft.com/updates?id=557213,2026-02-18T16:30:06Z
+[Launched] Generally Available: Instant access support for incremental snapshots of Azure Premium SSD v2 and Ultra Disk,https://azure.microsoft.com/updates?id=545784,2026-02-17T17:00:32Z
