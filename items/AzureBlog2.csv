@@ -9,3 +9,4 @@ Title,Link,PublishedDate
 [Launched] Generally Available: Node auto-provisioning enabled clusters in AKS now support LocalDNS,https://azure.microsoft.com/updates?id=557203,2026-02-18T16:45:58Z
 [Launched] Generally Available: Encryption at host & disk encryption sets support in node auto-provisioning,https://azure.microsoft.com/updates?id=557213,2026-02-18T16:30:06Z
 [Launched] Generally Available: Instant access support for incremental snapshots of Azure Premium SSD v2 and Ultra Disk,https://azure.microsoft.com/updates?id=545784,2026-02-17T17:00:32Z
+"[Launched] Generally Available: Azure Premium SSD v2 Disk is now available in Brazil Southeast, and in a third Availability Zone in Malaysia West and Indonesia Central",https://azure.microsoft.com/updates?id=557623,2026-02-20T19:00:04Z
