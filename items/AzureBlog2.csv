@@ -6,3 +6,8 @@ Title,Link,PublishedDate
 [In preview] Public Preview: Query Profiler in MSSQL extension for Visual Studio Code,https://azure.microsoft.com/updates?id=558164,2026-03-11T17:45:49Z
 [Launched] Generally Available: Summary rules in Log Analytics workspace now support manual “Retry bin”,https://azure.microsoft.com/updates?id=558656,2026-03-12T21:15:25Z
 [In preview] Public Preview: Azure Storage Mover enables private data transfers from AWS S3 to Azure Blob,https://azure.microsoft.com/updates?id=558651,2026-03-12T21:15:25Z
+"Retirement: Support for Windows Server 2016 Marketplace images on Azure Batch pools will end on January 12, 2027",https://azure.microsoft.com/updates?id=549077,2026-03-16T18:45:11Z
+Retirement: Migration of Azure Batch Low-Priority VMs to Spot VMs in early March,https://azure.microsoft.com/updates?id=543279,2026-03-16T18:45:11Z
+[In preview] Public Preview: Entra ID-Based Access for Azure Blob Storage SFTP,https://azure.microsoft.com/updates?id=558662,2026-03-16T18:30:34Z
+Retirement: End of life reminder of NVv3 and NVv4-series Azure virtual machine in Azure Batch pools,https://azure.microsoft.com/updates?id=516070,2026-03-16T18:30:34Z
+Retirement: Flatcar Container Linux for AKS (preview),https://azure.microsoft.com/updates?id=557929,2026-03-16T18:15:54Z
