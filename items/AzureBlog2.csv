@@ -1,9 +1,4 @@
 Title,Link,PublishedDate
-"[Launched] Generally Available: Terraform, Bicep, Ansible support for elastic clusters on Azure Database for PostgreSQL",https://azure.microsoft.com/updates?id=558145,2026-03-11T18:00:35Z
-[Launched] Generally Available: Azure Database for PostgreSQL dashboards with Grafana,https://azure.microsoft.com/updates?id=558140,2026-03-11T18:00:35Z
-[In preview] Public Preview: Customer‑managed encryption keys now supported on Premium SSD v2 disks for Azure Database for PostgreSQL,https://azure.microsoft.com/updates?id=557527,2026-03-11T18:00:35Z
-[Launched] Generally Available: Azure SRE Agent with new capabilities,https://azure.microsoft.com/updates?id=558321,2026-03-11T17:45:49Z
-[In preview] Public Preview: Query Profiler in MSSQL extension for Visual Studio Code,https://azure.microsoft.com/updates?id=558164,2026-03-11T17:45:49Z
 [Launched] Generally Available: Summary rules in Log Analytics workspace now support manual “Retry bin”,https://azure.microsoft.com/updates?id=558656,2026-03-12T21:15:25Z
 [In preview] Public Preview: Azure Storage Mover enables private data transfers from AWS S3 to Azure Blob,https://azure.microsoft.com/updates?id=558651,2026-03-12T21:15:25Z
 "Retirement: Support for Windows Server 2016 Marketplace images on Azure Batch pools will end on January 12, 2027",https://azure.microsoft.com/updates?id=549077,2026-03-16T18:45:11Z
