@@ -1,9 +1,4 @@
 Title,Link,PublishedDate
-"Retirement: Support for Windows Server 2016 Marketplace images on Azure Batch pools will end on January 12, 2027",https://azure.microsoft.com/updates?id=549077,2026-03-16T18:45:11Z
-Retirement: Migration of Azure Batch Low-Priority VMs to Spot VMs in early March,https://azure.microsoft.com/updates?id=543279,2026-03-16T18:45:11Z
-[In preview] Public Preview: Entra ID-Based Access for Azure Blob Storage SFTP,https://azure.microsoft.com/updates?id=558662,2026-03-16T18:30:34Z
-Retirement: End of life reminder of NVv3 and NVv4-series Azure virtual machine in Azure Batch pools,https://azure.microsoft.com/updates?id=516070,2026-03-16T18:30:34Z
-Retirement: Flatcar Container Linux for AKS (preview),https://azure.microsoft.com/updates?id=557929,2026-03-16T18:15:54Z
 [Launched] Generally Available: Default Rule Set 2.2 and updates to ruleset support policy,https://azure.microsoft.com/updates?id=558016,2026-03-17T17:45:45Z
 [Launched] Generally Available: Foundry Agent Service,https://azure.microsoft.com/updates?id=557141,2026-03-17T17:45:45Z
 "Retirement: Azure VMware Solution AV36P and AV52 node retirement on June 30, 2029",https://azure.microsoft.com/updates?id=557094,2026-03-17T17:30:11Z
