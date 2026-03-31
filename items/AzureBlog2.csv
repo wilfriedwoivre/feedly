@@ -8,3 +8,8 @@ Title,Link,PublishedDate
 [Launched] Generally Available: PostgreSQL migration service supports for Google AlloyDB into Azure Database for PostgreSQL,https://azure.microsoft.com/updates?id=558851,2026-03-25T17:30:45Z
 [Launched] Generally Available: Online migration now uses the pgoutput plugin,https://azure.microsoft.com/updates?id=558846,2026-03-25T17:30:45Z
 [Launched] Generally Available: Azure SQL updates for late-March 2026,https://azure.microsoft.com/updates?id=558879,2026-03-26T16:00:10Z
+[In preview] Public Preview: Ephemeral OS Disk with full caching for VM/VMSS,https://azure.microsoft.com/updates?id=559322,2026-03-30T21:45:47Z
+[Launched] Generally Available: Azure Red Hat OpenShift in Indonesia Central,https://azure.microsoft.com/updates?id=559552,2026-03-30T21:30:50Z
+Retirement: Deprecation of sidecar for remote-write for Azure Monitor managed service for Prometheus,https://azure.microsoft.com/updates?id=550519,2026-03-30T21:30:50Z
+"Retirement: Azure Cosmos DB for PostgreSQL will retire on March 31, 2029",https://azure.microsoft.com/updates?id=556085,2026-03-30T17:45:08Z
+[Launched] Generally Available: Azure Premium SSD v2 Disk is now available in South India,https://azure.microsoft.com/updates?id=559526,2026-03-30T16:30:50Z
