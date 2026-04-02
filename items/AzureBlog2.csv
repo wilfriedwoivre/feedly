@@ -12,3 +12,10 @@ Retirement: Deprecation of sidecar for remote-write for Azure Monitor managed se
 [Launched] Generally Available: Microsoft Azure now available from new cloud region in Denmark,https://azure.microsoft.com/updates?id=559406,2026-03-31T17:15:56Z
 "Retirement: Manually registered Azure VPN Clients for ​Azure Government and ​Microsoft Azure operated by 21Vianet clouds will be retired on March 31, 2029",https://azure.microsoft.com/updates?id=557395,2026-03-31T16:45:33Z
 [Launched] Generally Available: Azure Premium SSD v2 Disk is now available in US Gov Arizona,https://azure.microsoft.com/updates?id=559677,2026-03-31T16:30:51Z
+"Retirement: Service Fabric support for Windows Server 2022 ends on March 31, 2027 - upgrade to Windows Server 2025",https://azure.microsoft.com/updates?id=558247,2026-04-01T21:00:19Z
+"Retirement: Service Fabric support for Windows Server 2019 ends on March 31, 2027 - upgrade to Windows Server 2025",https://azure.microsoft.com/updates?id=558246,2026-04-01T20:30:41Z
+[In preview] Public Preview: Unlock Client-Side Configuration at Scale with Azure App Configuration and Azure Front Door,https://azure.microsoft.com/updates?id=537234,2026-04-01T19:00:05Z
+[Launched] Generally Available: Azure Data Box enhances compliance with automatic Secure Erasure Certificates,https://azure.microsoft.com/updates?id=559772,2026-04-01T18:30:16Z
+[Launched] Generally Available: Azure Data Box now supports Azure Files Provisioned v2,https://azure.microsoft.com/updates?id=559767,2026-04-01T18:15:44Z
+[In development] Public Preview: Azure NetApp Files storage with cool access enhancement,https://azure.microsoft.com/updates?id=559504,2026-04-01T18:15:44Z
+Retirement: Select Azure AI Language Features,https://azure.microsoft.com/updates?id=557394,2026-04-01T18:00:10Z
