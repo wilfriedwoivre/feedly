@@ -19,3 +19,5 @@ Retirement: Deprecation of sidecar for remote-write for Azure Monitor managed se
 [Launched] Generally Available: Azure Data Box now supports Azure Files Provisioned v2,https://azure.microsoft.com/updates?id=559767,2026-04-01T18:15:44Z
 [In development] Public Preview: Azure NetApp Files storage with cool access enhancement,https://azure.microsoft.com/updates?id=559504,2026-04-01T18:15:44Z
 Retirement: Select Azure AI Language Features,https://azure.microsoft.com/updates?id=557394,2026-04-01T18:00:10Z
+"Retirement: Python support for Azure App Service and Azure Functions on Windows will be retired on March 31, 2027",https://azure.microsoft.com/updates?id=558027,2026-04-02T16:45:52Z
+Retirement: AzureDnsEndpoints for Azure storage accounts will be retired March 2027,https://azure.microsoft.com/updates?id=558276,2026-04-02T16:30:09Z
