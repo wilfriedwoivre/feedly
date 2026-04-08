@@ -1,11 +1,4 @@
 Title,Link,PublishedDate
-"Retirement: Service Fabric support for Windows Server 2022 ends on March 31, 2027 - upgrade to Windows Server 2025",https://azure.microsoft.com/updates?id=558247,2026-04-01T21:00:19Z
-"Retirement: Service Fabric support for Windows Server 2019 ends on March 31, 2027 - upgrade to Windows Server 2025",https://azure.microsoft.com/updates?id=558246,2026-04-01T20:30:41Z
-[In preview] Public Preview: Unlock Client-Side Configuration at Scale with Azure App Configuration and Azure Front Door,https://azure.microsoft.com/updates?id=537234,2026-04-01T19:00:05Z
-[Launched] Generally Available: Azure Data Box enhances compliance with automatic Secure Erasure Certificates,https://azure.microsoft.com/updates?id=559772,2026-04-01T18:30:16Z
-[Launched] Generally Available: Azure Data Box now supports Azure Files Provisioned v2,https://azure.microsoft.com/updates?id=559767,2026-04-01T18:15:44Z
-[In development] Public Preview: Azure NetApp Files storage with cool access enhancement,https://azure.microsoft.com/updates?id=559504,2026-04-01T18:15:44Z
-Retirement: Select Azure AI Language Features,https://azure.microsoft.com/updates?id=557394,2026-04-01T18:00:10Z
 "Retirement: Python support for Azure App Service and Azure Functions on Windows will be retired on March 31, 2027",https://azure.microsoft.com/updates?id=558027,2026-04-02T16:45:52Z
 Retirement: AzureDnsEndpoints for Azure storage accounts will be retired March 2027,https://azure.microsoft.com/updates?id=558276,2026-04-02T16:30:09Z
 [Launched] Generally Available: Network Security Perimeter for Azure Service Bus,https://azure.microsoft.com/updates?id=559899,2026-04-06T18:00:04Z
