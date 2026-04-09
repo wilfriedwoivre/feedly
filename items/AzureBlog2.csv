@@ -5,3 +5,7 @@ Title,Link,PublishedDate
 [Launched] Generally Available: Disable HTTP proxy in AKS,https://azure.microsoft.com/updates?id=557857,2026-04-07T17:45:41Z
 [Launched] Generally Available: Azure Functions now supports MCP resource triggers,https://azure.microsoft.com/updates?id=559981,2026-04-07T17:15:12Z
 [Launched] Generally Available: Pod CIDR expansion in AKS,https://azure.microsoft.com/updates?id=557907,2026-04-07T17:00:23Z
+[Launched] Generally Available: Enhancements to maintenance notifications in Azure Service Health,https://azure.microsoft.com/updates?id=559628,2026-04-08T17:45:09Z
+[Launched] Generally Available: PgBouncer 1.25.1 support in Azure Database for PostgreSQL – Flexible Server,https://azure.microsoft.com/updates?id=559623,2026-04-08T17:45:09Z
+[Launched] Generally Available: Observability in AKS Namespace and Workload Views,https://azure.microsoft.com/updates?id=560039,2026-04-08T17:30:02Z
+[In preview] Public Preview: Azure Files assessments are now available using Azure Migrate,https://azure.microsoft.com/updates?id=560025,2026-04-08T17:30:02Z
