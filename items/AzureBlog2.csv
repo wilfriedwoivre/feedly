@@ -13,3 +13,7 @@ Retirement: End of lift reminder of HBv2/HC-Series/NP-Series Azure Virtual Machi
 [Launched] Generally Available: Encrypt Premium SSD v2 and Ultra Disks with Cross Tenant Customer Managed Keys,https://azure.microsoft.com/updates?id=559761,2026-04-15T17:15:38Z
 Retirement: Azure Kubernetes Service support for Ubuntu 22.04,https://azure.microsoft.com/updates?id=557928,2026-04-16T20:30:13Z
 [In preview] Generally Available: User and group quota reports in Azure NetApp Files,https://azure.microsoft.com/updates?id=558483,2026-04-16T18:00:13Z
+[Launched] Generally available: Anthropic Claude Opus 4.7 on Azure Databricks,https://azure.microsoft.com/updates?id=560590,2026-04-17T21:30:12Z
+"Retirement: Azure Functions runtime v3 on Linux Consumption will stop running September 30, 2026",https://azure.microsoft.com/updates?id=559311,2026-04-17T19:00:12Z
+[Launched] Generally Available: Configure AKS backup using a single Azure CLI command,https://azure.microsoft.com/updates?id=560521,2026-04-17T17:15:04Z
+Retirement: End of life reminder of HBv2/HC-Series/NP-Series Azure Virtual Machine in Azure Batch Pool,https://azure.microsoft.com/updates?id=559751,2026-04-15T17:30:33Z
