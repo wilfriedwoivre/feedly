@@ -1,11 +1,4 @@
 Title,Link,PublishedDate
-"[Launched] Generally Available: Azure File Sync in Belgium Central, Malaysia West, and Indonesia Central",https://azure.microsoft.com/updates?id=557828,2026-04-13T23:45:31Z
-[In preview] Public Preview: Managed identity support for graphical session recording,https://azure.microsoft.com/updates?id=560162,2026-04-13T18:45:30Z
-[Launched] Generally Available: Azure Storage Mover now available in Azure Government (US),https://azure.microsoft.com/updates?id=560198,2026-04-13T18:00:56Z
-[In preview] Public Preview: Monitor AKS applications with OpenTelemetry and Azure Monitor,https://azure.microsoft.com/updates?id=560119,2026-04-13T17:45:02Z
-[Launched] Generally Available: Granular Encryption-in-Transit Controls for SMB and NFS on Azure Files,https://azure.microsoft.com/updates?id=560001,2026-04-13T17:45:02Z
-"Retirement: Azure Managed Grafana Essential SKU will retire on March 30, 2027",https://azure.microsoft.com/updates?id=559395,2026-04-13T17:15:23Z
-[Launched] Public Preview: StandardV2 NAT Gateway as an outbound type for AKS,https://azure.microsoft.com/updates?id=560207,2026-04-13T16:00:36Z
 [In preview] Public Preview: Azure Site Recovery support for Windows Azure VMs with NVMe disk controllers.,https://azure.microsoft.com/updates?id=560241,2026-04-14T21:15:15Z
 [Launched] Announcing: Minimum billable object size for cooler storage tiers,https://azure.microsoft.com/updates?id=559756,2026-04-14T21:15:15Z
 [Launched] Generally Available: Smart Tier (Azure Blob and Data Lake Storage),https://azure.microsoft.com/updates?id=559746,2026-04-14T17:15:47Z
