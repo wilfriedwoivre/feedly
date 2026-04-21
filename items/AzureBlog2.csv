@@ -7,3 +7,4 @@ Retirement: Azure Kubernetes Service support for Ubuntu 22.04,https://azure.micr
 "Retirement: Azure Functions runtime v3 on Linux Consumption will stop running September 30, 2026",https://azure.microsoft.com/updates?id=559311,2026-04-17T19:00:12Z
 [Launched] Generally Available: Configure AKS backup using a single Azure CLI command,https://azure.microsoft.com/updates?id=560521,2026-04-17T17:15:04Z
 Retirement: End of life reminder of HBv2/HC-Series/NP-Series Azure Virtual Machine in Azure Batch Pool,https://azure.microsoft.com/updates?id=559751,2026-04-15T17:30:33Z
+[In preview] Public Preview: Azure Monitor supports native OTLP ingestion using the Azure Monitor Agent,https://azure.microsoft.com/updates?id=560530,2026-04-20T17:30:53Z
