@@ -6,3 +6,10 @@ Title,Link,PublishedDate
 [Launched] Generally Available: Azure Monitor pipeline,https://azure.microsoft.com/updates?id=559886,2026-04-21T20:30:49Z
 [In preview] Generally Available: Azure NetApp Files advanced ransomware protection,https://azure.microsoft.com/updates?id=560188,2026-04-21T18:15:14Z
 "Retirement: Transition to Entra ID (formerly known as Azure AD) to query data from Azure Monitor application insights by September 30, 2026",https://azure.microsoft.com/updates?id=transition-to-azure-ad-to-query-data-from-azure-monitor-application-insights-by-31-march-2026,2026-04-21T18:15:14Z
+[In preview] Public Preview: Azure Arc adds SQL Server on Azure Virtual Machines as a migration target,https://azure.microsoft.com/updates?id=560805,2026-04-22T20:45:32Z
+[Launched] Generally Available: Azure Database for PostgreSQL flexible server in Denmark East,https://azure.microsoft.com/updates?id=560288,2026-04-22T17:45:10Z
+[Launched] Generally Available: Dynamic data masking with Azure Cosmos DB,https://azure.microsoft.com/updates?id=559633,2026-04-22T17:45:10Z
+[In preview] Public Preview: Logical replication slot sync Status metric for Azure PostgreSQL Flexible Server,https://azure.microsoft.com/updates?id=513249,2026-04-22T17:45:10Z
+[Launched] Generally Available: Premium SSD v2 for Azure Database for PostgreSQL,https://azure.microsoft.com/updates?id=560336,2026-04-22T17:30:14Z
+[In preview] Public Preview: Migrating from virtual network-integrated to Private Endpoint–capable network configuration,https://azure.microsoft.com/updates?id=560298,2026-04-22T17:30:14Z
+[Launched] Generally Available: Enhanced Mirroring Azure Database for PostgreSQL in Microsoft Fabric,https://azure.microsoft.com/updates?id=560293,2026-04-22T17:30:14Z
