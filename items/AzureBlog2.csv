@@ -10,3 +10,5 @@ Title,Link,PublishedDate
 [Launched] Generally Available: Premium SSD v2 for Azure Database for PostgreSQL,https://azure.microsoft.com/updates?id=560336,2026-04-22T17:30:14Z
 [In preview] Public Preview: Migrating from virtual network-integrated to Private Endpoint–capable network configuration,https://azure.microsoft.com/updates?id=560298,2026-04-22T17:30:14Z
 [Launched] Generally Available: Enhanced Mirroring Azure Database for PostgreSQL in Microsoft Fabric,https://azure.microsoft.com/updates?id=560293,2026-04-22T17:30:14Z
+[Launched] Generally Available: Capacity Autoscaling,https://azure.microsoft.com/updates?id=560919,2026-04-23T18:30:11Z
+[Launched] Generally Available: Azure Monitor for Azure Arc-enabled Kubernetes with OpenShift and Azure Red Hat OpenShift,https://azure.microsoft.com/updates?id=560358,2026-04-23T16:45:55Z
