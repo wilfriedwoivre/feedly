@@ -2,3 +2,5 @@ Title,Link,PublishedDate
 SELinux Volume Label Changes goes GA (and likely implications in v1.37),https://kubernetes.io/blog/2026/04/22/breaking-changes-in-selinux-volume-labeling/,"Wed, 22 Apr 2026 10:35:00 -0800"
 Kubernetes v1.36: ハル (Haru),https://kubernetes.io/blog/2026/04/22/kubernetes-v1-36-release/,"Wed, 22 Apr 2026 00:00:00 +0000"
 Gateway API v1.5: Moving features to Stable,https://kubernetes.io/blog/2026/04/21/gateway-api-v1-5/,"Tue, 21 Apr 2026 08:30:00 -0800"
+Kubernetes v1.36: Fine-Grained Kubelet API Authorization Graduates to GA,https://kubernetes.io/blog/2026/04/24/kubernetes-v1-36-fine-grained-kubelet-authorization-ga/,"Fri, 24 Apr 2026 10:35:00 -0800"
+Kubernetes v1.36: User Namespaces in Kubernetes are finally GA,https://kubernetes.io/blog/2026/04/23/kubernetes-v1-36-userns-ga/,"Thu, 23 Apr 2026 10:35:00 -0800"
