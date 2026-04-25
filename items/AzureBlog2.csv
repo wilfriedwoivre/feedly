@@ -12,3 +12,10 @@ Title,Link,PublishedDate
 [Launched] Generally Available: Enhanced Mirroring Azure Database for PostgreSQL in Microsoft Fabric,https://azure.microsoft.com/updates?id=560293,2026-04-22T17:30:14Z
 [Launched] Generally Available: Capacity Autoscaling,https://azure.microsoft.com/updates?id=560919,2026-04-23T18:30:11Z
 [Launched] Generally Available: Azure Monitor for Azure Arc-enabled Kubernetes with OpenShift and Azure Red Hat OpenShift,https://azure.microsoft.com/updates?id=560358,2026-04-23T16:45:55Z
+[In preview] Public Preview: Azure Backup for Elastic SAN,https://azure.microsoft.com/updates?id=560904,2026-04-24T18:30:50Z
+[In preview] Public Preview: Hosted Agents in Foundry Agent Service,https://azure.microsoft.com/updates?id=560997,2026-04-24T18:15:17Z
+[Launched] Generally Available: Foundry Toolkit for Visual Studio Code (formerly AI Toolkit for VS Code),https://azure.microsoft.com/updates?id=560987,2026-04-24T18:15:17Z
+[Launched] Generally Available: WireGuard In‑Transit Encryption for Azure Kubernetes Service (AKS),https://azure.microsoft.com/updates?id=560015,2026-04-24T18:15:17Z
+"Retirement: Support for .NET 8 (LTS) ends on November 10, 2026—upgrade your apps to .NET 10 (LTS)",https://azure.microsoft.com/updates?id=558033,2026-04-24T17:45:05Z
+[Launched] Generally Available: Cascading read replicas in Azure Database for PostgreSQL,https://azure.microsoft.com/updates?id=560939,2026-04-24T16:45:30Z
+[Launched] Generally Available: CRC Protection,https://azure.microsoft.com/updates?id=560889,2026-04-24T16:45:30Z
