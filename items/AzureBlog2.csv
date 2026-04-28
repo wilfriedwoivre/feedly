@@ -15,3 +15,5 @@ Title,Link,PublishedDate
 "Retirement: Support for .NET 8 (LTS) ends on November 10, 2026—upgrade your apps to .NET 10 (LTS)",https://azure.microsoft.com/updates?id=558033,2026-04-24T17:45:05Z
 [Launched] Generally Available: Cascading read replicas in Azure Database for PostgreSQL,https://azure.microsoft.com/updates?id=560939,2026-04-24T16:45:30Z
 [Launched] Generally Available: CRC Protection,https://azure.microsoft.com/updates?id=560889,2026-04-24T16:45:30Z
+[Launched] Generally Available: Bring your own AI Gateway in Foundry Agent Service,https://azure.microsoft.com/updates?id=561002,2026-04-27T18:00:52Z
+Retirement: Prompt Flow in Azure ML and Foundry,https://azure.microsoft.com/updates?id=502936,2026-04-27T16:15:55Z
