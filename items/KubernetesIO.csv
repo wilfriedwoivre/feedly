@@ -3,3 +3,4 @@ Kubernetes v1.36: Mutable Pod Resources for Suspended Jobs (beta),https://kubern
 Kubernetes v1.36: Staleness Mitigation and Observability for Controllers,https://kubernetes.io/blog/2026/04/28/kubernetes-v1-36-staleness-mitigation-for-controllers/,"Tue, 28 Apr 2026 10:35:00 -0800"
 Kubernetes v1.36: Tiered Memory Protection with Memory QoS,https://kubernetes.io/blog/2026/04/29/kubernetes-v1-36-memory-qos-tiered-protection/,"Wed, 29 Apr 2026 10:35:00 -0800"
 Kubernetes v1.36: In-Place Vertical Scaling for Pod-Level Resources Graduates to Beta,https://kubernetes.io/blog/2026/04/30/kubernetes-v1-36-inplace-pod-level-resources-beta/,"Thu, 30 Apr 2026 10:35:00 -0800"
+Kubernetes v1.36: Pod-Level Resource Managers (Alpha),https://kubernetes.io/blog/2026/05/01/kubernetes-v1-36-feature-pod-level-resource-managers-alpha/,"Fri, 01 May 2026 10:35:00 -0800"
