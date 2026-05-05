@@ -5,3 +5,5 @@ Title,Link,PublishedDate
 [Launched] Generally Available: Prefix-scoped access for User Delegation SAS,https://azure.microsoft.com/updates?id=561257,2026-04-30T18:00:11Z
 [In preview] Generally Available: Azure Functions support for Java 25,https://azure.microsoft.com/updates?id=560879,2026-04-30T17:15:44Z
 [Launched] Update: Egress and data transfer with Azure in the United Kingdom,https://azure.microsoft.com/updates?id=561392,2026-05-01T21:45:13Z
+[Launched] Generally Available: Cleanup legacy AlternateId usage to ensure continued service,https://azure.microsoft.com/updates?id=561432,2026-05-04T17:45:58Z
+[Launched] Generally Available: Azure Functions durable task scheduler Consumption SKU,https://azure.microsoft.com/updates?id=560957,2026-05-04T17:45:58Z
