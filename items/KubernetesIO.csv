@@ -1,5 +1,4 @@
 Title,Link,PublishedDate
-Kubernetes v1.36: In-Place Vertical Scaling for Pod-Level Resources Graduates to Beta,https://kubernetes.io/blog/2026/04/30/kubernetes-v1-36-inplace-pod-level-resources-beta/,"Thu, 30 Apr 2026 10:35:00 -0800"
 Kubernetes v1.36: Pod-Level Resource Managers (Alpha),https://kubernetes.io/blog/2026/05/01/kubernetes-v1-36-feature-pod-level-resource-managers-alpha/,"Fri, 01 May 2026 10:35:00 -0800"
 Kubernetes v1.36: Declarative Validation Graduates to GA,https://kubernetes.io/blog/2026/05/05/kubernetes-v1-36-declarative-validation-ga/,"Tue, 05 May 2026 10:35:00 -0800"
 Kubernetes v1.36: Admission Policies That Can't Be Deleted,https://kubernetes.io/blog/2026/05/04/kubernetes-v1-36-manifest-based-admission-control/,"Mon, 04 May 2026 10:35:00 -0800"
