@@ -1,2 +1,4 @@
 Title,Link,PublishedDate
 Kubernetes v1.36: Moving Volume Group Snapshots to GA,https://kubernetes.io/blog/2026/05/08/kubernetes-v1-36-volume-group-snapshot-ga/,"Fri, 08 May 2026 10:35:00 -0800"
+Kubernetes v1.36: Advancing Workload-Aware Scheduling,https://kubernetes.io/blog/2026/05/13/kubernetes-v1-36-advancing-workload-aware-scheduling/,"Wed, 13 May 2026 10:35:00 -0800"
+Kubernetes v1.36: PSI Metrics for Kubernetes Graduates to GA,https://kubernetes.io/blog/2026/05/12/kubernetes-v1-36-psi-metrics-ga/,"Tue, 12 May 2026 10:35:00 -0800"
