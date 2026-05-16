@@ -2,3 +2,5 @@ Title,Link,PublishedDate
 Kubernetes v1.36: Advancing Workload-Aware Scheduling,https://kubernetes.io/blog/2026/05/13/kubernetes-v1-36-advancing-workload-aware-scheduling/,"Wed, 13 May 2026 10:35:00 -0800"
 Kubernetes v1.36: PSI Metrics for Kubernetes Graduates to GA,https://kubernetes.io/blog/2026/05/12/kubernetes-v1-36-psi-metrics-ga/,"Tue, 12 May 2026 10:35:00 -0800"
 Kubernetes v1.36: Deprecation and removal of Service ExternalIPs,https://kubernetes.io/blog/2026/05/14/kubernetes-v1-36-deprecation-and-removal-of-service-externalips/,"Thu, 14 May 2026 10:35:00 -0800"
+Kubernetes v1.36: New Metric for Route Sync in the Cloud Controller Manager,https://kubernetes.io/blog/2026/05/15/ccm-new-metric-route-sync-total/,"Fri, 15 May 2026 10:35:00 -0800"
+Kubernetes v1.36: Mixed Version Proxy Graduates to Beta,https://kubernetes.io/blog/2026/05/15/kubernetes-1-36-feature-mixed-version-proxy-beta/,"Fri, 15 May 2026 10:00:00 -0800"
