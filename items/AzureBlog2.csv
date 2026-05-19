@@ -4,3 +4,6 @@ Title,Link,PublishedDate
 [Launched] Generally Available: Managed Identity Support for Azure Files SMB Is now GA,https://azure.microsoft.com/updates?id=562350,2026-05-14T17:30:02Z
 [Launched] Update: Microsoft Foundry built-in RBAC role naming and enhancements,https://azure.microsoft.com/updates?id=562533,2026-05-15T22:00:42Z
 [Launched] Generally Available: Azure Blob Storage SDK for Rust,https://azure.microsoft.com/updates?id=562516,2026-05-15T18:15:26Z
+[Launched] Generally Available: Application Insights Auto-instrumentation for Azure Kubernetes Service apps,https://azure.microsoft.com/updates?id=562049,2026-05-18T18:00:18Z
+[Launched]  Generally Available: Auto activation for SaaS subscriptions in Microsoft Marketplace,https://azure.microsoft.com/updates?id=561771,2026-05-18T18:00:18Z
+[Launched] Generally Available: Azure Front Door WebSocket,https://azure.microsoft.com/updates?id=562548,2026-05-18T17:45:33Z
