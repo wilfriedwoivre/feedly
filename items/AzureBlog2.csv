@@ -9,3 +9,12 @@ Title,Link,PublishedDate
 [Launched] Generally Available: Azure Virtual Network updates – default limits increased for NSGs and route tables,https://azure.microsoft.com/updates?id=562695,2026-05-19T16:45:42Z
 [Launched] Generally Available: Network Watcher rule impact analyser,https://azure.microsoft.com/updates?id=562690,2026-05-19T16:45:42Z
 [Launched] Generally Available: Mock runs for Azure Storage Actions – Validate before you execute,https://azure.microsoft.com/updates?id=559494,2026-05-19T16:00:11Z
+"[Launched] Generally Available: SQL Server on Azure VMs in Malaysia West, Indonesia Central",https://azure.microsoft.com/updates?id=562094,2026-05-20T23:15:14Z
+"[In preview] Update: Microsoft Entra ID token refresh support for Python, .NET, and JavaScript in Azure Database for PostgreSQL",https://azure.microsoft.com/updates?id=562079,2026-05-20T23:15:14Z
+[Launched] Generally Available: langchain-azure-cosmosdb python package for Azure Cosmos DB,https://azure.microsoft.com/updates?id=562074,2026-05-20T17:15:19Z
+[Launched] Generally Available: Azure Storage Mover Blob-to-Blob migration,https://azure.microsoft.com/updates?id=562753,2026-05-20T17:00:39Z
+[Launched] Generally Available: Schedule one-time or recurring migrations with Azure Storage Mover,https://azure.microsoft.com/updates?id=562622,2026-05-20T17:00:39Z
+[In preview] Public Preview: Summarized advertised gateway prefixes for route advertisement,https://azure.microsoft.com/updates?id=562813,2026-05-20T16:45:53Z
+[Launched] Generally Available: site-to-site VPN connections with certificate authentication,https://azure.microsoft.com/updates?id=562705,2026-05-20T16:45:53Z
+[In preview] Public Preview: Azure Event Grid Subscription Identifiers,https://azure.microsoft.com/updates?id=562970,2026-05-20T15:15:40Z
+[Launched] Generally Available: Azure Event Grid releases for April 2026,https://azure.microsoft.com/updates?id=562240,2026-05-20T15:15:40Z
