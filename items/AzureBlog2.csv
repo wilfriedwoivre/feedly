@@ -16,3 +16,8 @@ Title,Link,PublishedDate
 [Launched] Generally Available: site-to-site VPN connections with certificate authentication,https://azure.microsoft.com/updates?id=562705,2026-05-20T16:45:53Z
 [In preview] Public Preview: Azure Event Grid Subscription Identifiers,https://azure.microsoft.com/updates?id=562970,2026-05-20T15:15:40Z
 [Launched] Generally Available: Azure Event Grid releases for April 2026,https://azure.microsoft.com/updates?id=562240,2026-05-20T15:15:40Z
+[Launched] Generally Available: Entra-only identities with Azure Files,https://azure.microsoft.com/updates?id=562359,2026-05-21T22:00:20Z
+[Launched] Generally Available: Azure NetApp Files object REST API,https://azure.microsoft.com/updates?id=562254,2026-05-21T21:45:32Z
+"Retirement:  TLS 1.0 and TLS 1.1 in Azure App Service, Azure Functions, and Azure Logic Apps",https://azure.microsoft.com/updates?id=557852,2026-05-21T21:45:32Z
+[Launched] Generally Available: User Groups and IP address pools for P2S connections,https://azure.microsoft.com/updates?id=564460,2026-05-21T18:45:42Z
+[In preview] Public Preview: TLS/SSL certificate support for Azure Functions Flex Consumption,https://azure.microsoft.com/updates?id=562808,2026-05-21T18:45:42Z
