@@ -1,9 +1,4 @@
 Title,Link,PublishedDate
-[In preview] Public Preview: Evaluate feature rollouts with Azure App Configuration Scorecards,https://azure.microsoft.com/updates?id=561049,2026-05-19T17:15:23Z
-[Launched] Generally Available: Azure NetApp Files cache volumes,https://azure.microsoft.com/updates?id=562259,2026-05-19T17:00:29Z
-[Launched] Generally Available: Azure Virtual Network updates – default limits increased for NSGs and route tables,https://azure.microsoft.com/updates?id=562695,2026-05-19T16:45:42Z
-[Launched] Generally Available: Network Watcher rule impact analyser,https://azure.microsoft.com/updates?id=562690,2026-05-19T16:45:42Z
-[Launched] Generally Available: Mock runs for Azure Storage Actions – Validate before you execute,https://azure.microsoft.com/updates?id=559494,2026-05-19T16:00:11Z
 "[Launched] Generally Available: SQL Server on Azure VMs in Malaysia West, Indonesia Central",https://azure.microsoft.com/updates?id=562094,2026-05-20T23:15:14Z
 "[In preview] Update: Microsoft Entra ID token refresh support for Python, .NET, and JavaScript in Azure Database for PostgreSQL",https://azure.microsoft.com/updates?id=562079,2026-05-20T23:15:14Z
 [Launched] Generally Available: langchain-azure-cosmosdb python package for Azure Cosmos DB,https://azure.microsoft.com/updates?id=562074,2026-05-20T17:15:19Z
