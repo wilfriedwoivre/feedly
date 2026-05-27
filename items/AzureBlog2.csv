@@ -4,3 +4,5 @@ Title,Link,PublishedDate
 "Retirement:  TLS 1.0 and TLS 1.1 in Azure App Service, Azure Functions, and Azure Logic Apps",https://azure.microsoft.com/updates?id=557852,2026-05-21T21:45:32Z
 [Launched] Generally Available: User Groups and IP address pools for P2S connections,https://azure.microsoft.com/updates?id=564460,2026-05-21T18:45:42Z
 [In preview] Public Preview: TLS/SSL certificate support for Azure Functions Flex Consumption,https://azure.microsoft.com/updates?id=562808,2026-05-21T18:45:42Z
+[In preview] Public Preview: Azure Virtual Network Manager integration with Virtual WAN,https://azure.microsoft.com/updates?id=564478,2026-05-26T18:00:01Z
+[Launched] Generally Available: Virtual network flow logs connector with Microsoft Sentinel,https://azure.microsoft.com/updates?id=564689,2026-05-26T16:45:10Z
