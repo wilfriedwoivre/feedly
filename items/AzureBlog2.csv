@@ -163,3 +163,5 @@ Title,Link,PublishedDate
 [Launched] Generally Available: Microsoft Foundry IQ,https://azure.microsoft.com/updates?id=563222,2026-06-04T19:15:11Z
 [In preview] Public Preview: Content Understanding chunking and image verbalization in Azure AI Search,https://azure.microsoft.com/updates?id=563661,2026-06-04T19:00:34Z
 [Launched] Generally Available: Azure Monitor Service Level Indicators (SLI),https://azure.microsoft.com/updates?id=565159,2026-06-04T16:30:52Z
+[In preview] Public Preview: Ingestion Volume Change dashboard in Metrics Usage Insights,https://azure.microsoft.com/updates?id=565286,2026-06-05T20:45:48Z
+[In development] Private Preview: Guest RDMA on Azure Boost,https://azure.microsoft.com/updates?id=564981,2026-06-05T20:30:12Z
