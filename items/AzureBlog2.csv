@@ -34,3 +34,10 @@ Title,Link,PublishedDate
 [Launched] Generally Available: Azure Monitor Service Level Indicators (SLI),https://azure.microsoft.com/updates?id=565159,2026-06-04T16:30:52Z
 [In preview] Public Preview: Ingestion Volume Change dashboard in Metrics Usage Insights,https://azure.microsoft.com/updates?id=565286,2026-06-05T20:45:48Z
 [In development] Private Preview: Guest RDMA on Azure Boost,https://azure.microsoft.com/updates?id=564981,2026-06-05T20:30:12Z
+[Launched] Update: Minimum billable object size for cooler storage tiers,https://azure.microsoft.com/updates?id=559756,2026-06-08T23:45:02Z
+[Launched] Generally Available: Azure NC RTX PRO 6000 Blackwell Server Edition v6 Series Virtual Machines,https://azure.microsoft.com/updates?id=565271,2026-06-08T18:15:14Z
+[Launched] Generally Available: Premium SSD v2 disks now support non-zonal Azure Virtual Machines,https://azure.microsoft.com/updates?id=565359,2026-06-08T18:00:23Z
+[In preview] Public Preview: Microsoft Foundry agent security capabilities in Microsoft Defender for Cloud are transitioning to a Microsoft Agent 365 license,https://azure.microsoft.com/updates?id=565171,2026-06-08T17:15:43Z
+[In preview] Public Preview: Azure Site Recovery support for Linux Azure VMs with NVMe disk controllers.,https://azure.microsoft.com/updates?id=565103,2026-06-08T17:15:43Z
+"[Launched] Generally Available: Maintenance control for Azure Database for PostgreSQL - reschedule, apply on demand, view and download",https://azure.microsoft.com/updates?id=563756,2026-06-08T17:15:43Z
+[In preview] Public Preview: Azure Managed Redis now supports Entra ID based RBAC for data management,https://azure.microsoft.com/updates?id=564873,2026-06-08T16:15:40Z
