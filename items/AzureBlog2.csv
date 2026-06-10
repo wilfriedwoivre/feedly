@@ -21,3 +21,5 @@ Title,Link,PublishedDate
 [In preview] Public Preview: Azure Site Recovery support for Linux Azure VMs with NVMe disk controllers.,https://azure.microsoft.com/updates?id=565103,2026-06-08T17:15:43Z
 "[Launched] Generally Available: Maintenance control for Azure Database for PostgreSQL - reschedule, apply on demand, view and download",https://azure.microsoft.com/updates?id=563756,2026-06-08T17:15:43Z
 [In preview] Public Preview: Azure Managed Redis now supports Entra ID based RBAC for data management,https://azure.microsoft.com/updates?id=564873,2026-06-08T16:15:40Z
+[In preview] Public Preview: Agent mode for GitHub Copilot in SQL Server Management Studio (SSMS),https://azure.microsoft.com/updates?id=562637,2026-06-09T23:45:10Z
+[Launched] Generally Available: PostgreSQL Hub for Azure Developers,https://azure.microsoft.com/updates?id=562084,2026-06-09T18:45:07Z
