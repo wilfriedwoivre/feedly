@@ -1,24 +1,4 @@
 Title,Link,PublishedDate
-[Launched] Generally Available: Simple log alerts in Azure Monitor,https://azure.microsoft.com/updates?id=561978,2026-06-03T02:00:57Z
-[In preview] Public Preview: MAI-Voice-2 in Microsoft Foundry,https://azure.microsoft.com/updates?id=563217,2026-06-03T23:00:57Z
-[Launched] General Availability: Backup your ledger files for audit with Azure confidential ledger’s new tool,https://azure.microsoft.com/updates?id=560810,2026-06-03T22:15:24Z
-[Launched] Generally Available: Text Analytics for Health NextGen Playground in Azure AI Language,https://azure.microsoft.com/updates?id=563671,2026-06-03T21:15:57Z
-[In preview] Public Preview: User feedback logging in Microsoft Foundry,https://azure.microsoft.com/updates?id=563431,2026-06-03T21:15:57Z
-[Launched] Generally Available: Self-serve custom photo avatar creation in Microsoft Foundry,https://azure.microsoft.com/updates?id=563491,2026-06-03T20:45:02Z
-[Launched] Generally Available: Azure Red Hat OpenShift in Belgium Central,https://azure.microsoft.com/updates?id=564849,2026-06-03T19:15:46Z
-[In preview] Public Preview: Agent-to-agent (A2A) support for Prompt agents and Hosted agents in Foundry,https://azure.microsoft.com/updates?id=563716,2026-06-03T19:15:46Z
-[Launched] Public Preview: Conversational PII NextGen Playground in Microsoft Foundry,https://azure.microsoft.com/updates?id=564246,2026-06-03T19:00:25Z
-[Launched] Public Preview: TextPII NextGen Playground updates in Microsoft Foundry,https://azure.microsoft.com/updates?id=564241,2026-06-03T19:00:25Z
-[In preview] Public Preview: Observability developer experience in Azure Developer CLI (azd),https://azure.microsoft.com/updates?id=563736,2026-06-03T19:00:25Z
-[In preview] Public Preview: Domain filter for specialized model discovery in Foundry model catalog,https://azure.microsoft.com/updates?id=563731,2026-06-03T19:00:25Z
-[Launched] Generally Available: Microsoft Foundry for Visual Studio Code (June Build 2026 refresh),https://azure.microsoft.com/updates?id=563721,2026-06-03T19:00:25Z
-[In preview] Public Preview: Evaluations with Intelligent Trace Sampling,https://azure.microsoft.com/updates?id=563696,2026-06-03T19:00:25Z
-[Launched] Generally Available: Custom Voice portal experience in Microsoft Foundry,https://azure.microsoft.com/updates?id=563691,2026-06-03T19:00:25Z
-[In preview] Public Preview: Rubric evaluator in Microsoft Foundry,https://azure.microsoft.com/updates?id=563656,2026-06-03T19:00:25Z
-[In development] Announcing: Confidential Live Migration for Intel TDX confidential VMs in Azure,https://azure.microsoft.com/updates?id=565000,2026-06-03T18:15:04Z
-[In preview] Public Preview: Azure Infrastructure Resiliency Manager,https://azure.microsoft.com/updates?id=564759,2026-06-03T17:15:25Z
-[Launched] Generally Available: Azure Database for PostgreSQL - Flexible Server: DuckDB extension,https://azure.microsoft.com/updates?id=563766,2026-06-03T17:00:49Z
-[In preview] Public Preview: Advanced full-text search in Azure DocumentDB,https://azure.microsoft.com/updates?id=563077,2026-06-03T17:00:49Z
 [In preview] Public Preview: Voice sync for avatar support in Voice Live API in Microsoft Foundry,https://azure.microsoft.com/updates?id=564176,2026-06-04T22:15:50Z
 [Launched] Generally Available: Azure Files assessments are now available worldwide using Azure Migrate,https://azure.microsoft.com/updates?id=564563,2026-06-04T21:45:11Z
 [In preview] Public Preview: AI pipelines in Azure HorizonDB,https://azure.microsoft.com/updates?id=565182,2026-06-04T19:45:40Z
