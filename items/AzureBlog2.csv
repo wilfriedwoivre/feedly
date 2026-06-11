@@ -1,17 +1,4 @@
 Title,Link,PublishedDate
-[In preview] Public Preview: Voice sync for avatar support in Voice Live API in Microsoft Foundry,https://azure.microsoft.com/updates?id=564176,2026-06-04T22:15:50Z
-[Launched] Generally Available: Azure Files assessments are now available worldwide using Azure Migrate,https://azure.microsoft.com/updates?id=564563,2026-06-04T21:45:11Z
-[In preview] Public Preview: AI pipelines in Azure HorizonDB,https://azure.microsoft.com/updates?id=565182,2026-06-04T19:45:40Z
-[Launched] Generally Available: Ingest OTLP signals into Azure Monitor with the OpenTelemetry Collector,https://azure.microsoft.com/updates?id=565090,2026-06-04T19:45:40Z
-[In preview] Public Preview: Tool search in Microsoft Foundry toolboxes,https://azure.microsoft.com/updates?id=563506,2026-06-04T19:30:58Z
-[In preview] Public Preview: APIM Support for Foundry Models in Azure AI Search,https://azure.microsoft.com/updates?id=563451,2026-06-04T19:30:58Z
-[In preview] Public Preview: Azure SQL as a knowledge source in Foundry IQ,https://azure.microsoft.com/updates?id=563446,2026-06-04T19:30:58Z
-[Launched] Generally Available: Microsoft Discovery,https://azure.microsoft.com/updates?id=562733,2026-06-04T19:30:58Z
-[Launched] Generally Available: Private Connectivity for Azure AI Search and Foundry Knowledge Bases,https://azure.microsoft.com/updates?id=563516,2026-06-04T19:15:11Z
-[In preview] Public Preview: Fabric IQ Ontology Knowledge Source in Microsoft Foundry IQ,https://azure.microsoft.com/updates?id=563416,2026-06-04T19:15:11Z
-[Launched] Generally Available: Microsoft Foundry IQ,https://azure.microsoft.com/updates?id=563222,2026-06-04T19:15:11Z
-[In preview] Public Preview: Content Understanding chunking and image verbalization in Azure AI Search,https://azure.microsoft.com/updates?id=563661,2026-06-04T19:00:34Z
-[Launched] Generally Available: Azure Monitor Service Level Indicators (SLI),https://azure.microsoft.com/updates?id=565159,2026-06-04T16:30:52Z
 [In preview] Public Preview: Ingestion Volume Change dashboard in Metrics Usage Insights,https://azure.microsoft.com/updates?id=565286,2026-06-05T20:45:48Z
 [In development] Private Preview: Guest RDMA on Azure Boost,https://azure.microsoft.com/updates?id=564981,2026-06-05T20:30:12Z
 [Launched] Update: Minimum billable object size for cooler storage tiers,https://azure.microsoft.com/updates?id=559756,2026-06-08T23:45:02Z
