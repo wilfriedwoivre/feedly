@@ -11,3 +11,8 @@ Title,Link,PublishedDate
 [Launched] Generally Available: Microsoft Entra server principals on Azure SQL Database,https://azure.microsoft.com/updates?id=565154,2026-06-10T20:45:26Z
 Retirement: Azure Synapse Link for Azure Cosmos DB NoSQL,https://azure.microsoft.com/updates?id=558560,2026-06-10T17:00:06Z
 "Retirement: Azure VPN Client for Linux (Preview) will be retired on August 31, 2026",https://azure.microsoft.com/updates?id=565393,2026-06-10T16:15:16Z
+"Retirement: Av2-series, F-series, Fs-series, Fsv2-series, G-series, Gs-series, and Lsv2-series Virtual Machines for Azure Batch pools",https://azure.microsoft.com/updates?id=564774,2026-06-11T19:00:41Z
+"Retirement: D-series, Ds-series, Dv2-series, Dsv2-series, and Ls-series Virtual Machines for Azure Batch pools",https://azure.microsoft.com/updates?id=564772,2026-06-11T19:00:41Z
+Retirement: GPv1 and Legacy Blob storage account creation,https://azure.microsoft.com/updates?id=564441,2026-06-11T19:00:41Z
+[Launched] Generally Available: SQL MCP Server,https://azure.microsoft.com/updates?id=564734,2026-06-11T18:45:02Z
+Retirement: Azure Load Balancer Inbound NAT rule version 1 for Azure VMSS (aka Inbound NAT Pools),https://azure.microsoft.com/updates?id=565482,2026-06-11T16:15:07Z
