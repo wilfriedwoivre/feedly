@@ -4,3 +4,5 @@ Title,Link,PublishedDate
 Retirement: GPv1 and Legacy Blob storage account creation,https://azure.microsoft.com/updates?id=564441,2026-06-11T19:00:41Z
 [Launched] Generally Available: SQL MCP Server,https://azure.microsoft.com/updates?id=564734,2026-06-11T18:45:02Z
 Retirement: Azure Load Balancer Inbound NAT rule version 1 for Azure VMSS (aka Inbound NAT Pools),https://azure.microsoft.com/updates?id=565482,2026-06-11T16:15:07Z
+[In preview] Public Preview: New project templates and template gallery for Azure Functions in VS Code,https://azure.microsoft.com/updates?id=562497,2026-06-16T19:00:15Z
+[Launched] Generally Available: Log Analytics Summary Rules experience,https://azure.microsoft.com/updates?id=562027,2026-06-16T17:15:28Z
