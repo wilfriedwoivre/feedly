@@ -1,2 +1,6 @@
 Title,Link,PublishedDate
 Spotlight on WG Device Management,https://kubernetes.io/blog/2026/06/24/wg-device-management-spotlight-2026/,"Wed, 24 Jun 2026 10:00:00 -0800"
+Open source maintainership in the age of AI,https://kubernetes.io/blog/2026/06/26/open-source-maintainership-in-the-age-of-ai/,"Fri, 26 Jun 2026 10:00:00 -0800"
+Introducing the Cluster API plugin for Headlamp,https://kubernetes.io/blog/2026/06/25/headlamp-cluster-api-plugin/,"Thu, 25 Jun 2026 14:00:00 -0800"
+Inspect Volcano workloads faster with Headlamp,https://kubernetes.io/blog/2026/06/25/visual-context-volcano-headlamp-plugin/,"Thu, 25 Jun 2026 12:00:00 -0800"
+See your serverless: introducing the Headlamp plugin for Knative,https://kubernetes.io/blog/2026/06/25/headlamp-knative-plugin/,"Thu, 25 Jun 2026 10:00:00 -0800"
