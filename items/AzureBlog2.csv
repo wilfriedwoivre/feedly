@@ -1,9 +1,4 @@
 Title,Link,PublishedDate
-[Launched] Generally Available: New Powershell module:  Az.PostgreSQLFlexibleServer,https://azure.microsoft.com/updates?id=566209,2026-07-01T17:19:25Z
-[Launched] Public Preview: Document PII playground sample in Microsoft Foundry NextGen,https://azure.microsoft.com/updates?id=563331,2026-07-01T17:04:40Z
-[Launched] Generally Available: Document PII NextGen Playground in Azure AI Language,https://azure.microsoft.com/updates?id=564382,2026-07-01T17:01:07Z
-[In preview] Public Preview: Instant Access via application consistent restore points,https://azure.microsoft.com/updates?id=565758,2026-07-01T16:59:39Z
-[Launched] Public Preview: Azure Storage Mover now supports migration from Google Cloud Storage (GCS),https://azure.microsoft.com/updates?id=566948,2026-07-01T16:56:50Z
 [Launched] Generally available: Anthropic Claude Sonnet 5 on Azure Databricks,https://azure.microsoft.com/updates?id=567194,2026-07-02T22:21:51Z
 [Launched] Generally Available: Microsoft Entra ID-based access for Azure Blob Storage SFTP,https://azure.microsoft.com/updates?id=567085,2026-07-06T15:54:08Z
 [Launched] Generally Available: Support 5x churn in Azure Site Recovery,https://azure.microsoft.com/updates?id=566966,2026-07-06T15:00:33Z
