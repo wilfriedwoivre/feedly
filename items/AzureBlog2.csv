@@ -1,10 +1,4 @@
 Title,Link,PublishedDate
-[In preview] Public Preview: Exceptions in WAF for Azure Application Gateway and Azure Front Door,https://azure.microsoft.com/updates?id=567218,2026-07-07T17:42:50Z
-[In preview] Public Preview: Azure Chaos Studio Workspaces and Scenarios,https://azure.microsoft.com/updates?id=567184,2026-07-07T17:40:32Z
-[In preview] Public Preview: Export historical data from Log Analytics workspace with Export jobs,https://azure.microsoft.com/updates?id=566591,2026-07-07T17:37:55Z
-[Launched] Generally Available: Network Security Perimeter support for Azure Event Hubs,https://azure.microsoft.com/updates?id=567203,2026-07-07T17:35:19Z
-[Launched] Generally Available: Confidential Computing support for Azure Event Hubs Dedicated,https://azure.microsoft.com/updates?id=567212,2026-07-07T17:33:53Z
-[Launched] Generally Available: Azure Red Hat OpenShift in Chile Central,https://azure.microsoft.com/updates?id=566732,2026-07-07T17:31:55Z
 [In preview] Public Preview: Manage Azure Chaos Studio from the Azure CLI,https://azure.microsoft.com/updates?id=567225,2026-07-09T22:57:33Z
 [Launched] Generally Available: Open AI GPT-5.6 on Azure Databricks,https://azure.microsoft.com/updates?id=567431,2026-07-09T20:21:12Z
 "Retirement: Support for Python-2.7; 3.8 and PowerShell- 7.1; 7.2 will be retired on September 30, 2026",https://azure.microsoft.com/updates?id=567556,2026-07-10T21:33:34Z
