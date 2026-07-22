@@ -1,16 +1,4 @@
 Title,Link,PublishedDate
-Announcing: GitHub Copilot and Claude Code connectors in Microsoft Agent Framework,https://azure.microsoft.com/updates?id=563701,2026-07-15T18:58:30Z
-Announcing: Multi-agent orchestration patterns including Magentic in Microsoft Agent Framework,https://azure.microsoft.com/updates?id=563571,2026-07-15T18:57:24Z
-Announcing: Agent Harness in Microsoft Agent Framework,https://azure.microsoft.com/updates?id=563546,2026-07-15T18:55:40Z
-Announcing: Multi-agent orchestration SDK with the Microsoft Foundry Agent Framework in C# and Python,https://azure.microsoft.com/updates?id=564312,2026-07-15T18:53:28Z
-Announcing: Tracing for Microsoft Agent Framework (Python and .NET),https://azure.microsoft.com/updates?id=564071,2026-07-15T18:51:45Z
-Announcing: CodeAct pattern and Hyperlight containers in Microsoft Agent Framework,https://azure.microsoft.com/updates?id=563566,2026-07-15T18:50:14Z
-Announcing: Episodic procedural memory in Microsoft Agent Framework,https://azure.microsoft.com/updates?id=563561,2026-07-15T18:48:54Z
-Announcing: Agent Channel for Microsoft Agent Framework multi-agent communication,https://azure.microsoft.com/updates?id=563556,2026-07-15T18:47:41Z
-[In preview] Public Preview: Azure SQL updates for mid-July 2026,https://azure.microsoft.com/updates?id=567426,2026-07-15T17:50:44Z
-[Launched] Generally Available: Expanding Azure Arc SQL Migration with SQL Server on Azure Virtual Machines,https://azure.microsoft.com/updates?id=567362,2026-07-15T17:35:31Z
-[In preview] Public Preview: Advanced platform metrics in Azure Monitor,https://azure.microsoft.com/updates?id=567726,2026-07-15T15:30:11Z
-Announcing: DevUI Agent Inspector for Microsoft Agent Framework,https://azure.microsoft.com/updates?id=563551,2026-07-15T15:15:25Z
 [Launched] Generally Available: Azure Functions support for Python 3.14,https://azure.microsoft.com/updates?id=567646,2026-07-17T17:47:00Z
 [Launched] Public Preview: Azure Functions Support for PowerShell 7.6,https://azure.microsoft.com/updates?id=567651,2026-07-17T17:44:00Z
 [Launched] Generally Available: Microsoft Defender security assessments for Azure Database for PostgreSQL Flexible Server,https://azure.microsoft.com/updates?id=567527,2026-07-17T14:55:28Z
