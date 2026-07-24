@@ -1,8 +1,4 @@
 Title,Link,PublishedDate
-[Launched] Generally Available: Azure Functions support for Python 3.14,https://azure.microsoft.com/updates?id=567646,2026-07-17T17:47:00Z
-[Launched] Public Preview: Azure Functions Support for PowerShell 7.6,https://azure.microsoft.com/updates?id=567651,2026-07-17T17:44:00Z
-[Launched] Generally Available: Microsoft Defender security assessments for Azure Database for PostgreSQL Flexible Server,https://azure.microsoft.com/updates?id=567527,2026-07-17T14:55:28Z
-[Launched] Generally Available: Encryption in Transit for Azure Files NFS Shares in Azure Kubernetes Service (AKS),https://azure.microsoft.com/updates?id=567787,2026-07-17T14:54:09Z
 [In preview] Public Preview: Protect sensitive generative AI telemetry in Application Insights and Microsoft Foundry,https://azure.microsoft.com/updates?id=567594,2026-07-20T15:09:43Z
 [Launched] Generally Available: IPv6 support for Azure VPN Gateway,https://azure.microsoft.com/updates?id=567847,2026-07-20T14:59:26Z
 [In preview] Public Preview: Standard service endpoint,https://azure.microsoft.com/updates?id=561475,2026-07-22T16:57:10Z
