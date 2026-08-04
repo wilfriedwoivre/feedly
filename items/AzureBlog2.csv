@@ -1,11 +1,4 @@
 Title,Link,PublishedDate
-[In preview] Public Preview: Azure Enclave,https://azure.microsoft.com/updates?id=568377,2026-07-28T18:51:02Z
-[Launched] Generally Available: NAT64 on StandardV2 NAT Gateway,https://azure.microsoft.com/updates?id=568409,2026-07-28T18:50:11Z
-[Launched] Generally Available: Application Routing with Gateway API,https://azure.microsoft.com/updates?id=567944,2026-07-28T16:54:22Z
-[Launched] Generally Available: Resource placement in Azure Kubernetes Fleet Manager,https://azure.microsoft.com/updates?id=567931,2026-07-28T16:52:51Z
-[In preview] Public Preview: Maximum allowed failures for update runs in Azure Kubernetes Fleet Manager,https://azure.microsoft.com/updates?id=567939,2026-07-28T16:51:04Z
-[In preview] Public Preview: Prepared Image Specification,https://azure.microsoft.com/updates?id=567949,2026-07-28T16:45:37Z
-[Launched] Generally Available: Microsoft Azure now available from new cloud region in India (India South Central),https://azure.microsoft.com/updates?id=568013,2026-07-28T15:40:55Z
 [In preview] Public Preview: Azure Monitor Logs mirroring into Microsoft Fabric,https://azure.microsoft.com/updates?id=568322,2026-07-29T18:52:32Z
 [Launched] Generally Available: Azure Sphere OS version 26.09 is now available for evaluation,https://azure.microsoft.com/updates?id=568466,2026-07-29T18:50:00Z
 [Launched] Generally Available: Azure Database for PostgreSQL flexible server in India South Central,https://azure.microsoft.com/updates?id=568334,2026-07-30T19:14:44Z
