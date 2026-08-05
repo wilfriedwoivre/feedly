@@ -9,3 +9,8 @@ Title,Link,PublishedDate
 [In preview] Public Preview: Azure SQL updates for late-July,https://azure.microsoft.com/updates?id=568139,2026-07-31T18:16:23Z
 [Launched] Generally Available: Trusted Launch as Default,https://azure.microsoft.com/updates?id=568600,2026-08-03T19:56:26Z
 [Launched] Generally Available: Immutability to the most recent seven days of backups on Azure SQL Database and Azure SQL Managed Instance,https://azure.microsoft.com/updates?id=568339,2026-08-03T17:00:56Z
+"Retirement: Nested confidential (cc_v5) VMs will be retired on September 1, 2026",https://azure.microsoft.com/updates?id=568661,2026-08-05T00:22:49Z
+[In preview] Public Preview: Perimeter link feature in network security perimeter,https://azure.microsoft.com/updates?id=568837,2026-08-04T18:30:09Z
+[In preview] Public Preview: Azure Private Link support over IPv6,https://azure.microsoft.com/updates?id=568842,2026-08-04T18:29:36Z
+[In preview] Public Preview: Azure DNS enables DNS-based load balancing through Traffic Manager integration,https://azure.microsoft.com/updates?id=565214,2026-08-04T17:04:55Z
+[Launched] Generally Available: Azure Virtual Network routing appliance,https://azure.microsoft.com/updates?id=568605,2026-08-04T17:03:38Z
