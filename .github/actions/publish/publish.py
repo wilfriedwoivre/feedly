@@ -157,7 +157,10 @@ def run():
             "Authorization": "Bearer " + responseJson["accessJwt"]
         }
 
-        requests.post(postUrl, json=record, headers=bluSkyheaders)
+        try:
+            requests.post(postUrl, json=record, headers=bluSkyheaders)
+        except Exception as e:
+            print(f"Error posting to BlueSky: {e}")
 
 
 
