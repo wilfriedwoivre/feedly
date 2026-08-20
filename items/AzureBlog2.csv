@@ -6,3 +6,9 @@ Title,Link,PublishedDate
 "Retirement: Azure VMware Solution License-included service will be retired August 30, 2027",https://azure.microsoft.com/updates?id=569535,2026-08-18T19:52:06Z
 [Launched] Generally Available: Managed Instance on Azure App Service,https://azure.microsoft.com/updates?id=568952,2026-08-18T17:26:25Z
 [In preview] Public Preview: Ipv6 support in Azure Firewall,https://azure.microsoft.com/updates?id=569520,2026-08-18T17:25:30Z
+[Launched] Generally Available: Azure Databricks Lakebase in four additional regions,https://azure.microsoft.com/updates?id=569684,2026-08-19T21:04:18Z
+[Launched] Generally Available: Azure SQL updates for mid-August 2026,https://azure.microsoft.com/updates?id=569145,2026-08-19T21:01:47Z
+[In preview] Public Preview: SQL Formatter in MSSQL extension,https://azure.microsoft.com/updates?id=569155,2026-08-19T21:00:19Z
+[Launched] Generally Available: Azure SQL Database provisioning in MSSQL extension,https://azure.microsoft.com/updates?id=569160,2026-08-19T20:59:19Z
+[Launched] Generally Available: vCore Customization: Disable Multithreading and Configurable Constrained Cores,https://azure.microsoft.com/updates?id=569051,2026-08-19T17:20:42Z
+[Launched] Generally Available: BYON (Bring Your Own NIC) in Azure Site Recovery,https://azure.microsoft.com/updates?id=569515,2026-08-19T16:36:30Z
