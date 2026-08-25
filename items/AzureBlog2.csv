@@ -7,3 +7,7 @@ Title,Link,PublishedDate
 [Launched] Generally Available: BYON (Bring Your Own NIC) in Azure Site Recovery,https://azure.microsoft.com/updates?id=569515,2026-08-19T16:36:30Z
 [Launched] Generally Available: Summarized advertised gateway prefixes for route advertisement,https://azure.microsoft.com/updates?id=569743,2026-08-20T17:02:23Z
 Announcing: Azure Copilot introduces direct access to agents,https://azure.microsoft.com/updates?id=569685,2026-08-20T16:08:02Z
+Announcing: Extended Support for Azure Database for PostgreSQL Flexible Server,https://azure.microsoft.com/updates?id=569526,2026-08-24T19:15:05Z
+[Launched] Generally Available: eBPF host routing in Advanced Container Networking Services for AKS,https://azure.microsoft.com/updates?id=569873,2026-08-24T18:36:01Z
+"Retirement: Support for Node 22 LTS ends on April 30, 2027",https://azure.microsoft.com/updates?id=567334,2026-08-24T17:30:43Z
+[Launched] Generally Available: Custom block response code and body for Application Gateway WAF,https://azure.microsoft.com/updates?id=569504,2026-08-24T17:25:03Z
