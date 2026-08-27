@@ -5,3 +5,9 @@ Announcing: Extended Support for Azure Database for PostgreSQL Flexible Server,h
 [Launched] Generally Available: Custom block response code and body for Application Gateway WAF,https://azure.microsoft.com/updates?id=569504,2026-08-24T17:25:03Z
 Announcing: Aspire 13.5 has shipped,https://azure.microsoft.com/updates?id=569910,2026-08-25T19:55:34Z
 [Launched] Generally Available: Azure 248 and 372 vCPU sizes for D/E v7 series VMs,https://azure.microsoft.com/updates?id=569546,2026-08-25T18:05:54Z
+[Launched] Generally Available: Azure Bastion shareable link expiration,https://azure.microsoft.com/updates?id=570020,2026-08-26T16:57:56Z
+[In preview] Public Preview: IPv6 dual-stack support for Azure Bastion,https://azure.microsoft.com/updates?id=570025,2026-08-26T16:56:29Z
+[Launched] Generally Available: Connect to AKS clusters using Azure Bastion,https://azure.microsoft.com/updates?id=570030,2026-08-26T16:55:25Z
+[In preview] Public Preview: Introducing Live Reports for Azure SRE Agent,https://azure.microsoft.com/updates?id=569690,2026-08-26T16:52:23Z
+[Launched] Generally Available: Azure SRE Agent VNet Integration,https://azure.microsoft.com/updates?id=569695,2026-08-26T16:51:31Z
+[Launched] Generally Available: Azure SRE Agent 30-Day Trial,https://azure.microsoft.com/updates?id=569760,2026-08-26T16:50:22Z
