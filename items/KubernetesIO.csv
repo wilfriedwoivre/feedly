@@ -2,3 +2,4 @@ Title,Link,PublishedDate
 Kubernetes v1.37: Pod Certificates and Cluster Trust Bundles,https://kubernetes.io/blog/2026/08/28/kubernetes-v1-37-pod-certificates-and-cluster-trust-bundles/,"Fri, 28 Aug 2026 10:30:00 -0800"
 Kubernetes v1.37: Storage Version Migration Enabled by Default,https://kubernetes.io/blog/2026/08/31/kubernetes-v1-37-storage-version-migration-ga/,"Mon, 31 Aug 2026 10:30:00 -0800"
 Kubernetes v1.37: etcd RangeStream Cuts Memory Use on Large List Reads,https://kubernetes.io/blog/2026/09/01/kubernetes-v1-37-etcd-range-stream/,"Tue, 01 Sep 2026 10:30:00 -0800"
+Kubernetes v1.37: Scale Workloads to Zero with HorizontalPodAutoscaler,https://kubernetes.io/blog/2026/09/02/kubernetes-v1-37-hpa-scale-to-zero-beta/,"Wed, 02 Sep 2026 10:30:00 -0800"
