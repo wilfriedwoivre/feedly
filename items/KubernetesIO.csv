@@ -1,3 +1,4 @@
 Title,Link,PublishedDate
 Kubernetes v1.37: Advancing Workload-Aware Scheduling,https://kubernetes.io/blog/2026/09/08/kubernetes-v1-37-advancing-workload-aware-scheduling/,"Tue, 08 Sep 2026 10:30:00 -0800"
 Kubernetes v1.37: Introducing Node Lifecycle Conditions,https://kubernetes.io/blog/2026/09/09/kubernetes-v1-37-node-lifecycle-conditions/,"Wed, 09 Sep 2026 10:30:00 -0800"
+Kubernetes v1.37: Scheduler Preemption for In-Place Pod Resize (Alpha),https://kubernetes.io/blog/2026/09/10/kubernetes-v1-37-scheduler-preemption-for-in-place-pod-resize-alpha/,"Thu, 10 Sep 2026 10:30:00 -0800"
