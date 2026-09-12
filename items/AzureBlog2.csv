@@ -5,3 +5,5 @@ Title,Link,PublishedDate
 [Launched] Generally Available: Azure Ephemeral OS Disk with full caching for VM/VMSS,https://azure.microsoft.com/updates?id=570551,2026-09-09T21:24:37Z
 [Launched] Generally Available: TLS/SSL certificate and end-to-end TLS encryption support for Azure Functions Flex Consumption,https://azure.microsoft.com/updates?id=570940,2026-09-10T16:12:49Z
 [Launched] Generally Available: Azure Copilot Troubleshooting Agent,https://azure.microsoft.com/updates?id=570980,2026-09-10T15:25:52Z
+Retirement: Azure Linux with OS Guard in Azure Kubernetes Service,https://azure.microsoft.com/updates?id=571257,2026-09-11T18:08:28Z
+[In preview] Public Preview: Agentless migration of on-premises SMB file shares to Azure Files (SMB),https://azure.microsoft.com/updates?id=570910,2026-09-11T15:58:56Z
