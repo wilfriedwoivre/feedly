@@ -1,5 +1,3 @@
 Title,Link,PublishedDate
-Kubernetes Changed Block Tracking API - Beta Differences,https://kubernetes.io/blog/2026/09/14/csi-changed-block-tracking-beta/,"Mon, 14 Sep 2026 10:30:00 -0800"
-Kubernetes v1.37: Memory QoS Graduates to Beta,https://kubernetes.io/blog/2026/09/14/kubernetes-v1-37-memory-qos-graduates-to-beta/,"Mon, 14 Sep 2026 10:30:00 -0800"
 Kubernetes v1.37: Pod-Level Resource Managers graduated to Beta,https://kubernetes.io/blog/2026/09/15/kubernetes-v1-37-pod-level-resource-managers-beta/,"Tue, 15 Sep 2026 10:30:00 -0800"
 Kubernetes v1.37: Hardening Container Storage with Bind Mount Options and EmptyDir Permissions,https://kubernetes.io/blog/2026/09/16/kubernetes-v1-37-hardening-container-storage/,"Wed, 16 Sep 2026 10:30:00 -0800"
