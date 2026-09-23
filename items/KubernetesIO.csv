@@ -1,3 +1,2 @@
 Title,Link,PublishedDate
-Kubernetes v1.37: Hardening Container Storage with Bind Mount Options and EmptyDir Permissions,https://kubernetes.io/blog/2026/09/16/kubernetes-v1-37-hardening-container-storage/,"Wed, 16 Sep 2026 10:30:00 -0800"
 Kubernetes v1.37: Tracking When a PersistentVolumeClaim Was Last Used (Beta),https://kubernetes.io/blog/2026/09/21/kubernetes-v1-37-pvc-last-used-time/,"Mon, 21 Sep 2026 10:30:00 -0800"
