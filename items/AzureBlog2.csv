@@ -12,3 +12,5 @@ Title,Link,PublishedDate
 [Launched] Generally Available: Azure Sphere OS version 26.09 is now available,https://azure.microsoft.com/updates?id=572579,2026-09-21T18:44:49Z
 [In preview] Public Preview: Introducing a Guided Copilot Experience for Building Azure Apps in VS Code,https://azure.microsoft.com/updates?id=572214,2026-09-21T16:58:19Z
 [Launched] Generally Available: Azure Functions support for PowerShell 7.6,https://azure.microsoft.com/updates?id=572219,2026-09-21T16:55:34Z
+"Retirement: Support for Node.js 22 ends on April 30, 2027",https://azure.microsoft.com/updates?id=572771,2026-09-22T19:22:34Z
+[In preview] Public Preview: Flex Nodes for AKS,https://azure.microsoft.com/updates?id=571919,2026-09-22T18:51:48Z
