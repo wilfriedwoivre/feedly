@@ -8,3 +8,5 @@ Title,Link,PublishedDate
 [Launched] Generally Available: Azure Container Apps Express,https://azure.microsoft.com/updates?id=559242,2026-09-23T18:50:49Z
 "Retirement: Support for PowerShell 7.4 ends on November 10, 2026",https://azure.microsoft.com/updates?id=572770,2026-09-23T16:50:05Z
 "Retirement: Support for .NET 8 and .NET 9 ends on November 10, 2026—upgrade your apps to .NET 10",https://azure.microsoft.com/updates?id=572838,2026-09-23T16:46:49Z
+"Retirement: Azure Communication Services (ACS) standalone services will be retired on September 30, 2028",https://azure.microsoft.com/updates?id=557117,2026-09-24T17:51:23Z
+[Launched] Generally Available: Instant Access for VM restore points,https://azure.microsoft.com/updates?id=572573,2026-09-24T16:04:16Z
