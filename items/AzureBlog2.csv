@@ -1,31 +1,4 @@
 Title,Link,PublishedDate
-Retirement: Azure Functions v1 hosting model on Azure Container Apps,https://azure.microsoft.com/updates?id=570800,2026-09-29T19:41:09Z
-[Launched] Generally Available: Storage optimized Lasv5 and Laosv5 Azure VM series,https://azure.microsoft.com/updates?id=572630,2026-09-29T19:27:09Z
-[In preview] Public Preview: Automatic Zone Placement for Virtual Machine Scale Sets,https://azure.microsoft.com/updates?id=571075,2026-09-29T19:17:59Z
-[Launched] Generally Available: Azure Arc-enabled SQL Server in Germany West Central,https://azure.microsoft.com/updates?id=570696,2026-09-29T19:07:44Z
-[Launched] Generally Available: Azure Arc-enabled SQL Server Available in Italy North,https://azure.microsoft.com/updates?id=570763,2026-09-29T19:06:50Z
-[In preview] Public Preview: Azure Database for PostgreSQL Ultra Disk,https://azure.microsoft.com/updates?id=571909,2026-09-29T18:14:46Z
-[In preview] Public Preview: SQL Performance Monitoring for Azure SQL Database,https://azure.microsoft.com/updates?id=571867,2026-09-29T18:13:31Z
-[In preview] Public Preview: Performance monitoring for Azure Arc–enabled SQL Server,https://azure.microsoft.com/updates?id=571904,2026-09-29T18:11:15Z
-[Launched] Generally Available: Azure SQL updates for late-September 2026,https://azure.microsoft.com/updates?id=571643,2026-09-29T18:05:11Z
-[Launched] Generally Available: Azure Database for PostgreSQL Flexible Server supports cross-tenant customer-managed keys (CMK),https://azure.microsoft.com/updates?id=571783,2026-09-29T17:57:36Z
-[In preview] Public preview: Script-based deployment for SQL Server on Linux Azure VM,https://azure.microsoft.com/updates?id=571810,2026-09-29T17:52:59Z
-[Launched] Generally Available: SQL Server on Azure Local Disconnected (ALDO),https://azure.microsoft.com/updates?id=571836,2026-09-29T17:51:34Z
-[Launched] Generally Available: SQL Server support on Azure Local connected mode,https://azure.microsoft.com/updates?id=571841,2026-09-29T17:50:20Z
-[In preview] Public Preview: Azure SQL updates for late-September 2026,https://azure.microsoft.com/updates?id=571846,2026-09-29T17:49:15Z
-[Launched] Generally Available: Database DevOps in SSMS powered by SQL projects,https://azure.microsoft.com/updates?id=571852,2026-09-29T17:42:47Z
-[In preview] Public Preview: Azure SQL Database Hyperscale Serverless auto-pause and auto-resume,https://azure.microsoft.com/updates?id=571857,2026-09-29T17:40:40Z
-[Launched] Generally Available: SQL Formatter,https://azure.microsoft.com/updates?id=571872,2026-09-29T17:39:36Z
-"[Launched] Generally Available: SQL Migration Agent Skills for assessment, migration, and validation",https://azure.microsoft.com/updates?id=571899,2026-09-29T17:38:16Z
-"Retirement: Azure Arc enabled System Center Virtual Machine Manager will be retired September 30, 2029",https://azure.microsoft.com/updates?id=570283,2026-09-29T17:36:13Z
-"[In preview] Public Preview: Migrate directly from Azure Arc to Azure SQL Database, including Hyperscale",https://azure.microsoft.com/updates?id=571795,2026-09-29T17:34:44Z
-[In preview] Public Preview: Microsoft SQL Agent Skills,https://azure.microsoft.com/updates?id=573003,2026-09-29T17:31:11Z
-[In preview] Public Preview: Long-term retention (LTR) v2 for Azure Database for PostgreSQL,https://azure.microsoft.com/updates?id=571914,2026-09-29T17:28:57Z
-Retirement: Microsoft HPC Pack,https://azure.microsoft.com/updates?id=570046,2026-09-29T17:26:50Z
-"Retirement: Azure IoT Central will be retired on September 20, 2029",https://azure.microsoft.com/updates?id=569914,2026-09-29T17:25:10Z
-[Launched] Generally Available: Support for large volume breakthrough mode,https://azure.microsoft.com/updates?id=573027,2026-09-29T17:12:40Z
-[Launched] Generally Available: Storage with cool access enhancement,https://azure.microsoft.com/updates?id=573032,2026-09-29T17:09:58Z
-[In preview] Public Preview : Microsoft entra kerberos authentication for Azure NetApp Files,https://azure.microsoft.com/updates?id=573041,2026-09-29T17:07:55Z
 [In preview] Public Preview: SQL performance monitoring for SQL Server on Azure Virtual Machines,https://azure.microsoft.com/updates?id=571894,2026-09-30T21:13:13Z
 Retirement: NVv3-series Azure Virtual Machines,https://azure.microsoft.com/updates?id=573414,2026-09-30T18:26:47Z
 Retirement: NVv4-series Azure Virtual Machines,https://azure.microsoft.com/updates?id=573415,2026-09-30T18:24:01Z
@@ -35,5 +8,4 @@ Announcing: Azure canvases for GitHub Copilot,https://azure.microsoft.com/update
 "Retirement: Transition to using standard tests for single-step availability testing in Azure Monitor application insights by September 30, 2028",https://azure.microsoft.com/updates?id=transition-to-using-standard-tests-for-singlestep-availability-testing-in-azure-monitor-application-insights-by-30-september,2026-09-30T16:18:26Z
 [In preview] Public Preview: Reader Endpoint for Azure Database for MySQL,https://azure.microsoft.com/updates?id=569653,2026-10-01T17:57:11Z
 "Retirement: DCsv3 and DCdsv3-series Azure Virtual Machines will be retired on October 31, 2029",https://azure.microsoft.com/updates?id=569592,2026-10-01T17:02:55Z
-Retirement: Functions on Azure Container Apps V1,https://azure.microsoft.com/updates?id=570800,2026-09-29T19:41:09Z
 [In preview] Public Preview:  Major version upgrades (MVU) for Azure Database for PostgreSQL elastic clusters,https://azure.microsoft.com/updates?id=571504,2026-10-02T17:35:21Z
