@@ -6,3 +6,7 @@ Title,Link,PublishedDate
 [Launched] Generally Available: External key management for Azure Key Vault Managed HSM,https://azure.microsoft.com/updates?id=574296,2026-10-16T16:50:27Z
 [Launched] Generally Available: Metrics usage insights for Azure Monitor workspace,https://azure.microsoft.com/updates?id=577165,2026-10-19T20:23:15Z
 [Launched] Generally Available: Azure DNS enables DNS-based load balancing through Traffic Manager linked records,https://azure.microsoft.com/updates?id=573917,2026-10-19T17:55:40Z
+[In preview] Public Preview: Disable VNet peering route,https://azure.microsoft.com/updates?id=576242,2026-10-20T18:55:47Z
+[Launched] Generally Available: Service tag match condition for Azure Front Door Premium WAF,https://azure.microsoft.com/updates?id=577156,2026-10-20T16:57:35Z
+[Launched] Generally Available: Keyless TLS on Application Gateway with Azure Key Vault Managed HSM,https://azure.microsoft.com/updates?id=577130,2026-10-20T16:55:59Z
+[Launched] Generally Available: Advanced platform metrics for Azure Monitor,https://azure.microsoft.com/updates?id=575329,2026-10-20T16:54:24Z
