@@ -4,3 +4,6 @@ Title,Link,PublishedDate
 [Launched] Generally Available: Higher limit of Azure Blob Storage accounts per region per subscription,https://azure.microsoft.com/updates?id=578358,2026-10-27T21:16:52Z
 [Launched] Generally Available: Cost management and tagging for Claude models in Microsoft Foundry,https://azure.microsoft.com/updates?id=577260,2026-10-27T17:19:43Z
 [Launched] Generally Available: Azure Front Door profile and route level WAF policies,https://azure.microsoft.com/updates?id=578153,2026-10-27T16:58:04Z
+Announcing: Migrate Azure Container Apps logging destination from Log Analytics to Azure Monitor,https://azure.microsoft.com/updates?id=577689,2026-10-28T17:52:51Z
+[In preview] Public Preview: Cross Tenant Restore with Azure Backup,https://azure.microsoft.com/updates?id=577117,2026-10-28T17:09:30Z
+[Launched] Generally Available: Marketplace private offer enhancements,https://azure.microsoft.com/updates?id=576547,2026-10-28T16:23:43Z
