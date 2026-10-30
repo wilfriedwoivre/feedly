@@ -6,3 +6,6 @@ Title,Link,PublishedDate
 Announcing: Migrate Azure Container Apps logging destination from Log Analytics to Azure Monitor,https://azure.microsoft.com/updates?id=577689,2026-10-28T17:52:51Z
 [In preview] Public Preview: Cross Tenant Restore with Azure Backup,https://azure.microsoft.com/updates?id=577117,2026-10-28T17:09:30Z
 [Launched] Generally Available: Marketplace private offer enhancements,https://azure.microsoft.com/updates?id=576547,2026-10-28T16:23:43Z
+[Launched] Generally Available: Large OS Disk Encryption for Azure Confidential VM migrations,https://azure.microsoft.com/updates?id=578850,2026-10-29T21:19:52Z
+[Launched] Generally Available: HTTP DDoS ruleset for Azure Front Door Premium WAF,https://azure.microsoft.com/updates?id=578681,2026-10-29T17:09:49Z
+[Launched] Generally Available: Azure MCP Server 3.0,https://azure.microsoft.com/updates?id=578662,2026-10-29T17:04:58Z
