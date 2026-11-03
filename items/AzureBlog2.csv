@@ -6,3 +6,11 @@ Announcing: Migrate Azure Container Apps logging destination from Log Analytics 
 [Launched] Generally Available: HTTP DDoS ruleset for Azure Front Door Premium WAF,https://azure.microsoft.com/updates?id=578681,2026-10-29T17:09:49Z
 [Launched] Generally Available: Azure MCP Server 3.0,https://azure.microsoft.com/updates?id=578662,2026-10-29T17:04:58Z
 [In preview] Public Preview: Support database-level managed identity (including FIC) in Create Database Scoped Credential T-SQL,https://azure.microsoft.com/updates?id=577491,2026-10-30T17:16:27Z
+[In preview] Public Preview: On-prem NAS share discovery and assessment are now available using Azure Migrate,https://azure.microsoft.com/updates?id=577975,2026-11-02T19:37:11Z
+Retirement: OT security in Microsoft Defender for IoT,https://azure.microsoft.com/updates?id=576255,2026-11-02T19:22:28Z
+[Launched] Generally Available: Change from virtual network integration to a private endpoint capable network configuration in Azure Database for PostgreSQL flexible server,https://azure.microsoft.com/updates?id=574541,2026-11-02T19:20:33Z
+Retirement: Azure Fluid Relay,https://azure.microsoft.com/updates?id=570498,2026-11-02T19:01:41Z
+"[Launched] Generally Available: Azure Storage Actions adds automatic task updates, execution controls, and case-sensitive matching",https://azure.microsoft.com/updates?id=578628,2026-11-02T18:34:01Z
+[Launched] Generally Available: Restart databases in Azure SQL DB via the Azure portal,https://azure.microsoft.com/updates?id=577992,2026-11-02T18:02:48Z
+[Launched] Generally Available: Geo-Replication on partitioned namespaces for Azure Service Bus Premium,https://azure.microsoft.com/updates?id=579021,2026-11-02T18:00:51Z
+[Launched] Generally Available: Azure Site Recovery for Azure Local,https://azure.microsoft.com/updates?id=579111,2026-11-02T17:49:48Z
