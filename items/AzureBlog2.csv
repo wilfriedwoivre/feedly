@@ -3,3 +3,8 @@ Title,Link,PublishedDate
 [Launched] Generally Available: WAF Insights for Azure Application Gateway,https://azure.microsoft.com/updates?id=579280,2026-11-05T17:11:31Z
 "Retirement: Support for .NET 8 and .NET 9 on Static Web Apps is ending November 10, 2026",https://azure.microsoft.com/updates?id=575106,2026-11-09T22:50:01Z
 [In preview] Public Preview: Modernize Arc-enabled Windows Servers with Azure File Sync,https://azure.microsoft.com/updates?id=579854,2026-11-09T17:20:57Z
+[In preview] Public Preview: Distributed accelerator for cloud storage on AKS,https://azure.microsoft.com/updates?id=578454,2026-11-10T20:08:32Z
+[Launched] Generally Available: Azure Functions support for .NET 11,https://azure.microsoft.com/updates?id=578773,2026-11-10T20:07:45Z
+[In preview] Public Preview: Azure Front Door adds native gRPC support,https://azure.microsoft.com/updates?id=579383,2026-11-10T18:55:53Z
+[Launched] Generally Available: Azure Front Door edge actions,https://azure.microsoft.com/updates?id=579310,2026-11-10T18:55:09Z
+Public Preview: Azure Route Server dual-stack IPv4/IPv6 support,https://azure.microsoft.com/updates?id=579746,2026-11-10T18:21:41Z
