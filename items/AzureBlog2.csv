@@ -1,9 +1,4 @@
 Title,Link,PublishedDate
-[Launched] Generally Available: Azure Database for PostgreSQL stable REST API version 2026-10-01,https://azure.microsoft.com/updates?id=579300,2026-11-04T18:42:12Z
-Generally Available: Route maps for Azure Route Server,https://azure.microsoft.com/updates?id=578966,2026-11-04T18:39:41Z
-[In preview] Public Preview: Azure Firewall IPv6 now supports application rules,https://azure.microsoft.com/updates?id=579507,2026-11-04T18:09:43Z
-"Retirement: Transition to Entra ID (formerly known as Azure AD) to query data from Azure Monitor application insights by March 31, 2027",https://azure.microsoft.com/updates?id=transition-to-azure-ad-to-query-data-from-azure-monitor-application-insights-by-31-march-2026,2026-11-04T17:40:28Z
-[In preview] Public Preview: Multi-disk crash-consistent VM restore points for Premium SSD v2 and Ultra Disks on VMs with SCSI disk controller,https://azure.microsoft.com/updates?id=579162,2026-11-04T17:13:51Z
 [Launched] Generally Available: Azure Front Door TLS key exchange policy with post-quantum support,https://azure.microsoft.com/updates?id=577668,2026-11-05T23:19:48Z
 [Launched] Generally Available: WAF Insights for Azure Application Gateway,https://azure.microsoft.com/updates?id=579280,2026-11-05T17:11:31Z
 "Retirement: Support for .NET 8 and .NET 9 on Static Web Apps is ending November 10, 2026",https://azure.microsoft.com/updates?id=575106,2026-11-09T22:50:01Z
