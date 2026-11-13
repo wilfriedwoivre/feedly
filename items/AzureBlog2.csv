@@ -7,3 +7,7 @@ Title,Link,PublishedDate
 [Launched] Generally Available: Azure Front Door edge actions,https://azure.microsoft.com/updates?id=579310,2026-11-10T18:55:09Z
 Public Preview: Azure Route Server dual-stack IPv4/IPv6 support,https://azure.microsoft.com/updates?id=579746,2026-11-10T18:21:41Z
 [In preview] Public Preview: Rate limit grouping for Azure Front Door Premium WAF,https://azure.microsoft.com/updates?id=580155,2026-11-11T18:18:27Z
+[In preview] Public Preview: JWT validation with Azure Front Door Auth Policy,https://azure.microsoft.com/updates?id=577673,2026-11-12T22:36:37Z
+[Launched] Generally Available: Azure Front Door mutual TLS authentication,https://azure.microsoft.com/updates?id=577678,2026-11-12T22:27:35Z
+[In preview] Public Preview: Auto scaling of ingestion limits in Azure Monitor workspace,https://azure.microsoft.com/updates?id=578207,2026-11-12T18:23:52Z
+[In preview] Public Preview: SQL performance monitoring for Azure SQL Managed Instance,https://azure.microsoft.com/updates?id=574158,2026-11-12T16:59:40Z
